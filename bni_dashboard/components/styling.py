@@ -115,11 +115,11 @@ def inject_global_css():
             radial-gradient(circle at 74% 96%, {WONDR_PURPLE}dd 0 10%, transparent 10.5%),
             radial-gradient(circle at 60% 8%, {WONDR_CREAM}bb 0 7%, transparent 7.5%),
             linear-gradient(120deg, {WONDR_ORANGE} 0%, {WONDR_ORANGE_DEEP} 100%);
-        padding: 28px 32px; border-radius: 14px; color: white; margin-bottom: 18px;
+        padding: 28px 32px; border-radius: 14px; color: #333333; margin-bottom: 18px;
         box-shadow: none;
     }}
     .bni-header .accent {{ color: {WONDR_LIME}; }}
-    .bni-header .subtitle {{ color: #FFF1E4; font-size: 1.0rem; margin-top: 6px; }}
+    .bni-header .subtitle {{ color: #333333; font-size: 1.0rem; margin-top: 6px; }}
     .bni-badge {{ display:inline-block; padding:2px 10px; border-radius:999px; font-size:0.72rem;
                   font-weight:700; letter-spacing:0.02em; text-transform:uppercase; }}
     .section-tag {{ color:{ORANGE}; font-weight:700; letter-spacing:0.08em; font-size:0.78rem;

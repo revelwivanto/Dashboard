@@ -24,8 +24,8 @@ inject_global_css()
 # ---------------------------------------------------------------- header --
 st.markdown(f"""
 <div class="bni-header">
-  <div style="font-size:0.75rem;letter-spacing:0.1em;color:#FFE2CC;text-transform:uppercase;">Credits to Hafizh Yasril and Revel</div>
-  <h1 style="color:white;margin:6px 0 0 0;">Legal Document Creation, Citation with RAG <span class="accent">&amp;</span> Procurement Efficiency / Anti-Corruption</h1>
+  <div style="font-size:0.75rem;letter-spacing:0.1em;color:#333333;text-transform:uppercase;">Credits to Hafizh Yasril and Revel</div>
+  <h1 style="color:#333333;margin:6px 0 0 0;">Legal Document Creation, Citation with RAG <span class="accent">&amp;</span> Procurement Efficiency / Anti-Corruption</h1>
   <div class="subtitle">Evidence-based laptop procurement benchmarking, RAG-grounded legal document intelligence, and governance indicators — for BNI management review.</div>
 </div>
 """, unsafe_allow_html=True)
