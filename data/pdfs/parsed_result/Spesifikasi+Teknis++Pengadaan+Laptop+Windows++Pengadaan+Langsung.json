@@ -1,0 +1,20 @@
+{
+  "request_id": "67517156",
+  "department": "Direktorat Sistem Pengadaan Digital",
+  "item_category": "Laptop",
+  "requested_unit_price": 42000000.0,
+  "historical_avg_price": 40000000.0,
+  "price_variance_ratio": 0.05,
+  "quantity": 2,
+  "total_amount": 84000000.0,
+  "vendor_risk_score": 0.0,
+  "dept_budget_remaining": 100000000.0,
+  "is_urgent": 0,
+  "search_summary": {
+    "specs_searched": "Laptop Intel Ultra 7, 14 inch, 16GB RAM, 512GB SSD, Win 11 Pro",
+    "cheapest_vendor_found": "Global Tech Solutions",
+    "vendor_channel_type": "E-Katalog",
+    "real_price": 41500000.0,
+    "price_savings_vs_requested": 500000.0
+  }
+}

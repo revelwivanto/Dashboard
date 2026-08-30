@@ -1,0 +1,1127 @@
+Day 1
+Divisi DMA ada 4 yaitu:
+Data Science & AI
+Sub-divisi ini adalah "Otak Prediktif". Tugas mereka bukan cuma melihat data masa lalu, tapi meramal masa depan dan bikin sistem otomatis yang pintar pakai Machine Learning dan AI.
+Pemisalan: BNI pengen tahu nasabah mana saja yang kira-kira bakal tertarik kalau ditawari kartu kredit baru (use case). Tim Data Science bakal bikin model AI yang menganalisis riwayat transaksi nasabah.
+Personalisasi per use case: Kalau sistem mendeteksi kamu sering transaksi di restoran dan bioskop, AI akan otomatis ngasih promo yang kamu banget via aplikasi wondr by BNI, beda dengan promo yang diterima orang lain.
+Information Delivery
+Sub-divisi ini fungsinya sebagai "Penerjemah Data". Data bank itu aslinya mentah, rumit, dan jutaan baris. Tim ini yang menyaring dan membungkus data itu jadi laporan yang cantik dan gampang dibaca oleh tim bisnis.
+Tools yang dipakai: Impala SQL (buat narik data raksasa), Python (buat olah data), dan Tableau (buat bikin grafik/dashboard).
+Pemisalan: Seorang Relationship Manager (RM) BNI pengen tahu performa dana pihak ketiga di cabangnya bulan ini. Daripada si RM pusing ngeliat ribuan baris angka di database, tim Information Delivery bikin satu halaman Dashboard Tableau yang interaktif. Sekali klik, RM langsung tahu targetnya kurang berapa persen lagi.
+Business Analytics
+Kalau Information Delivery fokus ke visualisasi data, tim Business Analytics fokus pada "Eksekusi Kampanye Bisnis". Mereka menerima request data spesifik untuk langsung dipakai jualan (leads) dan memantau hasilnya (campaign monitoring).
+Pemisalan: Tim Sales BNI pusat mau bikin program "Suku Bunga Spesial KPR". Mereka request ke tim Business Analytics: "Tolong cariin data nasabah yang tabungannya di atas 500 juta dan belum punya KPR." Tim BA akan narik data tersebut (Leads), kasih ke Sales buat ditelepon, dan setelah sebulan, tim BA bakal bikin laporan (Campaign Monitoring) untuk melihat berapa banyak nasabah yang akhirnya beneran ambil KPR dari list tersebut.
+Data Management & Governance
+Ini adalah "Pondasi dan Satpam Data". Tanpa tim ini, data bank bakal berantakan, lemot, atau bahkan bocor. Mereka memastikan infrastruktur siap dan data yang dipakai itu valid serta aman.
+Platform & Engineering: Yang bangun "jalan tol" dan gudang datanya (data pipeline).
+Data Gov & RR (Risk & Regulation/Risk Management): Yang bikin aturan siapa saja yang boleh akses data dan memastikan semuanya patuh aturan OJK/BI.
+Pemisalan: Tim Engineering memastikan data transaksi ATM dari seluruh Indonesia bisa masuk ke database pusat BNI tiap detik tanpa crash. Sementara tim Data Gov memastikan data sensitif seperti nomor PIN atau saldo nasabah tidak bisa diintip sembarangan oleh staf yang tidak berkepentingan.
+Secured Lending Consumer Product
+KPR BNI Griya
+Apa keunggulannya?
+Suku bunga ringan
+Tenor fleksibel hingga 30 tahun
+Pengajuan mudah melalui eform
+
+BNI Griya Pembelian
+Merupakan fasilitas kredit kepemilikan rumah (KPR) yang dapat digunakan untuk tujuan pembelian property baru maupun seken. 
+Ada pun buy back guarantee jika semisal bangunan tidak selesai jika memang sudah ada perjanjian kerja sama
+Loan to value (LtV) masih ada dibawah naungan Bank Indonesia
+Fix rate tergantung kebijakan dan BI, jika suku bunga BI naik seperti kasus sekarang naik 100 BPS, maka suku bunga bisa naik/tidak tergantung kebijakan dari bank. 
+Floating rate tergantung bunga bank
+Pembelian rumah, rusun, apartemen tenor 30 tahun
+Pembelian ruko/rukan/kavling tenor 10 tahun
+
+BNI Griya Pembangunan & Renovasi
+Merupakan fasilitas pebiayaan kredit pemilikan Rumah (KPR) yang dapat dimanfaatkan untuk pembangunan dan renovasi
+Loan to Value <=70m2 100%, >70 85%
+
+BNI Griya Take Over
+Fasilitas pembiayaan untuk tujuan mengambil alih fasilitas KPR dari bank lain ke BNI Griya
+rumah/apartemen maksimal 25 tahun
+ruko/rukan/multiguna maksimal 10 tahun
+
+
+BNI Griya Top up
+Merupakan fasilitas kredit berupa penambahan plafon pinjaman bagi debitur eksisting BNI Griya yang dapat digunakan untuk keperluan konsumtif. Harga properti di indonesia cenderung naik terutama diwilayah2 yang strategis dan untuk KPR tidak ada namanya depresiasi harga bangunan
+Loan to Value <=70m2 90%, >70 85%
+umah/apartemen maksimal 25 tahun
+ruko/rukan/multiguna maksimal 10 tahun
+Syarat pengajuan:
+Kredit telah berjalan minimal 1 tahun
+Riwayat pembayaran lancar
+Mengecek gaji first layout
+Adapun pengikatan berupa:
+Rumah dibawah <=70 maka dihargai 110%
+Rumah diatas >70 maka dihargai 125%
+
+BNI Griya Refinancing dan BNI Griya Multiguna
+Refinancing
+Pemohon atau pasangan pemohon atau pihak ketiga
+Maksimum 20 milyar
+Maksimum 25 tahun
+Maksimum 90% dari nilai
+Multiguna
+Pemohon atau pasangan pemohon
+Maksimum 5 miltar
+Maksimum 10 tahun
+Maksimum 85% apabila jaminan bukan merupakan tempat tinggal debitur, maka LTV maksimum 90%
+
+BNI Griya Komersil
+Syarat debt service ratio
+penghasilan
+DSR
+<= 20 jt
+50
+20-50jt
+60
+50-250jt
+70
+250jt 
+80
+
+
+
+
+
+
+Biaya pengajuan BNI Griya
+
+Provisi 1% dari plafon kredit
+Administrasi
+
+Plafom kredit
+administrasi
+Kurang dari 1 M
+750ribu
+1-5 M
+1 juta
+5-10 M
+1.3 juta
+>10 M
+2.5 juta
+
+
+
+KPR Sejahtera BNI (KPR Subsidi)
+Merupakan fasilitas pembiayaan perumahan yang ditujukan bagi masyarakat berpenghasilan rendah dengan skema seperti ini 75% dana APNB + 25% dana BNI. Fitur produknya adalah:
+Bunga ringan 5% sampai lunas
+Jangka panjang maksimum 20 tahun
+Diberikan kepada MBR dan udh ada ketentuan dengan 4 zona
+Harga sudah diatur oleh pemerintah
+
+BNI Instan
+Jaminannya adalah deposito/giro/tabungan/sbn, biasanya digunakan oleh nasabah emerald.
+Suku bunga
+mulai dari 2% diatas suku bnga agunan yang diajukan
+Bentuk kredit
+	Rc terbatas, angsuran pokok dibayar sekaligus saat jatuh tempo
+	Aflopende, angsuran pokok dan bunga dibayar setiap bulan sampai jatuh tempo
+Tenor
+	Rc terbatas maksimal 12 bulan
+	Aflopend maksimal 60 bulan
+LtV 
+DPK sebagia jaminan dan maksimal 95% dari nilai simpanan yang dijaminkan
+
+
+
+
+
+
+
+
+
+KTA BNI Fleksi
+Digunakan untuk keperluan konsumtif seperti memenuhi kebutuhan lifestyle, travelling, dll
+
+Pola pemasaran
+Pola kerjasama
+PKS BNI Fleksi
+PRS/NON-PRS Payroll
+Persetujuan Khusus Divisi CRS
+Pola Individu
+Payroll BNI
+
+Adapun penjelasannya seperti dibawah ini
+How to execute
+Pola kerjasama
+Penawaran fleksi pre-approved
+Supply dataleads eligible melalui digisales
+Tiering suku bunga sesuai kategori institusi/perusahaan
+Akuisisi payroll NTB bundling fleksi dengan pricing khusus
+Pola individu
+Supply dataleads nasabah ETB melalui digisales
+Melalui organisasi/komunitas/ekosistem untuk akuisisi nasabah segment profesional
+Channel pemasaran
+Pola kerjasama
+Digital loan via wondr by BNI
+Telesales Fleksi
+Followw-up dataleads dan canvassing oleh sales/RM institusi di Kp/Wil/Cabang
+Mitra kerjasama
+Pola individu
+Followup dataleads melalui digisales
+Canvassing ke organisasi/komunitas/ekosistem potensial
+Skema
+Pola kerjasama
+Fleksi corporate client
+Limit 500 jt
+Tenor kredit ma 15 tahun
+Suku bunga payroll 8,50% 
+Fleksi non-corporate client
+Bisnis kecil2an seperti toko bangunan, warung, dll
+Fleksi pendidikan
+Untuk biaya riset, dll
+Fleksi prapurna & purna
+Untuk orang yang mau pensiun atau untuk masa pensiun
+Pola individu
+Fleksi non-payroll
+Fleksi profesi
+Fleksi emerald
+Fleksi payroll individu
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Day 2
+Navigating the Storm
+Dasar Makroekonomi (Macroeconomics 101)
+Pendekatan Menghitung PDB (Produk Domestik Bruto)
+PDB didefinisikan sebagai nilai total produk final berupa barang dan jasa yang diproduksi di suatu wilayah dalam kurun waktu tertentu. Di Indonesia, sekitar 53–55% PDB berasal dari konsumsi rumah tangga (Household Consumption). Oleh karena itu, ketika daya beli masyarakat melemah, pertumbuhan ekonomi Indonesia akan ikut melambat meskipun investasi atau ekspor masih cukup baik. 
+Terdapat 3 metode penghitungan:
+Metode Pengeluaran: Menjumlahkan total pengeluaran pelaku ekonomi dengan rumus . Ini adalah metode yang paling banyak digunakan di dunia.
+Metode Pendapatan: Menjumlahkan total balas jasa faktor produksi, rumusnya $\text{GDP} = \text{Rent} + \text{Wage} + \text{Interest} + \text{Profit}$. Metode ini jarang dipakai di negara berkembang karena sulitnya pengumpulan data.
+Metode Nilai Tambah Bruto (NTB): Menjumlahkan nilai tambah dari masing-masing sektor usaha.
+Inflasi
+Inflasi adalah kenaikan harga barang/jasa secara umum dalam periode waktu tertentu yang dipicu oleh dua faktor utama:
+Demand-Pull: Didorong oleh peningkatan permintaan agregat masyarakat.
+Cost-Push: Didorong oleh kenaikan biaya produksi dari produsen.
+Kategori Inflasi berdasarkan jenisnya:
+Headline Inflation: Menggunakan Indeks Harga Konsumen (IHK) standar yang mencakup seluruh barang dan jasa untuk menggambarkan inflasi jangka pendek.
+Core Inflation (Inflasi Inti): Menggambarkan inflasi jangka panjang dengan mengecualikan barang-barang yang harganya berfluktuasi jangka pendek.
+Volatile Inflation: Inflasi dari barang-barang bergejolak, contohnya bahan makanan.
+Administered Inflation: Inflasi dari harga barang yang diatur oleh pemerintah, contohnya BBM dan beras.
+
+
+
+Contoh analoginya: (begitupun sebaliknya)
+Inflasi naik → BI menaikkan BI Rate → Bunga deposito naik → Bunga pinjaman naik |
+Balik ke atas ← Inflasi kembali turun ← konsumsi & investasi turu ← ← ← ← ← ← ←
+
+Neraca Pembayaran (Balance of Payment / BoP)
+Merupakan catatan transaksi ekonomi antara penduduk sebuah negara dengan negara lain dalam kurun waktu tertentu, yang terdiri dari:
+Neraca Berjalan (Current Account / CA): Mencakup ekspor-impor barang/jasa, dividen, pendapatan bunga, dan gaji lintas batas.
+Neraca Kapital dan Finansial: Mencakup transaksi penjualan atau pembelian aset finansial, seperti Investasi Langsung (Direct Investment), Investasi Portofolio, dan instrumen derivatif.
+Kondisi & Dinamika Ekonomi Domestik Indonesia
+Pertumbuhan Ekonomi 2026
+Pertumbuhan ekonomi Indonesia sempat mencatatkan akselerasi hingga mencapai 5,61% YoY pada Kuartal I-2026 (1Q26) yang didorong kuat oleh permintaan domestik.
+Pemicu Utama: Kontribusi pengeluaran pemerintah melesat signifikan di 1Q26 (tumbuh 21,81% YoY). Dari sisi lapangan usaha, sektor Penyediaan Akomodasi dan Makan Minum (F&B) tumbuh tertinggi (13,14% YoY) yang kemungkinan besar dipicu oleh dorongan implementasi awal Program Makan Bergizi Gratis (MBG) oleh pemerintah.
+Risiko Perlambatan di Paruh Kedua (2H26): BNI memproyeksikan adanya risiko perlambatan pertumbuhan ekonomi di semester kedua tahun 2026 (diperkirakan melandai ke angka 4,57% YoY di Kuartal IV-2026) akibat adanya potensi pemotongan anggaran belanja dan penurunan penyerapan anggaran fiskal.
+Isu Struktural Ketenagakerjaan dan Penurunan Daya Beli
+Meskipun angka pengangguran dilaporkan menurun, kualitas lapangan kerja di Indonesia memicu kekhawatiran akibat struktur yang kurang kuat (K-shaped recovery):
+Mayoritas tenaga kerja terserap di sektor informal, di mana pendapatan pekerja mandiri informal tercatat stagnan sepanjang periode 2019–2025.
+Hampir separuh pekerja formal menerima upah di bawah upah minimum, menyebabkan pertumbuhan upah riil mengalami kontraksi.
+Dampak Nyata Penurunan Daya Beli:
+Sebanyak kurang lebih 10 juta orang turun kelas dari kategori kelas menengah (middle class) menjadi kelas menengah rentan.
+Munculnya fenomena "ManTab" (Makan Tabungan), di mana masyarakat mulai menguras saldo tabungan mereka untuk memenuhi kebutuhan hidup sehari-hari.
+Meningkatnya aktivitas downtrading (beralih membeli barang dengan harga yang jauh lebih murah).
+Isu Demografi dan Deindustrialisasi Dini
+Bonus Demografi: Hampir separuh penduduk Indonesia dikuasai oleh generasi Milenial (26%) dan Gen-Z (28%). Angka rasio ketergantungan (dependency ratio) diproyeksikan tetap rendah hingga 2030. Namun, Indonesia menghadapi masalah besar di mana tingkat pengangguran usia muda (youth unemployment) mencapai 17,3%, salah satu yang tertinggi di antara negara-negara sepadan (peers).
+Deindustrialisasi Dini: Kontribusi sektor manufaktur terhadap PDB terus merosot selama 24 tahun terakhir (dari 29,1% di tahun 2001 menjadi tinggal 18,9% pada 2024). Selain itu, pertumbuhan industri saat ini didominasi oleh sektor padat modal (seperti industri logam dasar), sementara penyerapan tenaga kerja di sektor padat karya pasca-Pandemi COVID-19 cenderung mandek.
+Respon Kebijakan Fiskal & Moneter RI
+Postur Fiskal APBN 2026
+Pemerintah menerapkan kebijakan fiskal ekspansif dengan memfokuskan anggaran belanja negara secara terpusat pada agenda-agenda prioritas:
+Program Makan Bergizi Gratis (MBG): Dialokasikan sebesar Rp335 triliun untuk pengembangan Satuan Pelayanan Pemenuhan Gizi (SPPG) dengan melibatkan petani, nelayan, peternak, dan UMKM.
+Ketahanan Energi & Pangan: Alokasi Ketahanan Pangan sebesar Rp164,4 triliun dan Ketahanan Energi sebesar Rp402,4 triliun (termasuk subsidi BBM, listrik, dan Elpiji 3 kg tepat sasaran).
+Pendidikan & Kesehatan: Anggaran pendidikan sebesar Rp757,8 triliun (termasuk peningkatan kompetensi guru dan KIP Kuliah) serta program kesehatan sebesar Rp244 triliun.
+Tantangan Fiskal: Pendapatan negara pada tahun 2025 sempat mengalami shortfall (tidak mencapai target) sebesar Rp109 triliun, di mana sektor pajak menyumbang defisit target sebesar Rp169,4 triliun. Hal ini memaksa pemerintah menaikkan target pertumbuhan pendapatan negara secara agresif di tahun 2026 ditengah posisi defisit anggaran fiskal yang mulai mendekati batas undang-undang (-3% dari PDB).
+Kebijakan Moneter Bank Indonesia (BI)
+Guna meredam tekanan eksternal, menjaga stabilitas nilai tukar Rupiah, dan mengendalikan inflasi, Bank Indonesia melakukan pengetatan moneter secara agresif:
+Kenaikan BI-Rate: BI menaikkan suku bunga acuan (BI-Rate) sebesar 50 bps menjadi 5,25% karena meningkatnya risiko inflasi. Berdasarkan model Modified Taylor Rule, BI-Rate bahkan berpotensi naik lebih lanjut ke kisaran 5,75% – 6,25% hingga akhir tahun 2026 jika tekanan kurs berlanjut.
+Penerbitan SRBI: BI menaikkan suku bunga Sekuritas Rupiah Bank Indonesia (SRBI) tenor 1 tahun sebesar 233 bps menjadi 7,25% guna menarik aliran modal asing masuk. Nilai outstanding SRBI melesat hingga mencapai Rp940,1 triliun per Juni 2026.
+Sterilisasi Pasar SBN: BI melakukan pembelian Surat Berharga Negara (SBN) tenor panjang di pasar sekunder untuk meminimalkan efek crowding out. BI saat ini menjadi pemegang SBN terbesar dengan porsi 27% dari total kepemilikan SBN. Langkah operasi sterilisasi ini memicu kurva imbal hasil (yield curve) pemerintah cenderung mendatar (flattening) atau terbalik (inverted).
+Faktor Risiko Global & Dampak Transmisinya
+Eskalasi Geopolitik Timur Tengah (Konflik US-Israel vs Iran)
+Ketegangan geopolitik global mengganggu rantai pasok dan jalur perdagangan logistik maritim dunia:
+Pengalihan Jalur Dagang: Rute pelayaran terpaksa dialihkan dari melewati Timur Tengah (Terusan Suez/Selat Bab al-Mandab) memutar jauh mengelilingi Tanjung Harapan di Afrika. Studi dari Washington Institute memproyeksikan pengalihan rute ini mengerek biaya angkut logistik kapal (freight cost) naik sekitar 30%.
+Lonjakan Harga Minyak: Bank Dunia (World Bank) memperingatkan bahwa harga minyak mentah dunia bisa melambung tinggi melewati USD 150 per barel apabila konflik terus meluas.
+Suku Bunga Global yang Tetap Tinggi (Sticky Rate)
+Data pasar tenaga kerja Amerika Serikat yang kuat (Non-Farm Payroll konsisten melampaui konsensus pasar) menyebabkan inflasi AS tetap membandel (sticky) di kisaran 3,5%–3,6%, jauh di atas target The Fed yang sebesar 2%.
+Dampak: Ekspektasi pasar bergeser di mana bank-bank sentral utama dunia seperti The Fed (AS), ECB (Eropa), dan BoE (Inggris) diperkirakan cenderung mempertahankan atau menaikkan kembali suku bunga acuannya (tightening stance). Kondisi ini memicu imbal hasil obligasi global (bond yield) tetap tinggi.
+Saluran Transmisi Krisis ke Sistem Finansial Indonesia
+Dinamika buruk global tersebut masuk ke Indonesia melalui jalur (transmission channels) berikut:
+$$\text{Konflik Global} \rightarrow \text{Kenaikan Harga Minyak Dunia} \rightarrow \text{Nilai Impor Migas RI Membengkak} \rightarrow \text{Neraca Berjalan Defisit (-1,1\% dari PDB)}[cite: 1]$$
+Ditambah dengan keluarnya modal asing dari pasar saham dan obligasi Indonesia (capital outflow akibat sentimen negatif investor), Neraca Pembayaran RI mencatatkan defisit sebesar USD 9,1 miliar pada 1Q26. Akibatnya, nilai tukar Rupiah melemah tajam tembus ke Rp18.020 per USD (Spot per Juni 2026) dan instrumen 12-Month Non-Deliverable Forward (NDF) sudah melewati Rp18,590 per USD.
+Kesimpulan (Takeaways untuk Catatan)
+Dilema Pertumbuhan Ekonomi RI: Indonesia terjebak dalam pertumbuhan ekonomi yang tampak kuat di permukaan (didukung belanja stimulus APBN jangka pendek seperti Program MBG), namun rapuh di tingkat akar rumput akibat isu ketenagakerjaan informal dan deindustrialisasi dini.
+Krisis Daya Beli Riil: Penurunan kelas menengah dan fenomena "Makan Tabungan" adalah alarm keras bahwa kapasitas konsumsi rumah tangga—yang merupakan motor utama pembentuk PDB Indonesia—sedang mengalami pelemahan serius.
+Tekanan Suku Bunga "High for Longer": Kombinasi dari defisit APBN Indonesia yang melebar, pembengkakan impor energi akibat konflik Timur Tengah, serta kebijakan suku bunga AS yang tetap tinggi memaksa Bank Indonesia mempertahankan kebijakan moneter ketat. Suku bunga kredit perbankan domestik kemungkinan besar akan tetap mahal dalam jangka menengah untuk menjaga stabilitas Rupiah.
+
+Business/Sectoral Mapping 
+Mengapa Pemetaan Sektoral Ini Penting?
+Pasca-pandemi, pemulihan ekonomi di Indonesia tidak merata. Ada sektor yang melesat cepat, ada juga yang masih terseok-seok. Bagi sebuah bank seperti BNI, memetakan sektor-sektor ini sangat krusial untuk:
+Mencegah Kredit Macet (NPL): Menghindari pemberian kredit besar ke sektor yang sedang trennya turun atau berisiko tinggi.
+Mencari Peluang (Prospective Sectors): Menyalurkan dana ke sektor yang sedang tumbuh subur agar bisnis bank ikut berkembang.
+Metodologi Analisis: EIC Framework & Analisis Kartesian
+Modul ini menggunakan pendekatan EIC (Economic - Industry - Company) 
+Economic (E)
+Analisis ini berfokus pada pemahaman lingkungan ekonomi makro tempat industri dan perusahaan beroperasi. Indikator-indikator makro yang wajib diamati meliputi:
+Pertumbuhan ekonomi: Menggunakan indikator Produk Domestik Bruto (PDB).
+Inflasi: Dipantau baik dari sisi konsumen (Consumer Price Index) maupun produsen (Producer Price Index).
+Tingkat suku bunga: Memantau kebijakan suku bunga domestik (BI Rate) maupun global (Fed Fund Rate).
+Nilai Tukar (Kurs).
+Sistem keuangan: Menganalisis arah kebijakan fiskal dan moneter pemerintah.
+💡 Contoh Pemisalan:
+Jika Fed Fund Rate dan BI Rate sedang melonjak tinggi, biaya modal (cost of fund) untuk ekspansi bisnis akan menjadi mahal. Bank harus berhati-hati karena daya beli masyarakat bisa melandai, yang otomatis bakal memengaruhi kemampuan bayar cicilan para debitur.
+Industry (I)
+Analisis ini bergeser ke kondisi industri tertentu secara spesifik untuk menilai potensi pertumbuhan serta tantangan yang dihadapi. Indikator yang dipantau adalah:
+Karakteristik industri: Apakah masuk dalam kategori primer (ekstraksi alam), sekunder (manufaktur), atau tersier (jasa).
+Jenis-jenis struktur pasar: Melihat tingkat kompetisi dan monopoli di pasar tersebut.
+Siklus industri dan produk (Product Life Cycle): Apakah industri tersebut sedang tumbuh (growth), matang (mature), atau mulai turun (decline).
+Regulasi spesifik industri: Kebijakan atau aturan hukum khusus yang mengatur industri tersebut.
+💡 Contoh Pemisalan:
+Industri kelapa sawit (primer/perkebunan) punya regulasi ketat soal sertifikasi lingkungan (seperti ISPO/RSPO). Jika sebuah perusahaan sawit tidak bisa memenuhi regulasi ini, produknya terancam diboikot di pasar internasional. Bank wajib melihat regulasi ini sebelum mencairkan kredit.
+Company (C)
+Pilar terakhir adalah analisis mendalam secara individual terhadap perusahaan dalam konteks ekonomi dan industri yang menaunginya. Indikator yang dianalisis mencakup aspek kuantitatif dan kualitatif:
+Kinerja finansial: Mengukur tingkat keuntungan (profitability), tingkat utang (leverage), likuiditas, dan metrik keuangan lainnya.
+Manajemen strategis: Menilai visi, misi, serta kualitas kepemimpinan (leadership) perusahaan.
+Efisiensi dan efektivitas operasional.
+Aspek kuantitatif & kualitatif lainnya: Proyeksi kinerja ke depan, risiko operasional, kualitas organisasi, hingga kualitas SDM.
+💡 Contoh Pemisalan:
+Dua perusahaan berada di industri yang sama-sama tumbuh (misal: Informasi & Komunikasi). Namun, Perusahaan A memiliki manajemen strategis yang visioner dan rasio utang yang aman, sementara Perusahaan B manajemennya konflik internal dan utangnya menumpuk. Bank pasti hanya akan meloloskan pengajuan kredit milik Perusahaan A.
+Adapun untuk melihat kondisi dari makro hingga mikro, lalu memetakan 52 sub-sektor ekonomi ke dalam 4 Kuadran Kartesian berdasarkan dua sumbu utama:
+Sumbu X: Rata-rata Pertumbuhan Kredit (Potensi Pembiayaan Bank)
+Sumbu Y: Rata-rata Pertumbuhan PDB Sektor (Kondisi Riil Sektor di Lapangan)
+Pembagian Kuadran & Sistem Tiering:
+Kuadran I (Unggulan/Ideal) $\rightarrow$ Tier 1 & 2: Sektor yang PDB-nya tumbuh di atas nasional dan kreditnya juga tumbuh di atas rata-rata. Risiko (NPL) rendah-sedang. Bank bisa masuk dengan kehati-hatian rendah.
+Kuadran II (Potensial) $\rightarrow$ Tier 2 & 3: PDB tumbuh tinggi, tapi penyaluran kredit bank masih lambat (di bawah rata-rata). Ini adalah peluang emas bagi bank untuk meningkatkan pembiayaan.
+Kuadran IV (Evaluasi) $\rightarrow$ Tier 3, 4, & 5: Kredit tumbuh kencang, tapi PDB sektornya di bawah rata-rata nasional. Bank harus mengevaluasi karena ada risiko over-financing.
+Kuadran III (Hati-Hati/Alert) $\rightarrow$ Tier 4 & 5: PDB tumbuh rendah dan kredit juga rendah. NPL biasanya sedang-tinggi. Sektor ini wajib diwaspadai.
+💡 Contoh Pemisalan (Sektor Industri Makanan & Minuman vs Industri Tekstil):
+Industri Makanan & Minuman (Tier 1): Tumbuh subur karena masyarakat selalu butuh makan (PDB tumbuh 6,26%, Kredit tumbuh 13,4%, NPL sangat rendah 1,22%). Bank akan sangat pede memberikan pinjaman ke pabrik biskuit atau minuman kemasan.
+Industri Tekstil & Pakaian Jadi (Tier 5): Sektor ini masuk kategori Hati-Hati karena pertumbuhan kreditnya minus (-4,9%) dan angka NPL-nya sangat tinggi yaitu 19,41%. Artinya, hampir 1 dari 5 debitur tekstil macet bayar utang. Jika ada pengusaha garmen mau pinjam uang, bank akan mengenakan syarat yang super ketat atau bahkan menolaknya.
+Analisis Hubungan Hulu-Hilir (Forward & Backward Linkage)
+Modul ini juga memetakan interaksi antar sektor untuk melihat efek domino ekonomi:
+Backward Linkage (Sektor Penyerap): Sektor yang kalau tumbuh, dia akan menarik (membeli banyak input dari) sektor lain.
+Forward Linkage (Sektor Penggerak): Sektor yang hasilnya/outputnya menjadi bahan baku baku utama bagi banyak sektor lain di hilir.
+Ada 4 Sektor Utama yang memiliki keterkaitan hulu-hilir sangat tinggi di Indonesia:
+Industri Pengolahan (Manufaktur)
+Transportasi & Pergudangan
+Informasi & Komunikasi
+Pengadaan Listrik & Gas
+💡 Contoh Pemisalan (Efek Domino Sektor Konstruksi):
+Sektor Konstruksi dikategorikan memiliki High Backward Linkage (Sektor Penyerap). Jika Pemerintah membangun jalan tol baru (Konstruksi), sektor ini akan menyerap/membeli semen dari Industri Bahan Galian Non-Logam, membeli besi dari Industri Logam Dasar, dan menyewa truk dari Sektor Transportasi. Jadi, menstimulasi Konstruksi akan otomatis menghidupkan sektor-sektor di belakangnya.
+Beberapa faktor yang ada:
+Faktor external
+Politikus
+Ekonomi
+Sosial
+Teknologi
+Cuaca/situasi alam
+Legal
+Faktor internal
+Kinerja 
+Sdm
+Sop/Organisasi
+Anggaran
+appetite
+Studi Kasus Wilayah: Fokus Provinsi Bali
+Di bagian akhir, modul ini memberikan lembar latihan khusus untuk menganalisis data PDRB Provinsi Bali per periode Triwulan I - 2025 (Mar-25).
+Sektor yang Mendominasi Perekonomian Bali
+Sesuai struktur ekonominya, 5 sektor terbesar yang mendominasi Bali (berdasarkan data proporsi harga berlaku) adalah:
+Penyediaan Akomodasi dan Makan Minum (Pariwisata): ~21,2%
+Pertanian, Kehutanan & Perikanan: ~13,6%
+Transportasi & Pergudangan: ~10,2%
+Konstruksi: ~9,0%
+Perdagangan Besar & Ritel: ~8,7%
+Pertumbuhan Tertinggi di Bali (YoY, Maret 2025)
+Jika melihat tabel pertumbuhan tahunan (Growth YoY) pada Maret 2025, top 5 sektor dengan pertumbuhan tercepat secara berurutan adalah:
+Administrasi Pemerintahan, Pertahanan & Jaminan Sosial Wajib: Tumbuh melesat 19,86% (kemungkinan dipicu realisasi anggaran atau perjalanan pemerintah).
+Electricity & Gas Supply (Pengadaan Listrik & Gas): Tumbuh 8,59%.
+Accommodation & Food Beverages (Akomodasi & Kuliner): Tumbuh 7,47% (menunjukkan pemulihan pariwisata yang solid).
+Transportation & Storage (Transportasi & Pergudangan): Tumbuh 6,79%.
+Financial & Insurance Activity (Jasa Keuangan & Asuransi): Tumbuh 6,65%.
+Kesimpulan Strategis untuk Perbankan
+Melalui modul ini, seorang analis kredit perbankan bisa langsung mengambil keputusan. Misalnya, untuk wilayah Bali, karena sektor Accommodation & Food Beverages mendominasi pasar (21,2%) dan pertumbuhannya kuat (7,47%), maka mengalirkan kredit ke sektor perhotelan atau restoran di Bali pada tahun 2025-2026 merupakan langkah yang strategis, selama tetap menyaring profil perusahaan (Company) secara individual.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Day 3
+Non-banking financial institutions-2 (NBF-2)
+Memahami Posisi "NBF-2" di Ekosistem Keuangan
+Apa itu NBF (Non-Bank Financial)?
+Sering kali orang bingung membedakan antara Bank, Lembaga Keuangan Bukan Bank (LKBB / NBFI), dan perusahaan spesifik seperti "BFI Finance". Mari kita bedah perbedaannya secara mendasar:
+Bank (Lembaga Keuangan Bank): Lembaga yang fungsi utamanya adalah menghimpun dana langsung dari masyarakat secara ritel (dalam bentuk Giro, Tabungan, Deposito) dan menyalurkannya kembali dalam bentuk kredit. Contoh: BNI, Mandiri, BCA.
+NBF / LKBB / NBFI (Non-Bank Financial Institution): Lembaga keuangan yang tidak diperbolehkan menghimpun dana langsung secara ritel berupa tabungan biasa dari masyarakat, namun melakukan aktivitas keuangan seperti asuransi, investasi saham, pengelolaan reksa dana, pembiayaan (leasing), hingga dana pensiun.
+Apakah "BFI" sama dengan "NBF"?
+BFI Finance adalah salah satu contoh perusahaan pembiayaan (multifinance/leasing) swasta di Indonesia yang berstatus sebagai LKBB.
+Sedangkan NBF dalam konteks struktur organisasi BNI adalah singkatan divisi/departemen Non-Bank Financial yang bertugas melayani seluruh korporasi LKBB ini sebagai nasabah besar (nasabah institusi).
+Apa Peran Departemen NBF-2 di BNI?
+Di dalam BNI, divisi International & Financial Institutions memiliki departemen khusus bernama NBF-2 Department. Departemen ini bertindak sebagai One-Stop Gateway (Gerbang Solusi Tunggal).
+Analogi Sederhana: Jika Anda adalah perusahaan asuransi raksasa yang butuh layanan dari BNI (butuh sistem autodebet premi nasabah, butuh investasi obligasi lewat treasury, butuh kustodian untuk reksa dana, dan butuh kartu kredit korporat untuk direksi), Anda tidak perlu mendatangi 5 divisi BNI yang berbeda. Anda cukup menghubungi NBF-2, dan RM (Relationship Manager) NBF-2 yang akan mengoordinasikan semua produk BNI tersebut untuk Anda.
+
+
+
+Tiga Pilar Utama Nasabah NBF-2 & Produk yang Digunakan
+NBF-2 secara spesifik menangani 3 ekosistem LKBB besar berikut:
+Perusahaan Efek (Securities Companies)
+Perusahaan yang memfasilitasi jual-beli saham dan obligasi di pasar modal. BNI melayani lebih dari 118 perusahaan sekuritas.
+Produk Utama yang Digunakan:
+RDN (Rekening Dana Nasabah): Rekening atas nama investor individu yang dibuka di bank untuk menampung dana transaksi saham di sekuritas. BNI menyediakan integrasi via API (Application Programming Interface) agar setiap kali investor melakukan deposit di aplikasi sekuritas (seperti Ajaib, BNI Sekuritas, dll.), saldo langsung ter-update secara real-time.
+Fasilitas Intraday (Cash Talangan): Fasilitas likuiditas jangka sangat pendek yang diberikan kepada sekuritas untuk menjamin penyelesaian transaksi efek pada hari yang sama (Same Day Settlement). Untuk perhitungannya dilakukan dengan mengkombinasikan nilai quantitative dan qualitative.
+Limit intraday
+Rating 1-3 maksimal 90% dari nilai transaksi selama 1 tahun
+Rating 4-5 maksimal 80% dari nilai transaksi selama 1 tahun
+Rating 6-10 tidak diberikan limit
+Limit Global Line
+Rating 1-3 maksimal 80% rata2 3 tahun terakhir dan tidak melebihi BMPK
+Rating 4-5 maksimal 70% rata2 3 tahun terakhir dan tidak melebihi BMPK
+MKBD : Modal Kerja Bersih Disesuaikan
+BMPK : BMPK Perusahaan Efek (25% x Modal PE) atau (Modal Bank x 15%)
+Kriteria
+Tidak tercantum dalam DHN
+Bukan debitur bermasalah atau macet
+Beroperasi minimal 3 tahun
+2 tahun terakhir tidak mengalami kerugian 
+Hanya digunakan di saham liquid misal LQ45 dengan rating investment grade
+Menjadi nasabah kustodian BNI
+Cover Fasilitas
+Penempatan data tunai/giro/deposito
+Dana yang diterima dari hasil penyelesaian SUN
+Dana diterima dari hasil penjualan saham/obligasi secara OTC
+Dana yang diterima dari klaim bank garansi
+Secara gampang analogi sederhana seperti ini:
+Bank BNI (NBF-2) → (Intraday Facility) → Perusahaan Sekuritas → (Margin / Fitur Petir) → Nasabah Ritel 
+Pemisalan Kasus RDN & Intraday:
+Pemisalan: Perusahaan Sekuritas PT ABC Sekuritas memiliki transaksi harian nasabah senilai Rp100 Miliar. Pada jam 10.00 pagi, mereka harus menyetor dana ke KPEI (Kliring Penjaminan Efek Indonesia) untuk settlement pembelian Surat Berharga Negara (SBN) nasabah mereka. Namun, dana nasabah baru masuk ke RDN BNI secara bertahap pada jam 14.00 siang.
+Solusi BNI: BNI memberikan Fasilitas Intraday (misal plafon Rp50 Miliar) kepada PT ABC Sekuritas. BNI meminjamkan "kas talangan" di pagi hari agar transaksi SBN PT ABC Sekuritas tidak gagal kliring. Begitu dana nasabah terkumpul di siang hari, fasilitas tersebut langsung dilunasi secara otomatis sebelum hari kerja berakhir (Same Day Settlement). Fasilitas ini tidak dianggap sebagai kredit biasa karena umurnya kurang dari 24 jam dan bunganya sangat khusus.
+Perbedaan Mendasar (Sisi Institusi vs Sisi Investor ritel)
+Untuk melihat bedanya secara rinci, kita bisa bandingkan lewat tabel pemisalan di bawah ini:
+Poin Perbandingan
+Fasilitas Intraday (Materi BNI NBF-2) PPTX
+Fitur Petir / Margin (Sisi Investor Ritel)
+Siapa Pemberi Dananya?
+Bank BNI (via Departemen NBF-2).
+Perusahaan Sekuritas (misal: Mandiri Sekuritas, Indo Premier, Ajaib, dll).
+Siapa Penggunanya?
+Perusahaan Sekuritas (Institusi).
+Investor / Trader Saham (Individu).
+Skala Nominal
+Sangat Jumbo (Miliaran hingga Triliunan Rupiah).
+Relatif Kecil (Jutaan hingga Ratusan Juta Rupiah per orang).
+Pemisalan Kasus Nyata
+PT Sekuritas XYZ punya total kewajiban transaksi netting seluruh nasabahnya hari ini sebesar Rp100 Miliar ke KPEI (Kliring Penjaminan Efek Indonesia) di pagi hari. Karena dana dari RDN nasabah baru terkumpul siang, PT Sekuritas XYZ memakai Intraday BNI agar tidak gagal kliring di bursa.
+Anda (Investor) ingin membeli saham BBRI senilai Rp50 juta hari ini, tapi cash di RDN Anda cuma ada Rp10 juta. Anda mengaktifkan fitur Petir/Margin dari sekuritas untuk trading jangka pendek hari itu juga.
+Konsekuensi jika Gagal Bayar di Sore Hari
+Sekuritas dinilai melanggar aturan kliring, dikenakan sanksi bursa, dan jaminan tunai/deposito mereka di bank akan dicairkan.
+Saham Anda akan terkena Forced Sell (Jual Paksa) oleh sistem sekuritas pada hari berikutnya ($T+1$ atau $T+2$) untuk melunasi utang margin tersebut.
+
+
+Perusahaan Asuransi (Insurance Companies)
+Perusahaan asuransi jiwa maupun asuransi umum. BNI melayani lebih dari 148 perusahaan asuransi (termasuk BNI Life, Allianz, Prudential, dll.).
+Produk Utama yang Digunakan:
+Premium Inbound Collection: Solusi agar nasabah asuransi mudah membayar premi menggunakan Virtual Account (VA), Autodebet Kartu Kredit, QRIS, atau mesin EDC di kantor agen.
+Outbound Claims Payment: Sistem cash management (via BNIDirect) agar perusahaan asuransi bisa mencairkan klaim ribuan nasabah sekaligus secara massal dan cepat saat terjadi musibah.
+Commercial Line (Suretyship): Fasilitas penjaminan yang diterbitkan BNI bekerja sama dengan asuransi umum untuk mendukung proyek pembangunan nasional.
+Suretypship, lini usaha asuransi umum yang memberikan jaminan atas kemampuan principal dalam melaksanakan kewajiban sesuai perjanjian pokok antara principal dan obligae
+Bank garansi adalah jaminan dalam bentuk warkat yang diterbitkan oleh bank yang dapat menimbulkan bank wajib membayar kepada pihak peneerima bank garansi apabila pihak terjamin wanprestasi
+Pemisalan Kasus Suretyship:
+Pemisalan: PT Maju Jaya (Kontraktor) memenangkan tender proyek jembatan dari Pemerintah senilai Rp10 Miliar. Pemerintah meminta "Jaminan Pelaksanaan" (Performance Bond) sebesar 10% (Rp1 Miliar) dari PT Maju Jaya agar jika PT Maju Jaya kabur, uang Rp1 Miliar tersebut cair untuk Pemerintah. PT Maju Jaya tidak punya uang tunai Rp1 Miliar untuk dijadikan jaminan di bank.
+Solusi BNI & Asuransi: PT Asuransi rekanan menerbitkan asuransi Suretyship (sebagai penjamin pertama). BNI kemudian menerbitkan Bank Garansi (sebagai penjamin kedua/kontra-garansi) berdasarkan kerja sama Commercial Line NBF-2 dengan asuransi tersebut. Proyek pun bisa berjalan tanpa mengganggu likuiditas kontraktor, dan risiko dibagi bersama antara asuransi dan BNI.
+Cara kerja simpelnya seperti ini:
+Kontraktor mau bikin proyek Pemerintah.
+Pemerintah minta jaminan uang (biar kontraktor tidak kabur).
+Kontraktor datang ke Asuransi (minta jaminan Suretyship karena tidak punya modal tunai mati).
+Asuransi datang ke Bank BNI (memakai jatah plafon Commercial Line asuransi tersebut di NBF-2).
+Bank BNI menerbitkan warkat (Bank Garansi) dan langsung menyerahkannya ke Kontraktor.
+Kontraktor menyerahkan warkat Bank Garansi tersebut ke Pemerintah. Proyek sah dan bisa mulai dibangun
+
+
+
+
+
+Special Mission Vehicle (SMV)
+Lembaga keuangan plat merah di bawah Kementerian Keuangan yang didirikan khusus untuk mengemban misi pembangunan negara. Contoh nasabah NBF-2: PT SMI (Sarana Multi Infrastruktur), PT PII (Penjaminan Infrastruktur Indonesia), IIF (Indonesia Infrastructure Finance), LPEI (Indonesia Eximbank), dan INA (Indonesia Investment Authority).
+Produk Utama yang Digunakan:
+Kredit Investasi 
+Fasilitas yang digunakan untuk bangun usaha
+Kredit Modal Kerja:
+Fasilitas yang digunakan untuk modal kerja sebagai bridging cash flow perusahaan baik dari sisi operasinal maupun finance
+Plafond Non-Cash Loan (NCL)
+Penerbitan Bank Garansi
+Standby L/C (SBLC), atau SKBDN atas nama proyek pembangunan.
+Pemisalan Kasus SMV:
+Pemisalan: PT SMI (SMV) ditugaskan pemerintah membiayai pembangunan Pembangkit Listrik Tenaga Surya (PLTS) senilai Rp5 Triliun. PT SMI membutuhkan pendanaan pendamping (bridging finance) sebelum dana jangka panjang dari obligasi mereka terbit.
+Solusi BNI: Departemen NBF-2 menyalurkan Kredit Investasi atau Kredit Modal Kerja bridging kepada PT SMI untuk memuluskan jalannya proyek PLTS tersebut, didukung dengan layanan Custody BNI untuk mengawasi aset investasi tersebut.
+Tata Cara Penilaian & Proses Kredit di NBF-2
+Pemberian fasilitas finansial di NBF-2 (terutama kredit besar dan fasilitas intraday) diatur oleh aturan manajemen risiko yang sangat ketat:
+Kriteria Kelayakan Debitur (Underwriting Risk Appetite)
+Perusahaan LKBB yang bisa mendapatkan fasilitas kredit/intraday dari BNI harus memenuhi syarat kualitatif & kuantitatif berikut:
+Beroperasi minimal 3 tahun (menunjukkan kestabilan bisnis).
+Tidak mengalami kerugian dalam 2 tahun terakhir (dibuktikan dengan Laporan Keuangan Audited).
+Memiliki Rating yang Baik (Kuantitatif dihitung dari MKBD / Modal Kerja Bersih Disesuaikan untuk Sekuritas, atau Rasio Solvabilitas/RBC untuk Asuransi).
+Hanya untuk efek likuid: Jika jaminannya adalah portofolio efek, efek tersebut harus berperingkat Investment Grade (layak investasi) atau masuk dalam indeks saham LQ45.
+Alur Proses Kredit (Credit Process Flow)
+Proses persetujuan kredit di BNI menggunakan sistem Four-Eyes Principle (pemisahan tegas antara tim penilai bisnis dan tim penilai risiko):
+Nasabah → Relationship Manager (RM) → Credit Evaluator (CER)→ Komite Perjanjian → Perjanjian Kredit (PK)
+Inisiasi: Nasabah mengajukan permohonan fasilitas kepada RM NBF-2.
+Analisis Bisnis (First Way Out): RM menganalisis prospek usaha nasabah, kemampuan menghasilkan arus kas, dan membuat Memorandum Pengusulan Kredit (MPK).
+Analisis Risiko (Second Way Out): Tim CER (Credit Risk Evaluator) secara independen menganalisis risiko terburuk, mitigasi, BI checking, ketaatan regulasi, serta jaminan jika nasabah gagal bayar.
+Keputusan Komite: RM dan CER membawa usulan ini ke Komite Kredit untuk diputuskan apakah disetujui atau ditolak.
+Wewenang Pengambil Keputusan (Credit Decision Authority)
+Karena nominal transaksi institusi finansial bernilai sangat jumbo, tingkat komite pemutus ditentukan berdasarkan limit kredit yang diajukan:
+Tingkat Komite
+Batas Maksimum Wewenang
+Komposisi Pemutus
+KKP-1 (Pusat 1)
+s/d Rp 750 Miliar
+Dir. Sektor Pengusul + Dir. Manajemen Risiko + SEVP Risiko
+KKP-2 (Pusat 2)
+s/d Rp 2 Triliun
+Minimal dihadiri 1 Direktur Pengusul/Risiko + SEVP terkait
+KKP-3 (Pusat 3)
+s/d Rp 10 Triliun
+Minimal dihadiri 2 Direktur (Direktur Bisnis & Direktur Risiko)
+KKP-4 (Pusat 4)
+Di atas Rp 10 Triliun s/d BMPK (Batas Maksimum)
+Tingkat tertinggi BNI, dihadiri > 1/2 anggota Direksi BNI
+
+
+
+
+Financial Institutions (FI)
+Bank bisa meminjam ke bank lain karena kebutuhan penggalangan dana, tidak semua bank punya kemampuan menghimpun dana yang sama sehingga sebuah bank bisa meminjam ke bank lain. 
+Kemudian untuk mendirikan bank izinnya sangat sulit, berbeda dengan P2P yang jika tutup bisa membuka kembali dengan mudah. Sebagai contoh ketika antoni salim menjual/melepas bank BCA, beliau tidak dapat mendirikan bank kembali dengan mudah karena masalah perizinan yang sangat ketat.
+Visi BNI dan Pilar Bisnis Internasional
+Sebagai Bank BUMN, BNI memposisikan dirinya untuk bersaing di kancah internasional melalui visi dan pilar bisnis yang terintegrasi:
+Visi Utama: Menjadi Lembaga keuangan global terpercaya yang unggul dalam inovasi dan kinerja secara berkelanjutan.
+3 Panduan Strategis (Strategic Guidance):
+Indonesia-related Business (Bisnis yang berkaitan dengan Indonesia).
+Correspondent Banking Business (Bisnis perbankan koresponden).
+Investment Relations (Hubungan investasi).
+5 Pilar Bisnis Internasional:
+Global Financial Institutions: Menjadi pilihan utama (top of mind) dan mitra bank terkemuka di pasar keuangan global untuk solusi investasi dan bisnis terintegrasi.
+Global Presence: Hadir secara global untuk mendukung perusahaan terkait Indonesia, perusahaan lokal/multinasional, diaspora, hingga nasabah High-Net-Worth (kaya raya).
+Cross-border Transaction: Menghubungkan Indonesia dengan dunia melalui transaksi lintas negara yang didukung otomatisasi proses bisnis dan proyek Global Nostro.
+Custody with Global Capability: Menyediakan layanan penitipan aset kolektif (global custody) bagi investor institusi maupun individu guna meningkatkan pendapatan berbasis komisi (Fee-Based Income).
+Investment Gateway: Menjadi banker's bank bagi Foreign Direct Investment (FDI/Investasi Asing Langsung) dengan menyediakan panduan regulasi, wawasan pasar, dan solusi keuangan terintegrasi.
+Perdagangan Internasional & Peran Financial Institutions (FI)
+Mengapa FI Sangat Diperlukan dalam Perdagangan Internasional?
+Perdagangan internasional adalah proses jual beli antar negara dengan yurisdiksi yang berbeda. Masalah utama yang sering muncul adalah tingginya risiko dan ketidakpastian karena penjual (seller) dan pembeli (buyer) tidak saling mengenal langsung, adanya perbedaan hukum/kebijakan, hambatan bahasa/budaya, serta perbedaan preferensi pembayaran.
+Risiko Buyer: Barang dikirim terlambat atau barang yang datang tidak sesuai pesanan.
+Risiko Seller: Tidak ada kepastian pembayaran, pembayaran terlambat, atau bahkan tidak dibayar sama sekali.
+Solusi & Peran Bank: Bank bertindak sebagai Intermediary (Perantara) yang dipercaya oleh kedua belah pihak dengan menggunakan instrumen seperti Letter of Credit (L/C) untuk menjamin keamanan transaksi.
+Peranan Utama Unit Financial Institutions (FI) di Bank:
+Relationship Originator: Menginisiasi, memelihara, dan mengoptimalkan hubungan dengan bank-bank koresponden di luar negeri.
+Bank Representation: Menjadi perwakilan resmi bank dan penghubung utama (liaison) dalam kerja sama dengan pihak asing.
+Market Intelligence: Memahami kondisi ekonomi negara koresponden serta tren bisnis baru untuk menciptakan peluang sinergi.
+Business Generator: Menjadi sumber pendapatan bank (bunga & komisi), mendukung likuiditas, dan memasarkan produk bank ke jaringan koresponden.
+Jenis-Jenis Financial Institutions
+Secara garis besar, lembaga keuangan dibagi menjadi dua kategori:
+Jenis Lembaga Keuangan
+Cakupan / Contoh PDF
+Bank Financial Institutions (FI)
+Bank Umum (Konvensional/Syariah), Bank Pembangunan Daerah (BPD), Bank Asing (Exim Bank, Development Bank), Organisasi Supranasional (World Bank, IMF, ADB), dan Perusahaan Remitansi (Remittance Companies).
+Non-Bank Financial Institutions (NBFI)
+Asuransi, Perusahaan Sekuritas & Asset Management, Dana Pensiun, Lembaga Pembiayaan Pemerintah (seperti INA, SMI, SMF, Indonesia Eximbank).
+
+
+
+
+
+Model Bisnis Financial Institutions (FI)
+Layanan bisnis FI dibagi berdasarkan kebutuhan batasan risiko lawan transaksi (Counterparty Limit / CL):
+Direct Business (Bisnis Langsung)
+Membutuhkan Counterparty Limit (CL):
+Bank Guarantee Under Counter Guarantee (BGCU): Penjaminan bank internasional yang diterbitkan berdasarkan kontra jaminan dari bank koresponden.
+Bank to Bank Financing: Pembiayaan antarabank (contoh: Forfaiting, Risk Participation, Refinancing).
+LC/SBLC/SKBDN Confirmation: Pemberian konfirmasi/jaminan atas instrumen pembayaran yang diterbitkan bank koresponden.
+Tidak Membutuhkan Counterparty Limit (CL):
+Advising LC/SBLC/SKBDN: Meneruskan dokumen L/C dari bank penerbit ke bank lain.
+Remittance: Layanan pengiriman uang lintas negara.
+Giro Vostro: Rekening giro yang dibuka oleh bank asing di bank domestik (dalam rupiah atau valas).
+Indirect Business
+Transaksi Treasury: Foreign Exchange (Valas), Money Market, dan Investasi Surat Berharga.
+Custody & Trust Services: Jasa penitipan dan administrasi efek/saham/obligasi.
+Enabler/Referral
+Pemasaran produk BNI group kepada bank koresponden: Produk BNI, BNI Life, BNI Sekuritas & AM, BNI Finance
+Hubungan Koresponden & Manajemen Risiko Limit
+Apa itu Hubungan Koresponden?
+Kerja sama antar dua bank yang sepakat untuk saling bertindak sebagai perwakilan (agen) guna melaksanakan operasional perbankan di negara masing-masing.
+Terdapat tingkatan hubungan, mulai dari:
+tidak ada hubungan (Non-Correspondent)
+kerjasama/hubungan sebatas otentikasi pesan (Correspondent)
+kerjasama/hubungan yang memiliki batas risiko (Prime Correspondent)
+kerjasama/hubungan hingga saling membuka rekening (Depository Correspondent).
+
+Syarat Menjalin Hubungan Koresponden
+Aspek Bisnis: Memiliki prospek bisnis yang jelas, adanya kebutuhan nasabah, dan saling menguntungkan.
+Aspek Risiko & Kepatuhan: Menilai kemampuan keuangan (rating), terbebas dari sanksi internasional (international sanction), serta memiliki reputasi manajemen yang baik.
+Counterparty Limit
+Definisi
+Fasilitas yang diberikan kepada bank koresponden untuk melakukan transaksi dengan BNI
+CL mencerminkan batas maksimum risiko
+Bersifat uncommitted & unadvised untuk commercial limit dan treasury limit
+Jenis
+Commercial limit
+Bank Garansi
+Letter of Credit
+Surat keterangan bank dalam negri 
+Standby letter of credit
+Treasury limit
+Merupakan batasan maksimum eksposur risiko untuk transaksi derivatif dan produk terstruktur (plain vanilla)
+Cash facility
+Diberikan dalam bentuk tunai yang secara efektif menjadi utang koresponden kepada BNI dalam bentuk Loan maupun surat berharga atau obligasi
+Perbedaan Limit: CEL vs CL
+Untuk mengendalikan risiko transaksi luar negeri, bank menerapkan dua jenis payung limit:
+Country Exposure Limit (CEL): Batas maksimum total aset atau eksposur risiko finansial yang boleh ditempatkan oleh bank di satu negara tertentu. Dalam kasus pemberian limit, setiap negara memiliki penilaian limit yang berbeda sesuai exposure negara si peminjam sebagai contoh limit yang didapat oleh singapura jauh lebih besar jika dibanding dengan timor leste.
+Counterparty Limit (CL): Batas maksimum risiko yang ditoleransi untuk satu bank koresponden spesifik. CL ini dibagi menjadi Commercial Limit (untuk L/C atau Garansi Bank), Treasury Limit (untuk valas), dan Cash Facility (untuk pinjaman tunai).
+Aturan Utama: Total seluruh Counterparty Limit (CL) bank-bank di suatu negara tidak boleh melebihi Country Exposure Limit (CEL) negara tersebut.
+
+
+Pemisalan & Contoh Kasus Nyata
+Untuk memudahkan pemahaman, berikut adalah analogi skenario bisnis berdasarkan materi di atas:
+Skenario 1: Perdagangan Internasional & Penggunaan L/C
+Pemisalan: PT Maju Jaya di Jakarta (Buyer) ingin membeli mesin pabrik senilai Rp1 Miliar dari Tokyo Corp di Jepang (Seller).
+Masalah: PT Maju Jaya takut jika uang ditransfer duluan, mesin tidak dikirim atau rusak. Tokyo Corp juga takut jika mesin dikirim duluan, PT Maju Jaya kabur tidak membayar.
+Solusi FI: BNI bertindak sebagai bank perantara. BNI menerbitkan Letter of Credit (L/C) atas permintaan PT Maju Jaya, yang menjamin bahwa BNI akan membayar Tokyo Corp HANYA JIKA Tokyo Corp bisa menunjukkan dokumen resmi bahwa mesin telah dikapalkan dengan benar dan sesuai spesifikasi. Risiko kedua belah pihak langsung teratasi.
+Skenario 2: Hubungan Koresponden & Limit (CEL vs CL)
+Pemisalan: BNI ingin melakukan bisnis dengan bank-bank di negara Jerman.
+Penerapan CEL: Manajemen Risiko BNI menetapkan bahwa Country Exposure Limit (CEL) untuk negara Jerman adalah USD 100 Juta (Ini adalah batas aman maksimal uang BNI yang boleh diputar di Jerman).
+Penerapan CL: Di Jerman, ada tiga bank koresponden yang bekerja sama dengan BNI. BNI membagi jatah limit (CL) kepada masing-masing bank tersebut:
+Deutsche Bank (Korresponden A): diberi CL USD 40 Juta
+Commerzbank (Korresponden B): diberi CL USD 30 Juta
+DZ Bank (Korresponden C): diberi CL USD 20 Juta
+Total CL ketiga bank: $40 + 30 + 20 = \text{USD } 90 \text{ Juta}$. Jumlah ini aman karena masih di bawah plafon CEL Jerman yang sebesar USD 100 Juta.
+Skenario 3: Bisnis Finansial Ecosystem (Enabler ke BPD)
+Pemisalan: BNI bekerja sama dengan Bank Pembangunan Daerah (BPD) X di suatu provinsi. BPD X ingin agar nasabahnya bisa mengambil uang tunai di ATM tanpa kartu (Cardless Withdrawal), namun infrastruktur IT mereka belum siap.
+Solusi FI Ecosystem: BNI bertindak sebagai Enabler. Melalui kerja sama FI, aplikasi Mobile Banking milik BPD X diintegrasikan dengan jaringan ATM BNI. Hasilnya, nasabah BPD X kini bisa mengambil uang tunai tanpa kartu di seluruh ATM BNI di Indonesia. BNI mendapatkan keuntungan dari skema bagi hasil/biaya transaksi (Fee-Based Income).
+
+
+
+
+Global Network
+Mandat Pemerintah (Government Mandate)
+Strategi gerakan BNI Go-Global didasarkan pada arahan pemerintah untuk memperkuat pangsa pasar dan kehadiran BNI di kancah internasional.
+Visi Strategis: Menjadi penyedia solusi finansial terintegrasi berbasis digital dengan keunggulan internasional.
+Fokus Kerja Sama: Mendorong kolaborasi antara perbankan nasional dengan jaringan diaspora Indonesia di luar negeri.
+Tujuan Utama:
+Menciptakan peluang investasi baru di luar negeri.
+Menambah potensi lapangan kerja baru bagi masyarakat Indonesia.
+Mendorong UMKM dalam negeri untuk menembus pasar global (Go Global).
+Menarik penanaman modal asing (Inbound FDI) ke Indonesia.
+Peta Jaringan Kantor Luar Negeri (KLN) BNI
+BNI saat ini memiliki 10 Kantor Luar Negeri (KLN) yang tersebar di 8 negara. Komposisinya terdiri atas 6 Branches, 1 Sub-branch, 2 Representative Offices, dan 1 Limited Purpose Branch:
+Profil dan Lisensi Tiap Kantor Cabang
+Sebelumnya untuk urutan terbaik dari segi net income adalah singapura, london, hongkong, jepang, new york, seoul
+Singapore Branch (Est. 1955): Berstatus Full Branch (namun dibatasi untuk penyiapan ATM). Diawasi oleh Monetary Authority of Singapore (MAS). Membawahi Limited Purpose Branch (LPB) City Plaza dan Rep. Office Sydney.
+Saat ini lagi bagus2nya 
+Selalu jadi piloting branch
+Syndication desk dapat berinteraksi dengan bank-bank global raksasa
+wealth management
+Banyak HNWI yang menaruk uangnya di singapura
+Limited Purpose Branch, banyak PMI di singapura 
+Mengcover transaksi yang ada di Ausie dapat di followup oleh singapura	
+Tokyo Branch (Est. 1959): Berstatus Full Branch (melayani grosir dan ritel). Diawasi oleh Bank of Japan (BOJ) dan Financial Services Authority (FSA) Jepang. Membawahi Sub-Branch Osaka. 
+Kenapa Tokyo punya KC? Karena merupakan pusat finansial jepang
+kenapa osaka ada sub-branch? Karena banyak penduduk indonesia yang tinggal disana dan lebih fokus ke marketing (tidak bisa pembukuan). Lalu jepang menjadi investment gate indonesia buat east asia
+Memberikan layanan end to end kepada nasabah di jepang semisal nasabah tersebut memiliki perusahaan/pabrik di indonesia. Tentunya kita (BNI) menangani semua proses aktivitas nasabah agar nasabah tidak pindah ke bank lain (hidup dan mati di bni)
+Untuk nasabah jepang memiliki kemudahan dari segi kartu karena kartu dikirimkan ke rumah menggunakan pos dan dapat melakukan penarikan uang melalui japan post bank
+Hong Kong Branch (Est. 1963): Berstatus Full Branch. Diawasi oleh Hong Kong Monetary Authority (HKMA) dan mengoperasikan China Desk.
+Tidak boleh melayani saat weekend karena ada peraturannya
+HO Refinancing memberikan pendanaan atau talangan dana kepada Kantor Pusat (Head Office) di Jakarta untuk membiayai transaksi perdagangan (trade finance) nasabah domestik 
+Hongkong punya hal terkait zero to waste dan meninggalkan usaha yang merusak alam
+Sangat maju dalam mengatur portofolio kredit bisnisnya karena sangat diversifikasi
+New York Agency (Est. 1978): Berstatus Agency yang hanya bisa melayani nasabah korporat. Diawasi oleh The Fed dan New York State Department of Financial Services (NYDFS).
+Dulu prestasi terbaik karena aset terbesar, gain sekuritas tertinggi bahkan pada tahun 2018/2019 mengsupport 10% pendapatan BNI pada saat itu, akan tetapi sekarang sudah mulai dihindari karena semuanya sudah berubah
+Pada tahun 2024 penilaian compliancenya turun karena masalah masa lampaunya 
+Tahun 2025 melakukan remediasi namun NYDFS belum menerimanya
+Sekarang jadi pasien igd karena banyak yang hal yang perlu diremediasi (biaya sangat mahal)
+tidak bisa memberikan compliance yang sesuai/diingiinkan oleh pihak regulator (tidak ada sistem untuk melakukan indikasi/screening transaksi secara otomatis seperti judol, money laundry, dll)
+Local loan KLN dapat memberikan loan baik ke perusahaan luar ataupun perusahaan indo yang ada disana
+Offshore loan
+London Branch (Est. 1984): Berstatus Branch with limited license. Diawasi oleh Prudential Regulatory Authority (PRA) dan Financial Conduct Authority (FCA). Membawahi Rep. Office Amsterdam.
+Hampir sama dengan new york terkait bisnisnya namun cakupan bisnisnya luas karena mencakup eropa dan middle east 
+Amsterdam dipilih karena banyak PMI
+Sebenernya ingin memilih jerman karena dari segi bisnis sangat menarik tapi karena adanya keterbatasan RO dan Marketing akhirnya dipilihlah amsterdam
+Seoul Branch (Est. 2016): Berstatus Full Branch restricted. Diawasi oleh Bank of Korea (BoK) dan Financial Supervisory Service (FSS). Mengoperasikan Korea Desk.
+Kerjasama G2G dengan pemerintah korea agar bisa saling membuka financial services antar keluarga. Shinhan Bank adalah bukti dari kerjasama dari G2G. Akan tetapi karena regulasi dari BMPK (batas maksimum pengajuan kredit), BNI tidak bisa ekspansi bisnis di korea secara luas sehingga terjadi masalah dibagian interest income.
+BNI pernah cuan parah di 2018/2019 dari aset sekuritas akan tetapi karena marketnya volatile mengakibatkan aset dan net incomenya tergerus
+Sekarang kondisi branch korea (seoul) sedang minus akan tetapi pihak BNI memberikan bantuan sesaat agar cabang tersebut dapat bertahan
+Remittance representative (1 korea, 1 taiwan, 2 malaysia) dibuka agar gap transaksinya bisa mengejar dari segi fee base dan tidak bergantung hanya pada interest income
+BNI melakukan pembiayaan pada lotte logistic
+Status Operasional & Tingkat Hubungan KLN
+Status kantor luar negeri membedakan fungsi bisnis, produk, hingga sistem IT yang digunakan:
+Status Kantor
+Fungsi Bisnis & Operasional PDF
+Sistem IT & Produk PDF
+Full Branch / Agency
+Beroperasi penuh sebagai bank, melakukan transaksi, dan membukukan laba sendiri.
+Terpisah secara mandiri dari Kantor Pusat.
+Limited Purpose Branch (LPB)
+Hanya menjalankan fungsi operasional pengiriman uang (remittance).
+Menyatu/menginduk pada KLN Utama.
+Sub-Branch
+Hanya menjalankan fungsi pemasaran, tidak melakukan pembukuan transaksi mandiri.
+Menyatu/menginduk pada KLN Utama.
+Representative Office (RO)
+Hanya melakukan riset pasar dan penghubung (liaison marketing).
+Tidak memiliki produk dan IT sendiri (mengikuti Kantor Pusat).
+
+Segmentasi Nasabah & Ekosistem Bisnis Global
+Jaringan luar negeri BNI menyasar ekosistem bisnis yang mencakup beberapa segmen utama:
+Corporate & Overseas Indonesian Subsidiaries: Menjadi mitra keuangan terintegrasi bagi perusahaan Indonesia yang punya cabang di luar negeri.
+Global & Regional MNCs (FDI): Pintu gerbang (gateway) bagi perusahaan multinasional asing yang ingin berinvestasi masuk ke pasar Indonesia.
+FI, NBFI & Investors: Menjalin kerja sama antarabank/lembaga keuangan untuk memperkuat likuiditas valas.
+Diaspora & Migrant Workers: Melayani kebutuhan finansial sekitar 7,7 Juta potensi diaspora Indonesia di seluruh dunia.
+Commercial, Retail Productive, & High Net-Worth Clients: Menyediakan kredit khusus, solusi valas, remitansi, hingga layanan private banking personal.
+Struktur Neraca (Balance Sheet) Kantor Luar Negeri
+Komposisi aset dan kewajiban (liabilities) pada KLN dikelola untuk mendukung likuiditas seluruh grup bank:
+Sisi Aset (Assets):
+Offshore Asset: Pinjaman luar negeri (offshore loan) dan pembiayaan ulang perdagangan dari kantor pusat (head office refinancing).
+Local Asset: Pinjaman lokal, perdagangan lokal, surat berharga (securities), dan penempatan dana (placement).
+Sisi Kewajiban (Liabilities):
+Self Funding (Channel Utama): KLN aktif mencari pendanaan valas berbiaya murah di pasar internasional melalui Money Market Borrowing, Banker’s Acceptance, Bilateral Loan, Repo, dan Interbank Call Money.
+Head Office/Intrabank Funding: Pendanaan dari kantor pusat atau transfer antar-kantor cabang luar negeri lainnya.
+Pemisalan & Contoh Kasus Nyata
+Skenario 1: Penerapan Mandat "Go-Global" UMKM
+Pemisalan: PT Selera Nusantara adalah UMKM produsen kopi lokal asal Bandung yang ingin mengekspor produknya ke Jepang dan membuka kafe di Tokyo.
+Peran KLN BNI: PT Selera Nusantara dapat datang ke BNI Tokyo Branch. BNI Tokyo tidak hanya memberikan akses pinjaman modal (offshore loan), tetapi juga berperan sebagai jembatan bisnis dengan menghubungkan mereka ke komunitas diaspora Indonesia serta pengusaha lokal Jepang melalui jaringan Japan Desk mereka.
+Skenario 2: Perbedaan Fungsi Cabang (Tokyo Branch vs Osaka Sub-Branch)
+Pemisalan: Ada kontrak kerja sama dagang besar antara perusahaan Jepang di wilayah Osaka dengan perusahaan BUMN di Indonesia.
+Penerapan Lapangan: Tim dari Sub-Branch Osaka akan datang menemui perusahaan Jepang tersebut untuk melakukan pemasaran, lobi, dan mengumpulkan dokumen administrasi. Namun, karena status Osaka adalah Sub-Branch (tidak boleh melakukan pembukuan dan transaksi sendiri), seluruh proses pencairan dana, validasi legal, dan pembukuan akunnya diselesaikan oleh Tokyo Branch selaku kantor induknya.
+Skenario 3: KLN Sebagai Mesin Pencari Likuiditas (Funding Channel)
+Pemisalan: Kantor Pusat BNI di Jakarta membutuhkan dana segar sebesar USD 50 Juta dalam waktu cepat untuk membiayai proyek infrastruktur nasional, namun bunga pinjaman dollar di pasar domestik Indonesia sedang sangat mahal.
+Peran KLN BNI: Kantor pusat meminta bantuan ke BNI Singapore Branch atau BNI London Branch. Karena berada di pusat keuangan dunia, KLN London bisa menerbitkan Banker’s Acceptance atau mencari Money Market Borrowing dari bank global lain di Eropa dengan bunga yang jauh lebih murah (competitive pricing). Dana dollar murah tersebut kemudian disalurkan kembali ke Kantor Pusat Jakarta (Intrabank Funding).
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+BNI Kustodian
+Capital Market
+Traditional market
+Produk	
+mall/marketplace
+seller(tenant)
+buyer(customer)
+Retail shop
+Physical good
+storage
+Capital market
+Financial instrumen
+idx/stock exchange
+Issuers
+Investors
+brokers/sekuritas
+Scripless securities
+Custodian bank
+
+Perbedaan mendasar antara bursa indonesia dan US:
+Bursa us selalu tumbuh sedangkan indonesia hanya berpindah-pindah kantong saja
+Isu transparansi pemegang saham yang tidak transparan sehingga MSCI ragu
+IHSG masih disetir oleh orang2 tertentu khususnya konglo sekaligus tidak independen
+Peraturan yang berubah2 secara mendadak
+
+Ekosistem capital market di indonesia
+Securities company
+Broker-dealer dan Ipo - underwriter
+Market intermediary dan Market player
+Investment manager
+Mutual dan Discretionary fund
+Supporting profession
+Accountant
+Notary publik
+Public appraiser
+Law firm
+Supporting institutions
+Securities adm bureau/BAE
+Custodian bank
+Trustee
+Securities rating company
+Investor fund protection/SIPF 
+Issuer
+Public company
+Investor
+Local dan foreign
+Custodian bank
+Local
+Bank indonesia
+Government bonds
+Ksei
+Equity
+Government bonds
+Corporate bonds
+MTN
+International
+Non-idr securities
+Cross-border securities
+
+Custody Services (Jasa Penitipan Efek)
+Kustodian ini sederhananya adalah "brankas elektronik tingkat tinggi". Berdasarkan UU Pasar Modal No. 8 Tahun 1995, tugasnya mencakup tiga hal: safekeeping (penitipan), corporate action (mengurus hak nasabah seperti dividen/bunga), dan settlement (pemberesan transaksi).
+Pemisalan: Bayangkan sebuah perusahaan Asuransi besar punya aset Surat Berharga Negara (SBN) dan saham senilai Rp500 Miliar. Berdasarkan aturan, mereka dilarang keras menyimpan surat berharga itu di brankas kantor mereka sendiri atau di rekening sekuritas biasa. Mereka wajib menitipkannya di Bank Kustodian seperti BNI.
+Cara Kerjanya: BNI yang akan mencatat mutasinya, memastikan sertifikat elektroniknya aman di KSEI/BI, dan ketika emiten saham tersebut membagikan dividen, BNI yang otomatis menagih lalu memasukkannya ke rekening si perusahaan asuransi tadi.
+Insight: Bisnis kustodian ini kuncinya di kepercayaan (trust) dan sistem yang kuat. Di sini BNI punya keunggulan kompetitif karena statusnya yang juga ditunjuk sebagai Sub-Registry oleh Bank Indonesia untuk mengelola administrasi surat berharga negara.
+
+Fund Services (Administrasi Dana)
+Ini adalah layanan khusus untuk menghitung Nilai Aktiva Bersih (NAV / Net Asset Value) dan membuat pelaporan portofolio investasi, biasanya untuk produk Reksa Dana.
+Pemisalan: Lo pasti tahu atau bahkan pernah beli Reksa Dana lewat aplikasi wealthtech di HP. Nah, setiap hari bursa sekitar jam 10 malam, lo bakal melihat harga per unit reksa dana lo berubah (bisa naik atau turun).
+Cara Kerjanya: Yang menghitung harga per unit itu setiap hari secara legal bukan perusahaan manajer investasinya, melainkan tim Fund Services dari Bank Kustodian. Mereka menghitung total nilai saham/obligasi di dalam reksa dana tersebut hari itu, dikurangi biaya-biaya, lalu dibagi total unit yang dipegang masyarakat. Jadi, kalkulasinya dijamin objektif dan transparan.
+Wali Amanat (Trustee for Debt Securities)
+Wali Amanat bertindak sebagai "perwakilan resmi sekaligus pelindung kepentingan" bagi para Bondholders (Pemegang Obligasi/Surat Utang). Tugasnya mengawasi emiten (perusahaan penerbit utang) agar mereka patuh sama janji-janjinya di Kontrak Perwaliamanatan (PWA).
+Pemisalan: Sebuah BUMN (misalnya PT Garuda atau Hutama Karya) mau menerbitkan Obligasi, Sukuk, atau Medium Term Notes (MTN) senilai Rp2 Triliun. Surat utang ini dibeli oleh ratusan investor institusi.
+Cara Kerjanya: Karena investornya banyak, gak mungkin mereka nagih atau mengawasi kondisi keuangan BUMN tersebut satu per satu. Makanya ditunjuklah BNI Wali Amanat sebagai "juru bicara dan pengacara" para investor. BNI yang memonitor apakah si BUMN ini masih sehat atau mulai oleng. Kalau emitennya lancar, kupon dibagikan aman. Tapi kalau emitennya mulai macet (gagal bayar), BNI Wali Amanat yang bakal maju paling depan buat menggelar RUPO (Rapat Umum Pemegang Obligasi) demi menyidang si emiten dan menuntut hak investor.
+Jasa Keagenan: Trustee Services vs. Escrow Agent
+Banyak yang sering ketuker antara dua produk ini, tapi di materi ini bedanya kontras banget secara hukum (terutama POJK No. 27/POJK.03/2015):
+Escrow Agent: Dananya dicatat sebagai Dana Pihak Ketiga (DPK) bank (bisa diputar bank), fleksibel, dan bisa dapet bunga bank komersial biasa.
+Trustee Services: Dananya TIDAK dicatat sebagai DPK. Yang paling krusial: dana Trust terpisah dari harta kepailitan bank. Artinya, amit-amit kalau banknya bangkrut, uang di rekening Trustee ini gak boleh disita atau diliquidasi buat bayar utang bank.
+Pemisalan Skema Proyek Konstruksi (Scheme B):
+Ada Pemilik Proyek (PT X), Kontraktor Utama (PT A), dan Sub-Kontraktor (PT B). PT X bayar ke PT A, nanti PT A baru bayar ke PT B. Masalahnya, sering kali PT A menahan duitnya sehingga proyek PT B macet.
+Solusinya, mereka buka Rekening Trust BNI. PT X mentransfer uang proyek langsung ke rekening Trust tersebut. Begitu ada progres kerjaan yang selesai, sistem BNI Trust secara otomatis memotong dana dan langsung mentransfer jatahnya ke PT A dan PT B sesuai persentase kontrak awal. Transaksi jadi adil, aman, dan tanpa sikut-sikutan.
+Pemisalan Skema Sektor Migas (Scheme D):
+Dana jumbo dari luar negeri (misal BNI Singapore atas nama perusahaan migas raksasa ENI) masuk ke Rekening Trustee BNI Jakarta. Dari rekening pelabuhan ini, dana diamankan dan didistribusikan secara resmi ke instansi pemerintah dan vendor terkait seperti SKK Migas, Pertamina, SAKA, hingga Badak LNG.
+Bond Collateral Credit (BCC) Program
+Ini produk kredit yang inovatif banget. Singkatnya, ini adalah fasilitas pinjaman modal/kredit di mana jaminan utamanya bukan aset fisik seperti tanah, melainkan SBN (Surat Berharga Negara).
+Perbandingannya dengan Kredit Konvensional:
+Aspek
+Bond Collateral Credit (BCC)
+Kredit Konvensional
+Agunan
+SBN / Obligasi Pemerintah
+Tanah, Bangunan, Gudang, Mesin
+Valuasi
+Mark-to-Market (mengikuti harga pasar riil harian)
+Jasa appraisal berkala (butuh waktu lama)
+Eksekusi
+Sangat Instan & Likuid. Kalau nasabah macet, detik itu juga SBN bisa dijual di pasar modal.
+Lama & Rumit. Harus lewat proses sita pengadilan dan lelang properti yang berbulan-bulan.
+
+Pemisalan Kasus: Perusahaan Dana Pensiun punya aset SBN senilai Rp100 Miliar yang dititipkan di BNI Custody. Mendadak, bulan ini mereka butuh uang tunai Rp20 Miliar buat bayar pensiunan karena ada lonjakan klaim. Kalau mereka terpaksa menjual SBN-nya sekarang, mereka bisa rugi (capital loss) kalau harga pasar obligasi lagi anjlok.
+ Solusinya, mereka pakai fasilitas BCC. SBN mereka diblokir sementara oleh BNI (Securities Blocking) sebagai jaminan, lalu BNI mencairkan kredit Rp20 Miliar dengan proses super cepat. Menariknya, hak ekonomi SBN itu tetap milik si Dana Pensiun, jadi mereka tetap rutin dapet transferan kupon/bunga dari pemerintah selama masa pinjaman.
+
+Insight Tambahan
+Layanan Trust, Custody, dan Wali Amanat ini adalah lini bisnis yang sangat sticky (bikin klien ketergantungan). Sekali perusahaan asuransi atau dana pensiun menaruh sistem administrasinya di BNI, mereka bakal malas pindah ke bank lain karena migrasi data, integrasi API sistem (seperti platform TCS BaNCS atau Medallion yang ada di materi), dan urusan legalitasnya sangat memakan waktu. Bagi bank, ini adalah sumber pendapatan stabil jangka panjang yang minim risiko kredit.
+Day 4
+Retail Digital Channel Division
+Personal channel development department
+Wondry by bni
+Entrepreneur channel development department
+Wonder merchant, whatsapp business, auto debit, internet banking, sms banking
+Touch point channel development department
+Atm, crm, agen46
+Human centered design channel development department
+ui/ux development & research
+Roll out & service assurance department
+Channel productivity, roll out & complaint handling all retail digital channel
+
+Fintech mendapat keuntungan dari margin pinjaman, walaupun secara tidak langsung menguntungkan bank-bank yang ada dibaliknya namun keuntungan bank-bank tersebut tidak sebesar penyedia pinjaman. Behavior pengguna yang mencari keuntungan dari promo merupakan alasan kenapa bank sulit mendapat keuntungan atau keuntungannya sangat tipis karena uang bergerak/berputar sangat cepat dan tidak dalam 1 lingkungan bank yang sama.
+
+Wonder mulai dari tahun ini sudah mengarah ke personalisai nasabah karena aplikasi sudah disiapkan sedemikian rupa sehingga tiap nasabah punya personalisasinya masing-masing yang tentunya sesuai dengan kebiasaan/kondisi nasabah.
+
+Iron triangle
+Jika scope dan timeline tidak bisa diubah maka biaya akan mahal
+Jika scope dan cost tidak bisa diubah maka timeline akan dikorbankan
+Jika cost dan timeline tidak bisa diubah makan scope akan dikurangi
+Scope
+Fitur, fungsionalitas
+Cost
+Sdm, anggaran
+Timeline
+Waktu pengembangan
+
+Perubahan cara kerja pada zaman digital
+Fokus Kebutuhan Sistem → Fokus Pengalaman Pengguna
+Dulu (System-driven Requirements): Kebutuhan ditulis hanya fokus pada apa yang harus ada di sistem dan jalur transaksi yang lancar saja (happy flows). Akibatnya, sering terjadi blind spot (luput) pada skenario error atau kendala transaksi.
+Sekarang (Experience-driven User Stories): Fokus penuh pada pengalaman nasabah, termasuk mengantisipasi jalur error dan penanganan kendala, demi menciptakan transaksi yang paling cepat, mulus, dan aman di semua skenario.
+
+
+Dokumentasi Tunggal $\rightarrow$ Pengenalan Epic
+Dulu (Single Documentation): Semua kebutuhan sistem ditumpuk dalam satu dokumen besar yang disusun secara tradisional per modul, bukan berdasarkan alur perjalanan pengguna (user journey).
+Sekarang (Introduction of Epic): Cerita pengguna (user stories) dengan tujuan strategis yang sama dikelompokkan ke tingkat Epic. Tujuannya agar alur antar-fitur yang saling berhubungan tetap sejalan dan memuaskan bagi pengguna.
+Persetujuan Berjenjang Kertas → Komite Otoritas Desain
+Dulu (Paper-based - Circular Approval): Persetujuan dilakukan manual secara berjenjang lewat nota/kertas dinas. Setiap peninjau memberikan masukan terpisah, sehingga tim harus menyelaraskan umpan balik yang berbeda-beda tersebut secara manual.
+Sekarang (Design Authority Committee): Fungsi/fitur yang krusial dan berisiko tinggi disetujui langsung melalui rapat komite bersama para pengambil keputusan. Semua masukan langsung dibahas, diakomodasi, dan disepakati di tempat saat itu juga.
+Pengambilan Keputusan Terpisah → Pengambilan Keputusan Mandiri
+Dulu (Segregated Decision Making): Keputusan bersifat silo/terpisah, di mana setiap divisi hanya fokus pada areanya masing-masing dan menggunakan memo manual (disposisi) untuk menyetujui dokumen proyek.
+Sekarang (Empowered Decision Making): Mayoritas keputusan fungsi sistem langsung diputuskan di tingkat squad (yang sudah berisi perwakilan dari berbagai divisi pendukung). Tim ini diberi wewenang penuh untuk mengambil keputusan langsung dalam workshop atau rapat.
+
+
+
+
+
+
+
+Overview Wealth Management
+Wealth manajemen adalah suatu program untuk mengelola/mengolah kekayaan nasabah bank agar tumbuh, terjaga, dan berputar.
+Layanan/pilar wealth management terdiri dari 3 yaitu:
+Wealth accumulation
+Wealth protection
+Asuransi
+Properti
+Rekening (jikalau kekayaan diatas 100jt harus ada surat keterangan ahli waras), biasanya dokumen surat ahli waris sangat susah untuk dibuktikan karena terkadang suratnya tidak ada/tidak ditemukan. Bisa menjembatani pembagian waris
+Wealth distribution
+
+Value Proposition 
+BNI Emerald
+Expert advisory
+Dedicated relationship manager
+Global privileges
+Ada 60 ribu orang
+BNI Private
+Expert advisory
+Dedicated senior relationship manager
+Global privileges
+Next gen program
+Untuk menjaga kedekatan antara keluarga nasabah (tidak hanya ortu)
+Agar kekayaan orang tua turun ke anak dan menetap di BNI
+Hanya ada 1500an orang
+Bisa dicari terkadang melalui event tertentu seperti event golf atau bisa juga dengan kolaborasi brand luxury agar saling tukar nasabah
+
+Bancaassurance
+Dalam konsepnya asuransi terdiri dari 2 hal yaitu:
+Wealth planning
+Menjaga kekayaan nasabah hingga ke multi generasi
+Legacy planning
+memastikan nilai, budaya dan standar keluarga tetap tinggi hingga multi generasi
+
+Perbedaan segmen berdasarkan KPI
+KPI Fee Based Income
+Private, lead generator Private RM
+Emerald, lead generator Emerald RM
+High affluent, Personal RM
+KPI non FBI
+Lead generatornya ada bussiness & Transaction RM, Sub Branch Manager, BBO, dan Frontliners
+Affluent
+Upper mass
+Mass
+Asso, program & retail RM
+Debitur SBP dan RPB
+Product champion
+Asurasni hari tua?, bisa cair jika sudah mencapai umur tertentu/meninggal akan tetapi ada potongan jika nasabah ingin menarik sebelum waktunya
+Solusi cerdas, 10ribu usd per tahun
+
+Produk Investasi
+Jenis instrumennya
+Saham
+	Terbagi menjadi 2 tipe yaitu
+Dividen
+Capital gain
+Surat utang
+Kupon, Capital gain, Relatif lebih stabil
+	Info terkait obligasi
+Penerbit
+Government, corporate, minicipal
+Kupon
+Fixed, float, zero
+Fitur
+Regular, callable, putable, convertible
+Jangka waktu
+Pendek, medium, panjang, perpetual
+Jenis kupon
+Konvensional, syariah/sukuk
+Priority
+senior/ordinate, junior/subordinate
+Faktor yang mempengaruhi harga
+Kondiri makro, Suku bunga, Kondisi penerbit, Permintaan dan penawaran, Inflasi, Likuiditas obligasi di pasar, batas waktu, kupon
+
+
+
+
+
+Reksa dana
+Diversifikasi, Capital gain, Efisiensi waktu
+Pada reksadana MI (manager investasi ) dan BK (Bank Kustodian) harus berbeda tidak boleh sama demi transparansi dan keamanan
+Adapun jenis dari reksadanan yaitu:
+RDPU
+RDPT
+RDC
+RDS
+Reksa Dana Terproteksi
+	Fitur biaya reksa dana
+DSC
+Non DSC
+ETF (Exchange Traded Fund)
+Derivatif
+
+Pelaku pasar modal
+Investor
+Emiten
+Broker/dealer
+Regulator
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Day 5
+Master banking business
+
+Visi bni
+Dipercaya dan berinovasi secara institusi global dengan memberikan performa yang stabil
+
+Misi bni
+Memberikan inovasi pelayanan finansial dan solusi digital baik untuk nasabah domestik ataupun mancanegara
+Menciptakan value kepada investor, integritas dan korporasi pemerintahan yang baik (sesuai regulasi yang diberikan oleh regulator)
+Menjadi partner terbaik untuk pertumbuhan ekonomi indonesia
+
+Bank BNI value proposition
+Target business
+Managing profitability
+Managing risk
+compliance
+Membantu customer
+Lowers cost, Memotong pengeluaran operasional agar modal yang keluar lebih sedikit 
+Improved efficiency, Kerja jadi lebih cepat dan hemat energi/sumber daya dengan hasil yang sama atau lebih baik
+Increased profits, Pendapatan bersih otomatis naik karena biaya turun dan penjualan meningkat
+Gain a competitive advantage, Memiliki nilai lebih atau keunikan yang membuat bisnis kita lebih unggul daripada pesaing di pasar
+Get new lesser error, Proses kerja menjadi lebih akurat sehingga meminimalisir kesalahan atau produk cacat 
+Wholesale & consumer
+Wholesale sendiri memiliki beberapa tipe/kelas berupa:
+Company
+Enterprise
+Commercial
+Retail
+program/kur 
+Consumer pun memiliki beberapa tipe/kelas berupa:
+Wealth/HNWI
+Affluent
+Upper mass
+mass
+Balance Sheet Bank
+Assets
+Loans (70%+), korporasi, SME, Consumer Loans
+Securities, SBN dan investasi
+Placement, likuiditas
+Fixed asset, teknologi, property dan peralatan
+Liabilities
+Deposits, giro dan tabungan
+Term deposits
+Borrowings
+Equity
+
+Ekosistem trankasi bank 
+
+6 objektif pembelajaran
+Strategic paradigm
+Value chain mastery
+Penjelasan terkait bagian dibawah ini yang menghasilkan margin/value untuk suatu bisnis karena pada akhirnya semua bisnis/yayasan/dll akan mencari margin atau keuntungan dan akan mendapatkan sebuah value sehingga muncul sebuah perbedaan dari yang lain
+Primary activities
+Inbound logistic, Operations, Outbound logistics, Marketing & sales, After-sales services
+Secondary activities
+Infrastructure, HR Management, Technological development, procurement
+	Adapun value chain pada banking yang lebih spesifik berupa:
+Funding (inbound): raising low-cost deposits (CASA), Proses bank mengumpulkan uang dari masyarakat. Fokusnya mencari tabungan dan giro (CASA) karena biaya bunganya sangat murah bagi bank.
+Processing: credit analysis, risk scoring, and underwriting, Tahap menyaring calon peminjam di "dapur belakang". Bank menganalisis kemampuan bayar dan tingkat risiko nasabah sebelum memutuskan kredit disetujui atau tidak.
+Lending (outbound): distributing corporate and consumer loans, Proses memutarkan uang bank menjadi keuntungan dengan cara memberikan pinjaman, baik untuk modal perusahaan (korporasi) maupun kebutuhan pribadi (konsumer).
+Servicing: transactional banking and account management, Operasional harian untuk merawat nasabah, seperti mengelola transfer, pembayaran, dan aplikasi mobile banking. Ini adalah sumber utama pendapatan biaya admin (Fee-Based Income).
+
+Alm mechanics
+P&L deconstruction
+Digital ecosystems
+Digital mindset
+
+Managing High Performance Company
+
+3 rintangan atau tantangan dalam mengelola produktivitas perusahaan
+Revenue uplift
+Cost effective
+Benefit	
+
+Kenapa digital mindset itu penting khususnya di banking?
+Harus cepat beradaptasi terhadap perubahan teknologi
+Meningkatkan efisiensi dan produktivitas
+Mengerti dan melayani customer digital
+Meningkatkan tingkat kompetisi pada industri finansial
+Menerapkan/menggerakan keamanan digital dan aturan
+Self-awareness
+Definition of self-awareness, terkait decision-making
+Importance in personal development, identifikasi kelebihan dan kekurangan agar mengetahui gap kita dimana sehingga kita bisa menutupnya
+Importance in professional development, tingkatkan kapabilitas kepemimpinan serta berkontribusi secara positif dan produktif dalam lingkungan kerja
+

@@ -1,0 +1,4 @@
+component,basis,unit_cost_rp,quantity,unit,total_rp,data_type
+Pengembangan & integrasi (tim 3 orang x 4 bulan),"Estimasi tarif blended tim AI engineering pilot skala kecil di Indonesia (ASUMSI, bukan RAB riil)",45000000,12,orang-bulan,540000000,assumption
+Biaya API LLM & infrastruktur cloud,Rp500/dokumen (estimasi order-of-magnitude) x jumlah dokumen diproses,500,40,dokumen,20000,assumption
+Change management & pelatihan pengguna,Estimasi biaya tetap sesi pelatihan lintas unit bisnis,150000000,1,paket,150000000,assumption

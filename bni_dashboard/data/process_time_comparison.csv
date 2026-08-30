@@ -1,0 +1,5 @@
+process_name,before_minutes,after_minutes,data_type,pct_reduction
+Legal document preparation,90,27,illustrative,70.0
+Source / citation verification,60,7,illustrative,88.0
+Procurement price comparison,75,8,illustrative,89.0
+Document review,50,14,illustrative,72.0

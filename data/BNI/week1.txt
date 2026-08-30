@@ -1,0 +1,971 @@
+Day 2
+BRAVE	
+Branch sebagai POS utama
+Region sebagai pengarah strategi bisnis tingkat wilayah
+Area sebagai dengan eksekusi bisnis
+Value penciptaan nilai bisnis, profitabilitas dan produktivitas
+Empowerment pengembangan kapabilitas dan pemenuhan enablers
+
+Penjelasan terkait latar belakang new region, area abd branch model
+Secara garis besar ada 4 poin tema brave:
+Penguatan positioning market
+1700 kc/kcp belum optimal untuk capai POS
+Refocussing penggarapan potensi market oleh cabang sehinga lebih efektif
+Banyak nasabah potensial yang belum memiliki pengelola
+Pemetaan struktur dan fungsi organisasi 
+Fungsi organisasi pada wilayah yang sebelumnya RCF, RBD (menetapkan strategi yang akan di eksekusi oleh KC), RBS
+Fungsi pendukung area head yang perlu diperkuat
+Layer organisasi berlapis
+Penajaman business process dan perf mgt
+Pengembangan kapabilitas people
+
+Implementasi kapabilitas di kantor wilayah, area dann cabang
+Penataan organisasi dan fungsi
+Penataan business process
+Penataan network development
+Penataan sales model
+Penataan performance management
+Penataan people development
+
+KCP dibuat lebih mandiri/berdiri sendiri agar tidak perlu menunggu target turun/arahan dari KCU akan tetapi untuk pelaporan dan karena regulasi KCP tetap dibawah KCU (hanya dibuat lebih mandiri), dan utamanya KCP salah satu targetnya ada referral. Dan KCU tidak bisa menolak permintaan referral dari KCP karena KCU tetap memiliki target yang harus dicapai dari bagian referral yang didapat dari permintaan KCP.
+
+Misal ada orang buka kredit di KCP, permintaan kreditur tersebut akan KCP serahkan ke KCU karena KCP gak bisa proses kredit. Akan tetapi ada juga KCP OBO yang dapat proses kredit (kalau non OBO gak bisa proses kredit).
+
+KCP gak punya “spokes” walau dikasi target kredit, maka dari itu muncul implementasi hub & spokes yaitu SBC dan SBC bertanggung jawab untuk mengumpulkan data. Pengakuan kinerja dilakukan secara mirroring antara spokes sebagia pemberi referral dengan hub sebagai pemroses padanannya
+
+List kanwil bni
+Wilayah 01 (W01): Medan || Cakupan: Sumatera Utara dan Nanggroe Aceh Darussalam (NAD).
+Wilayah 02 (W02): Padang || Cakupan: Sumatera Barat, Riau, dan Kepulauan Riau.
+Wilayah 03 (W03): Palembang || Cakupan: Sumatera Selatan, Jambi, Bengkulu, Lampung, dan Bangka Belitung.
+Wilayah 04 (W04): Bandung || Cakupan: Jawa Barat bagian timur dan tengah (Bandung, Cirebon, Tasikmalaya, Sukabumi, dll).
+Wilayah 05 (W05): Semarang || Cakupan: Jawa Tengah bagian utara, timur, dan DI Yogyakarta.
+Wilayah 06 (W06): Surabaya || Cakupan: Jawa Timur bagian utara, timur, dan Madura (Surabaya, Gresik, Sidoarjo, Bojonegoro, Mojokerto).
+Wilayah 07 (W07): Makassar || Cakupan: Sulawesi Selatan, Sulawesi Barat, Sulawesi Tenggara, dan Maluku.
+Wilayah 08 (W08): Denpasar || Cakupan: Bali, Nusa Tenggara Barat (NTB), dan Nusa Tenggara Timur (NTT).
+Wilayah 09 (W09): Banjarmasin || Cakupan: Seluruh pulau Kalimantan (Kalimantan Selatan, Timur, Barat, Tengah, Utara).
+Wilayah 10 (W10): Jakarta Kota || Cakupan: Jakarta Barat, Jakarta Utara, dan area sekitarnya.
+Wilayah 11 (W11): Manado || Cakupan: Sulawesi Utara, Sulawesi Tengah, Gorontalo, Maluku Utara, dan Papua.
+Wilayah 12 (W12): Jakarta Senayan || Cakupan: Jakarta Selatan, Tangerang, dan area Senayan.
+Wilayah 13 (W13): any (Tidak Digunakan) || Cakupan: Nomor kode 13 dilewati dalam penomoran internal struktur BNI.
+Wilayah 14 (W14): Jakarta Pusat || Cakupan: Wilayah administrasi Jakarta Pusat dan sekitarnya.
+Wilayah 15 (W15): Jakarta Kemayoran || Cakupan: Area Jakarta Timur, Bekasi, Karawang, dan wilayah administratif terkait.
+Wilayah 16 (W16): Bogor || Cakupan: Bogor, Depok, Cibinong, Sukabumi, dan Cianjur.
+Wilayah 17 (W17): Yogyakarta / Solo || Cakupan: Jawa Tengah bagian selatan (Solo, Magelang, Purwokerto, Cilacap) dan DIY.
+Wilayah 18 (W18): Malang || Cakupan: Jawa Timur bagian selatan (Malang, Kediri, Blitar, Pasuruan, Jember, Banyuwangi, Madiun, Pacitan).
+
+Budaya Kerja
+KAI dapat dijadikan contoh sebagai corporate culture karena perubahannya baik dari segi perusahaan, pelayanan maupun profitabilitasnya
+
+Perjalanan budaya kerja bni
+1946: naskah kekeluargaan bni
+1968: swadarma bhakti nagara bni
+1986: 5 pilar budaya kerja bni
+2007: prinsip 46 bni
+2020: akhlak bni
+2025: melayani sepenuh hati danantara
+
+3 marga budaya
+Seva: the way we serve 
+Karya: the way we perform
+Raksa: the way we protect
+
+4 nilai
+Profesionalisme
+Integritas
+Orientasi pelanggan
+Penyempurnaan tiada henti
+
+6 karsa
+Karsa satya: berani bersikap benar, patuh dan integritas
+Karsa daya: lincah, tangguh dan tekun untuk mencapai tujuan
+Karsa rasa: berorientasi pada pelanggan dengan empati
+Karsa mahira: berstandar kinerja tinggi, selaras dengan kebutuhan pasar
+Karsa tumbuh: growth oriented
+Karsa jaya: kompeten, tanggungjawab
+
+Klasifikasi job family BNI ada 2 yaitu:
+Cluster bisnis
+Cluster enablers
+
+
+
+
+
+PPPSPM
+
+4 risiko yang dapat terjadi dari AP-PPT PPPSPM
+Risiko operasional
+Risiko kepatuhan
+Risiko hukum
+Risiko reputasi
+
+Dasar hukumnya: 
+Uud no 8 tahun 2010
+Uud no 9 tahun 2013
+Pojk no 8 tahun 2023
+
+Pasal2 terkait pencucian uang (semuanya dalam taraf maksimal):
+Pasal 3 uu no 8 2010 || penjara 20 tahun denda 10 m
+Pasal 4 uu no 8 2010 || penjara 20 tahun denda 5 m
+Pasal 5 uu no 8 2010 || penjara 5 tahun denda 1 m
+Pasal 10 uu no 8 2010 || penjara sama seperti pasal 3,4,5
+
+Tahapan pencucian uang (PLI):
+Placement
+Pelaku menempatkan dana di bank
+Layering
+Pemisahan dana guna untuk menghilangkan jejak sumber dana (pindah ke banyak tangan)
+Integration
+Menggabungkan dana atau kekayaan yang terlihat sudah sah di mata hukum dan sudah dapat digunakan untuk apapun (bisnis, investasi, belanja, dll) 
+
+Modus dasar pencucian uang:
+Smurfing 
+Pemecahan transaksi yang dilakukan ke beberapa akun
+Structuring
+Menghindari pelaporan dengan memecah transaksi menjadi lebih kecil
+U turn
+Mengaburkan dengan memutarbalikan transaksi yang ujung2nya dibalikin ke rekening asal
+
+
+Tahap pendanaan terorisme
+Collecting
+Moving
+Using
+
+
+Tindak pidana
+Mode pendanaan
+Investasi
+Sumbangan yayasan
+Kegiatan illegal
+Negara sponsor
+Ciri-ciri transaksi
+Profil
+
+Kriteria yang di perhatikan terkait PPSPM
+Area geografis
+Penyediaan produk/jasa/lintas negara
+Defense and dual use goods
+Bidang usaha lintar negara
+Entitas dan orang perseorangan
+
+Kewajiban bank
+Kewajiban pelaporan
+PPATK
+Transaksi mencurigakan
+Transaksi tunai
+Transfer dana dari luar negri
+Sipesat
+Sipendar
+OJK
+Dokumen penilaian risiko bank
+Laporan realisasi pengkinian
+Pembaharuan kebijakan dan prosedur APU PPT PPPSPM
+Laporan pemblokiran dan laporan nihil tindak lanjut DITOT & DPPSPM
+Kewajiban pemantauan
+Pemantauan profil
+Pemantauan transaksi
+Kewajiban pendokumentasian
+
+Tahapan CDD (customer due diligince)
+Identifikasi 
+	Meneliti profil calon nasabah secara detail
+Verifikasi
+	Mengecek kebenaran dokumen informasik yang diberikan oleh calon nasabah
+Pemantauan
+Mengenali profil dan transaksi nasabah 
+
+
+
+Kewajiban bank atas PEP
+Pastikan
+	Memastikan nasabah dan beneficial owner yang termasuk dalam kriteria PEP
+Buatkan
+Membuat daftar PEP
+Terapkan
+Terapkan EDD kepada PEP
+Flagging
+	Melakukan flagging PEP
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Day 3
+Customer experience
+PUJK (pelaku usaha jasa keuangan) wajib memiliki fungsi atau unit untuk pelaksanaan ketentuan perlindungan konsumen & masyarakat ‘PJOK no 22/2023’
+UU no 8 tahun 1999 pasal 3 tentang perlindungan konsumen
+PBI no 3/2023 dan PJOK no 22/2023 tentang perlindungan konsumen & masyarakat di sektor jasa keuangan
+POJK no 22/2023 
+
+Prinsip perlindungan konsumen ada 7:
+Edukasi yang memadai
+Keterbukaan dan transparansi informasi produk dan/atau layanan
+Perlakuan yang adil dan perilaku bisnis yang bertanggung jawab
+Perlindungan aset, privasi dan data konsumen
+Penanganan pengaduan
+Penegakan kepatuhan persaingan yang ketat
+
+Perilkau dasar PUJK
+Hak konsumen:
+Mendapatkan keamanan atas produk
+Memilih produk
+Mendapatkan produk sesuai penawaran yang dijanjikan
+Mendapatkan informasi produk dan layanan
+Pendapatnya didengar dan pengaduan atas produk
+Mendapatkan perlindungan dan upaya penyelesaian sengketa
+Mendapatkan edukasi keuangan
+Diperlakukan atau dilayani secara benar
+Kewajiban konsumen:
+Mendengarkan penjelasan informasi produk dan layanan yang disampaikan oleh PUJK
+Membaca, memahami dan melaksanakan ketentuan penggunaan produk
+Beritikad baik dalam menggunakan produk
+Memberikan informasi yang benar
+Membayar sesuai harga produk
+Mengikuti upaya penyelesaian sengketa (apabila ada sengketa)
+
+Sanksi dari regulator
+Tidak comply terhadap kewajiban pelaporan penilaian sendiri (self assessment)
+50juta bank umum dan 10 juta bagi PUJK berupa bank perekonomian rakyat
+Tidak menyampaikan pelaporan
+Terlambat menyampaikan
+Tidak comply terhadap kewajiban 7 cyce product dan lainnya
+Sanksi denda maksimal 15 milya
+Meluncurkan produk keuangan baru tanpa melalui persetujuan OJK
+PUJK mengubah fitur produk atau layanan tanpa melakukan pelaporan ke OJK
+Tidak menghentikan produk yang telah dinyatakan harus dihentikann oleh OJK
+
+Kontribusi bni untuk Indonesia Anti Scam Center (IASC)
+BNI memiliki 8 staf di divisi CXC yang bertugas
+Menganalisa aliran dana
+Melakukan pemblokirn rekening
+Pencatatan hasil penyelesaian pengaduan pada apiliasi IASC
+
+Terdiri dari 5 CX yaitu:
+CX Call Department
+Memberikan layanan informasi, pengkinian data, transaksi, menangani complaint, melakukan referral
+SLI (Service Level Indicator)
+First contact resolution
+Complaint handling
+Referral
+Layanan call ada 6 yaitu:
+Bni call 1500046
+Bni emerald 1500098
+Merchant care & agent 1500146
+Branch support 021-25541212
+Trade & remittance +6221-29946099*
+Wholesale 021-29946046
+CX Digital Department
+Memberikan informasi pengkinian data, menangani complaint nasabah, melakukan KYC melalui video call dan mengembangkan strategi layanan digital
+SLI (Service Level Indicator)
+First contact resolution
+Complaint handling
+Opening Account
+Layanan digital:
+Video call
+Whatsapp business 0811-588-1946
+Bni mobile banking melalui chatbot
+Website bni melalui opsi chat with us
+CX Excellence Deparment
+CX Protection Department
+CX Management Department
+Mengelola serta monitoring complaint nasabah, berkoordinasi dengan value chain untuk percepatan penyelesaian complaint, mengelola proses mediasi atas complaint nasabah melalui lembaga atau regulator serta mengelola laporan kepada regulator
+Complaint resolution rate
+Penurunan jumlah complaint
+Risiko reputasi
+
+Pengantar Struktur & fungsi organisasi
+Struktur bank pada umumnya:
+Kantor pusat KP || 1
+Induk organisasi
+Kantor wilayah Kanwil || 17
+Membantu KP per regional
+Kantor cabang KC || 197
+Melakukan kegiatan usaha perbankan
+Kantor cabang pembantu KCP || 1580
+Membantu KC atau KCBLN melaksanakan kegiatan usaha
+Kantor fungsional KF
+Melaksanakan 1 kegiatan usaha perbankan
+Terminal perbankan elektronik TPE
+Kantor cabang dari bank yang berkedudukan KCBLN
+Luar negri
+Sebaran jaringan operasional:
+KP 1
+Kanwil 17
+KC 197
+KCP 1580
+SBC (sentra bisnis sme) 26
+CMC (sentra bisnis komersial) 20
+LNC (sentra bisnis konsumer) 12
+
+Matrik peran fungsi di wilayah:
+Strategi
+RCF
+Regional Strategy
+Performance management
+Channel management
+RBD
+Business development
+Executor (ekesekutor target bisnis)
+Area
+KC
+SBC
+LNC
+Emerald
+Local Chainstore
+Support
+RBS
+Legal
+Kebijakan layanan
+Perangkat kerja
+Pengadaan dan pengelolaan aset
+BUM
+RHM
+Pegelolaan SDM
+
+Operasionalisasi
+RCF
+Mengelola riset pasar/ekonomi regional dan nasional
+Menyusun, monitoring secara bankwide
+Mengelola performance dan budgeting
+Menganalisa asset dan liability transaksi di wilayah dan mengelola strategi untuk memaksimalkan profit termasuk CKPN
+Mengelola strategi penataan titik lokas KC/KCP agar bisnis lebih optimal
+Mengelola data kinerja keuangan, melakukan aalisis kepada pimpinan wilayah dan pusat
+Memberikan rekomendasi strategi bisnis berupa pengembangan produk, perbaikan bisnis proses, exceotion case, dll) ke pimpinan wilayah  termasuk memberikan inputan dan berkoordinasi dengan area head, departemen pengembangan bisnis, transaksi & digital, departemen business support dan regional human capitalx
+RBD
+Scope supervisi
+Corporate & enterprise business
+Institution & comercial business
+Retail productive & business program
+Consumer funding & wealth business
+Consumer lending business
+Digital business solution
+agen 46 & government program
+
+Struktur Organisasi KP & KCP
+
+KCP
+Team leader terbentuk apabila KCP ditetapkan sebagai KCP yang memiliki kewenangan memproses pengajuan kredit
+Supervisor terbentuk apabila rasio sales 15-25 orang
+Supervisor terbentuk apabila menurut KC dibutuhkan supervisor untuk membantu pimpinan KCP
+Unit emerald terbentuk apabila KCP ditetapkan oleh pusat karena memiliki nasabah emerald
+New region hub & spokes concept
+Konsep hub & spoke
+Hub merupakan unit processing Loan atas KC/KCP padanan (spokers) yang juga mempertimbangkan geografis area
+Spokes memberikan referral pipeline kepada hub berdasarkan produk
+Mapping hub & spoke ditetapkan oleh kantor pusat berkoordinasi dengan kantor wilayah
+
+Mekanisme pemberian referal kepada HUB (STA = Stand Alone)
+Loan sme > 1M kepada KC STA atau SBC
+Loan kur & kredit (<= 1M) kepada STA, KC non STA atau KCP OBO
+Loan griya & flexi (non fixed income) kepada LNC atau KC STA
+Loan griya & flexi (fixed income) kepada KC STA atau KC non STA
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Day 4
+Good Corporate Governance (GCC)
+Latar belakang teori GCG
+GCG adalah bagaimana perusahaan diarahkan dan dikendalikan dengan tujuan meningkatkan kemakmuran bisnis secara accountable untuk mewujudkan nilai pemegang saham dalam jangka panjang dengan tidak mengabaikan kepentingan stakeholders lainnya
+Stewardship Theory
+Memandang manajemen sebagai pihak yang dapat dipercaya dan dibangun berdasarkan filosofis mengenai sifat manusia
+Agency Theory
+Memandang manajemen sebagai pihak yang tidak dapat dipercaya, agency theory ini mendapat respon yang lebih luas karena dipandang lebih mencerminkan kenyataan yang ada
+GCG
+Pengelolaan perusahaan harus diawasi dan dikendalikan untuk memastikan bahwa pengelolaan dilakukan dengan penuh kepatuhan pada suatu peraturan dan ketentuan yang berlaku
+Good
+Acceptable
+Obey the law
+Value creation
+Corporate Governance
+Tata kelola perusahaan
+Ada pula beberapa peraturan berupa:
+POJK no 17 tahun 2023 tentang penerapan tata kelola bagi bank umum
+POJK no 4/POJK 03 tahun 2016 tentang penilaian tingkat kesehatan bank umum bahwa bank wajib menyampaikan laporan tingkat kesehatan bank (profil risiko, GCG, rentabilitas & permodalan)
+Beberapa prinsip GCG:
+Transparency
+Accessibility
+Responsibility
+Indenpedency
+Fairness
+
+Governance Process - Upaya penigkatan GCG
+Whistleblowing System(WBS)
+Sarana komunikasi bagi bni Hi-movers dan pihak eksternal untuk melaporkan dugaan pelanggaran
+Dikelola dengan bantuan konsultan deloitte atas pertimbangan profesionalisme
+
+Governance outcome self assessment
+15 faktor penerapan GCG
+3 aspek penilaian
+
+Tata Kelola Terintegrasi (TKT)
+
+Pengertian dasar hukum TKT
+Tata kelola memiliki prinsip serupa dengan GCG
+Lalu TKT memiliiki 7 faktor penerapan berbeda dengan GCG yang memiliki 15 faktor
+
+Gratifikasi
+Pemberian dalam artian luas yang diterima baik di dalam maupun luar negri menggunakan sarana elektronik maupun non elektronik (uu no 31 tahun 1999 jo, uu no 20 tahun 2001 tentang pemberantasan tindak pidana korupsi)
+
+Sanksi penerima gratifikasi dan suap adalah PHK (tidak peduli dalam jumlah berapapun)
+
+Perbedaan suap dan gratifikasi
+Suap
+Penyuapan adalah  bentuk pemberian barang, uang, janji, dll yang memengaruhi pengambilan keputusan dari pihak penerima suap
+Suap melibatkan 2 pihak (penerima dan pemberi)
+Tujuannya untuk memengaruhi pengambilan keputusan
+Gratifikasi
+Terkait jabatan, tidak meminta, insentif, dianggap rezeki, disamarkan
+Tujuan untuk pemberian hadiah
+Setiap pemberian gratifikasi akan dianalisa sejauh mana pemberian tersebut berhubungan dengan jabatan penerima dan berkaian dengan kewajiban serta tugasnya
+
+Dampak suap dan gratifikasi
+Memengaruhi keputusan
+Rusaknya sistem & prosedur
+
+Pembagian gratifikasi
+Wajib lapor
+Kedinasan
+Non kedinasan
+Tidak wajib lapor
+Warisan 
+Keuntungan dari bunga, deposito
+Manfaat dari koperasi
+Manfaat kegiatan kedinasan
+Hadiah tidak dalam bentuk uang dan lebih berarah sosialisasi
+Hadiah juara
+Reward peningkatan 
+Hasiah undian, voucher, dan umum
+Profesi pekerjaan honor
+Kegiatan kedinasan seperti akomodasi, dll
+Karangan bunga saat suatu acara
+Aqiqah atau acara keagamaan lainnya
+Pemberian atas musibah
+Pemberian sesama kerja seperti ultah, pensiun, perpisahan, dll
+Pemberian sesama rekan kerja berupa barang (non uang)
+Pemberian berupa makanan
+Pemberian cendramata
+Alur pelaporan gratifikasi
+Pelapor (10 hari setelah menerima gratifikasi)
+Pengisian formulir (melalui cims.bni.co.id)
+Pengelolaan barang (barang mudah rusak kasih ke panti asuhan, klo tidak mudah rusak kasih ke pemimpin unit)
+Verifikasi (lakukan verikasi dokumen dan meneruskan ke kpk)
+Analisa (kpk akan melakukan analisa dan sk kepemilikan gratifikasi)
+Menerima sk (menerima sk dari kpk)
+
+Implementasi UU no 27 tahun 2022 (UU PDP) di bni
+Prinsip-prinsip perlindungan data pribadi
+Data minimization
+Pengumpulan data pribadi dilakukan secara terbatas dan spesifik, sah secara hukum dan transparan
+Purpose limitation
+Pemrosesan data pribadi dilakukan dengan tujuannya
+Data protection
+Pemrosesan data pribadi dilakukan dengan melindungi keamanan data pribadi dari pengaksesan yang tidak sah
+Accuracy and completeness
+Pemrosesan data pribadi dilakukan secara akurat, lengkap, tidak menyesatkan, terkini dan dapat dipertanggungjawabkan
+Data subject rights
+Pmerosesan data pribadi dilakuka dengan menjamin hak subjek data pribadi
+Frequency
+Pemrosesan data pribadi dilakukan dengan memberitahukan tujuan pemrosesan serta kegagalan perlindungan data pribadi
+Storage limitation
+Data pribadi dimusnahkan dan/atau dihapus setelah masa retensi berakhir atau berdasarkan permintaan subjek data pribadi kecuali ditentukan oleh peraturan perundang-undangan
+Data dimusnahkan jika sudah minimal 5 tahun atau 10 tahun berdasarkan ketentuan bni
+accountability
+Pemrosesan data pribadi dilakukan secara bertanggungjawab dan dapat dibuktikan secara jelas
+
+Data pribadi umum dan spesifik
+Data pribadi umum
+Pasal 4 ayat 3 uuno 27 tahun 2022 (UU PDP)
+Nama lengkap, jenis kelamin, dll
+Data pribadi spesifik
+Pasal 4 ayat 2 UU no 27 tahun 2022 (UU PDP)
+Data dan informasi kesehatan
+Data biometri
+Data genetika
+Catatan kejahatan
+Data anak
+Data keuangan pribadi
+
+Data pemrosesan data pribadi
+Pemerolehan dan pengumpulan
+BNI mengumpulkan data pribadi seperti anam, alamat, dll
+Pengolahan dan penganalisisan
+BNI menggunakan data pribadi untuk menganalisis preferensi dan perilaku nasabah
+Penyimpanan
+Data pribadi nasabah BNI yang dikumpulkan disimpan dengan aman dalam database dengan akses terbatas
+Perbaikan dan pembaruan
+BNI dapat melakukan perbaikan dan pembaruan terhadap data pribadi atas persetujuan subjek data pribadi
+Penampilan, pengumuman, transfer, penyebarluasan atau pengungkapan
+Menampilkan pemrosesan data
+CS dapat memanggil nasabah sesuai dengan data yang diproses
+Transfer data nasabah ke perusahaan lain
+Mendapat persetujuan dari subjek data pribadi atas penggunaan data pribadi
+Menerima panggilan dari pengadilan yang meminta akses ke data pelanggan
+Penghapusan atau pemusnahan
+Data pribadi dimusnahkan dan/atau dihapus setelah masa retensi berakhir atau berdasarkan permintaan subjek data pribadi
+
+
+Hak subjek data pribadi
+Pemerolehan data
+Hak penerimaan informasi (pasal 5)
+Pengolahan dan penganalisisan
+Hak penolakan (pasal 10) dan hak pembatasan (pasal 11)
+Penyimpanan
+Hak pengaksesan (pasal 7)
+Perbaikan dan pembaruan
+Hak pembaruan dan perubahan (pasal 6)
+Penampilan, pengumuman, transfer, penyebarluasan atau pengungkapan
+Hak penggugat dan ganti rugi (pasal 12) serta right to portability (pasal 13)
+Peghapusan dan pemusnahan
+Hak pengapusan dan pemusnahan (pasal 8) serta hak penarikan persetujuan (pasal 9)
+
+Jenis dasar pemrosesan data pribadi
+Persetujuan yang sah secara eksplisit (explicit consent)
+Bni meminta persetujuan dari nasabah untuk memproses data pribadi
+Kewajiban kontraktual (contract)
+Nasabah bni menandatangani formulir pembukaan rekening produk
+Kewajiban hukum (legal obligation)
+Kewajiban pelaporan kepada regulator antara lain OJK atau BI
+Kepentingan viral (vital interest)
+Memproses data pribadi nasabah yang tidak sadarkan diri
+Kepentingan umum (public interest)
+Bni melakukan pemrosesan data pribadi atas permintaan KPK
+Kepentingan sah (legitimate interest)
+Bni memasang kamera cctv di area kantor cabang
+
+Pedoman perusahaan terakit UU PDP
+Kebijakan perlindungan data pribadi
+Prosedur perlindungan data pribadi
+Ketentuan umum PDP
+Manajemen resiko pihak ketiga pada aspek PDP
+Data Protection Impact Assessment
+Standar retensi data
+Record of processing activity
+Cross border data transfer (CBDT)
+Manajemen persetujuan
+Hak subjek data pribadi
+Manajemen insiden kegagalan PDP
+Petunjuk teknis
+Transfer impact assessment
+Form ROPA (Record Of Proocessing Activity)
+Form DPIA (Data Protection Impact Assessment)
+Data Processing Agreement
+Formulir permohonan pemenuhan hah subjek data pribadi
+Formulitr personal data breach report
+
+ROPA adalah rekaman atas aktivitas pemrosesan data pribadi yang dilakukan oleh setiap orang, badan publik, organisasi internasional
+Adapun alur pemrosesan data pribadi berupa:
+Pemerolehan data (collection)
+cycle sebelum ke penghapusan/pemusnahan
+Penyimpanan (storage)
+Pengolahan (process)
+perbaikan/pembaruan (correction)
+penampilan/pengiriman ()
+penghapusan/pemusnahan (destruction)
+
+DPIA dilakukan ketika data pribadi memiliki potensi risiko tinggi berupa:
+Pengambilan keputusan secara otomatis
+Pemrosesan atas data pribadi yang bersifat spesifik (ini yang terpenting)
+Pemrosesan data pribadi dalam skala besar
+
+CBDT (cross border data transfer)
+Suatu aktivitas pemrosesan data pribadi merupakan CBDT jika BNI mentrasfer data pribadi ke luar wilayah. CBDT pun tidak terbatas pada pengiriman atau permiintaan data pribadi tapi juga mencakup penyediaan akses jarak jauh agar data pribadi menjadi tersedia.
+
+Misal:
+Jika ada orang transfer dari indo ke singapura maka akan menerapkan peraturan indonesia karena penetapan aturannya berdasarkan source transfer bukan destination transfer
+
+TIA (Transfer Impact Assessment)
+
+Pihak-pihak yang berkaitan dengan UU PDP
+Pengendali data pribai
+Prosesor data pribadi
+Subjek data pribadi
+Data protection officer (DPO)
+Lembaga
+
+TPRM (Third Party Risk Management)
+Third party tiering
+Menentukan risiko inheren, adapun berikut penilaiannnya
+High || penilaian mandiri dan penilaiannya 6 bulan sekali
+Medium || penilaian mandiri dan penilaiaiannya 6 bulan sekali
+Low || 1 bulan sekali
+Third Party Risk Assessment
+Adapun perhitungan untuk menentukan nilai risiko residualnya
+High
+Medium
+Low
+Penghitungan Nilai Risiko Residual
+Evaluasi Risiko Berkala
+
+Pelaporan kegagalan PDP/incident breach
+Pelaporan maksimal 3x24jam setelah kegagalan PDP diketahui, untuk pelaporan dapat dilakukan di:
+otoritas/lembaga
+Dapat melaporkan melalui email
+Subjek data pribadi terdampak
+Dapat dikomunikasikan melalui email/sms/notif app resmi milih perusahaan
+Masyarakat (dalam hal tertentu)
+Dapat dikomunikasikan melalui media pers atau medsos
+
+Informasi yang diperlukan minimal:
+Data pribadi
+Kapan
+
+Daftar sanksi pada UU PDP
+Sanksi administratif
+Sanksinya paling tinggi mencapai 2% dari pendapatan tahunan atau penerimaan tahunan terhadap variabel pelanggan
+Peringatan tertulis
+Penghentian sementara
+Penghapusan atau pemusnahan data pribadi
+Denda administratif
+Sanksi pidana
+Memperoleh atau mengumpulkan data pribadi yang bukan milik, pidana penjara 5 tahun dan/atau denda 5 milyar
+Mengungkapkan data pribadi yang bukan miliknya, pidana penjara 4 tahun dan/atau denda 4 milyar
+Menggunakan data pribadi yang bukan miliknya, pidana penjara 5 tahun dan/atau denda 5 milyar
+Membuat data pribadi palsu atau memalsukan data pribadi, pidana penjara 6 tahun dan/atau denda 6 milyar
+Ada pidana tambahan berupa perampasan keuntungan dan/atau harta kekayaan yang diperoleh atau hasil dari tindak pidana sebagai ganti kerugian
+Pidana terhadap korporasi hanya di denda paling banyak 10 kali dari maksimal pidana yang diancamkan kepada individu
+
+Day 5
+Simpanan & kartu debit
+
+Jenis Kartu BNI
+BNI Taplus
+Intinya jelasin tentang perkembangan bni taplus baik dari mtd, ytd, dll
+BNI Taplus Muda
+17-35 tahun dan bisa convert ke taplus 
+BNI Taplus Anak
+Dibawah 17 tahun dan bisa convert ke taplus muda
+Gak bisa buat tapenas
+Gak bisa jadi jaminan kredit
+BNI TAPPA
+Taplus Pegawai Anggota, biasanya buat pegawai BNI dan buat gajian atau bisa juga mitra
+BNI Taplus Bisnis
+Ada tipe yaitu bisnis perorangan dan non perorangan, adapaun beberapai jenis bisnisnya berupa:
+Premium
+Ritel
+Mikro
+Wondr multicurrency
+Ada 12 valuta asing yang dapat digunakan dan bisa digunakan 32 negara
+BNI Dollar (sgd, usd, aud)
+Akan berubah nama menjadi single currency
+BNI Emerald Saving
+Hanya untuk nasabah High Network Income, adapun jenis kartunya berupa:
+BNI Emerald Card (BEC)
+BNI Private Card
+BNI Tapenas
+Tabungan perencanaan masa depan 
+BNI Deposito
+BNI Tabungan RDN
+Taplus PMI
+Taplus PMI G2G
+Taplus Diaspora
+Tapi sudah dinonaktifkan karena sudah ada wondr multicurrency
+Basic Saving Account (wajib buat bank baik himbara maupun swasta)
+BNI pandai
+Ada maksimum saldo 20jt
+BNI tabunganku
+BNI simpel (simpanan pelajar)
+
+Kartu Debit
+Reguler/generik
+Kerja sama
+
+Budaya Risiko BNI
+
+Pengertian budaya risiko:
+Sadar risiko (tahu)
+Memiliki pemahaman dan kesadaran atas seluruh risiko material yang mungkin timbul
+Diperlengkapi (mampu)
+Diperlengkapi dengan baik dalam hal penunjang untuk mengambil tindakan atau keputusan yang menghasilkan penilaian risk-return yang optimal
+Termotivasi (mau)
+Memiliki motivasi yang tinggi untuk melakukan penilaian risk-return yang optimal
+Kenapa penting?
+Karena krisis ada disekitar kita seperti:
+Sektor keuangan
+Sektor rill
+Gelombang PHK
+
+Tantangan perbankan saat ini:
+Tantangan global dan makro ekonomi
+Stabilitas ekonomi makri
+Inovasi & kompleksitas produk
+Respon terhadap persaingan
+Persyaratan ketentuan semakin ketat
+Regulator nasional dan internasional
+Tekanan persaingan
+Persaingan meningkat dari dalam dan luar negri
+Perkembangan it & akselerasi digital
+Kompetisi era digital yang kekat
+disaster/pandemi
+Tekanan efek wabah/penyakit
+Integrasi industri jasa keuangan 
+Cenderung kompleks dan saling terkait dengan industri lain
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+NERACA (Balance Sheet)
+Laporan yang menunjukkan posisi harta, utang, dan modal bank pada saat tertentu. 
+Total Assets (Total Aset): Seluruh kekayaan yang dimiliki dan dikendalikan oleh bank untuk menghasilkan uang (seperti gedung, kas tunai, dan pinjaman yang disalurkan).
+Pemisalan: Semua harta di toko Anda, mulai dari bangunan ruko, mesin kasir, hingga sisa stok barang dagangan.
+Loan (Kredit/Pinjaman): Uang yang dipinjamkan oleh bank kepada nasabah debitur yang nantinya harus dikembalikan beserta bunganya. Bagi bank, loan adalah aset terbesar yang menghasilkan duit.
+Pemisalan: Uang modal Anda yang sedang dipinjam oleh tetangga untuk usaha, dan mereka berjanji mengembalikannya bulan depan.
+Third Party Fund (Dana Pihak Ketiga / DPK): Total uang masyarakat (nasabah) yang dititipkan di bank dalam bentuk Giro, Tabungan, atau Deposito. Bagi bank, ini adalah utang/kewajiban karena harus dikembalikan jika diminta nasabah.
+Pemisalan: Uang kas arisan komplek yang dititipkan orang-orang ke dompet Anda. Uang itu ada di Anda, tapi bukan hak milik Anda.
+LAPORAN LABA RUGI (Profit & Loss)
+Laporan yang mencatat pendapatan yang masuk dan biaya yang keluar untuk menghitung keuntungan bank.
+NII (Net Interest Income / Pendapatan Bunga Bersih): Keuntungan murni yang didapat bank dari selisih bunga pinjaman dikurangi bunga tabungan nasabah.
+Pemisalan: Anda meminjamkan uang ke si B dengan bunga Rp10.000, padahal modalnya Anda pinjam dari si C dengan bunga Rp2.000. Untung bersih bunga Anda adalah Rp8.000.
+FBI (Fee-Based Income / Pendapatan Non-Bunga): Pendapatan bank yang didapat dari biaya admin, komisi, penalti, atau biaya transaksi aplikasi (bukan dari bunga).
+Pemisalan: Toko Anda selain jualan barang, juga membuka jasa titip transfer uang dengan biaya admin Rp5.000 per transaksi.
+Opex (Operational Expenditure / Beban Operasional): Biaya rutin yang harus dibayar bank agar operasional sehari-hari tetap berjalan.
+Pemisalan: Biaya token listrik toko, gaji karyawan kasir, dan biaya sewa ruko bulanan.
+PPOP (Pre-Provision Profit / Laba Sebelum Pencadangan): Keuntungan murni operasional bank hasil gabungan (NII + FBI) yang sudah dikurangi biaya operasional (Opex), tetapi belum dipotong biaya cadangan risiko kredit macet.
+Pemisalan: Keuntungan kotor toko Anda setelah dikurangi gaji pegawai dan listrik, tapi belum disisihkan untuk jaga-jaga kalau ada barang dagangan yang rusak/hilang.
+Provisioning Charges (Beban Pencadangan/CKPN): Biaya yang sengaja disisihkan dari laba untuk dimasukkan ke celengan cadangan, sebagai antisipasi jika ada nasabah yang bakal gagal bayar utang.
+Pemisalan: Anda sengaja menyisihkan Rp50.000 dari keuntungan bulanan ke dalam laci terpisah untuk bersiap-siap jika ada pembeli bon yang kabur tidak bayar utang.
+EAT (Earnings After Tax / Laba Bersih Setelah Pajak): Hasil keuntungan paling akhir (bottom line) yang benar-benar bersih, setelah dikurangi semua biaya, pencadangan, dan pajak negara. Uang inilah yang siap dibagikan sebagai dividen ke pemegang saham.
+Pemisalan: Uang sisa di dompet Anda pada akhir tahun yang sudah bebas dipakai untuk keperluan pribadi karena semua kewajiban, utang, dan pajak toko sudah lunas.
+KUALITAS ASET (Asset Quality)
+Ukuran untuk menilai seberapa aman dan sehat pinjaman-pinjaman yang sedang disalurkan oleh bank.
+NPL-Gross (Non-Performing Loan Kotor): Rasio total kredit yang sudah menunggak/macet (tidak bayar cicilan lebih dari 90 hari) dibanding total seluruh kredit yang disalurkan.
+Pemisalan: Jika Anda meminjamkan uang ke 100 orang, dan ada 3 orang yang beneran mandek/kabur tidak mau bayar, maka tingkat macet (NPL) Anda adalah 3%.
+Pra NPL (Kredit Bermasalah Ringan / Kol 2): Pinjaman nasabah yang pembayarannya mulai tersendat atau menunggak tipis (baru lewat 1-90 hari), tapi belum resmi dicap sebagai kredit macet parah (NPL). Biasa disebut status Dalam Perhatian Khusus.
+Pemisalan: Teman Anda yang biasanya bayar utang tiap tanggal 1, sekarang sudah tanggal 15 belum bayar dan susah dihubungi, tapi belum sampai 3 bulan menghilang.
+NPL Coverage (Rasio Cakupan NPL): Persentase jumlah dana cadangan (celengan) yang disiapkan bank untuk menutup kerugian jika seluruh kredit macet (NPL) beneran hangus tidak balik modal.
+Pemisalan: Total utang orang yang macet ke Anda sebesar Rp100.000. Tapi Anda punya uang cadangan di laci sebesar Rp150.000 (Artinya NPL Coverage Anda 150%, alias sangat aman karena cadangan lebih besar dari nilai kerugian).
+LAR Ratio include Covid (Loan at Risk termasuk Covid): Rasio yang mengukur seluruh pinjaman bank yang berisiko tinggi gagal bayar. Angka ini menggabungkan total Kredit Macet (NPL) + Kredit Setengah Macet (Pra-NPL) + Kredit yang sedang diringankan cicilannya akibat dampak Pandemi Covid-19 (Restrukturisasi).
+Pemisalan: Total semua orang yang pinjam ke Anda yang statusnya mencurigakan: gabungan antara yang sudah kabur (NPL), yang hobi telat bayar (Pra-NPL), dan yang minta diskon cicilan karena kemarin di-PHK pas pandemi.
+LAR Coverage include Covid: Rasio celengan cadangan bank khusus untuk meng-cover seluruh total pinjaman yang masuk radar berisiko tinggi (LAR) di atas.
+Pemisalan: Seberapa tebal uang di laci darurat Anda untuk menghadapi skenario terburuk jika semua orang yang mencurigakan, telat bayar, dan korban PHK tadi beneran kompak tidak bayar utang sama sekali.
+Credit Cost (Cost of Credit / Biaya Kredit): Persentase biaya yang harus dikeluarkan bank untuk membentuk dana cadangan rugi kredit dibagi dengan total kredit. Ini menunjukkan seberapa mahal "harga" yang harus dibayar bank akibat risiko menyalurkan kredit pada periode tersebut.
+Pemisalan: Berapa rupiah modal yang harus Anda relakan hilang/dikorbankan per tahunnya hanya untuk menambal risiko akibat meminjamkan uang ke orang lain.
+EKUITAS (Equity)
+Struktur permodalan internal milik bank sebagai penyangga utama risiko bisnis.
+CAR (Capital Adequacy Ratio / Kecukupan Modal): Rasio yang menunjukkan kecukupan modal sendiri milik bank untuk menahan risiko kerugian aset. Semakin tinggi persentasenya, bank semakin kebal krisis.
+Pemisalan: Rasio seberapa tebal tabungan pribadi Anda di rumah jika sewaktu-waktu toko Anda kebakaran atau dagangan Anda mendadak tidak laku.
+Tier 1 (Modal Inti): Komponen modal lapis pertama bank yang memiliki kualitas tertinggi dan paling likuid untuk menyerap kerugian secara langsung tanpa perlu membubarkan bank (terdiri dari modal saham awal dan laba ditahan).
+Pemisalan: Uang tunai dari kantong Anda sendiri saat pertama kali membangun toko, ditambah keuntungan tahun lalu yang sengaja tidak Anda belanjakan. Ini modal paling murni, bukan emas curian atau utang dari mertua.
+KPMR sebagai Nilai: Kualitas Penerapan Manajemen Risiko
+Dalam laporan tingkat kesehatan bank dan audit OJK, KPMR adalah skor penilaian untuk mengukur seberapa bagus, efektif, dan patuhnya sebuah bank dalam menjalankan sistem pengendalian risiko mereka. 
+Pemisalan: Bayangkan Anda membuka usaha restoran. KPMR adalah nilai atau rating untuk menguji seberapa ketat standar operasional (SOP) di dapur Anda—mulai dari kebersihan, pengecekan tanggal kedaluwarsa bahan makanan, hingga kesiapan tabung pemadam api jika terjadi kebakaran. Semakin tinggi nilai KPMR, artinya manajemen bank tersebut dinilai sangat disiplin dan rapi dalam mencegah kerugian. 
+KPMR sebagai Organisasi: Komite Pemantau Manajemen Risiko
+Dalam struktur tata kelola perusahaan (corporate governance), KPMR adalah komite khusus di bawah Dewan Komisaris bank yang bertugas mengevaluasi, memantau, dan memberikan rekomendasi mengenai kebijakan risiko yang diambil oleh Direksi bank. 
+Pemisalan: Di sebuah sekolah, kepala sekolah dan guru sibuk mengajar (analoginya seperti Direksi bank yang sibuk cari untung). Di atas mereka, ada "Komite Sekolah" (KPMR) yang tugasnya khusus mengawasi dan mengingatkan kepala sekolah jika ada fasilitas gedung yang rusak atau aturan keamanan sekolah yang mulai kendor agar murid-murid tetap aman.
+5 Peringkat KPMR (Kualitas Manajemen Risiko)
+Peringkat 1: Strong (Sangat Memadai)
+Kriteria: Sistem manajemen risiko bank sangat prima dan tanpa celah. Pengawasan direksi sangat ketat, SOP dijalankan dengan disiplin tinggi, teknologi mitigasi risiko sangat canggih, dan SDM bank sangat kompeten [OJK].
+Pemisalan: Restoran dengan dapur bersertifikasi internasional. Ada pengecekan suhu kulkas otomatis tiap jam, alarm kebakaran otomatis, dan koki dilarang keras menyentuh makanan tanpa sarung tangan steril. Risiko keracunan makanan hampir mustahil karena sistemnya sempurna.
+Peringkat 2: Satisfactory (Memadai)
+Kriteria: Manajemen risiko bank sudah bagus dan berjalan efektif. Mayoritas prinsip pengelolaan risiko dipenuhi dengan baik. Jika ada kelemahan, sifatnya hanya minor (kecil) dan bisa segera diperbaiki sendiri oleh bank [OJK].
+Pemisalan: Restoran bersih yang SOP-nya berjalan tertib. Semua makanan higienis, walau kadang ada catatan kecil seperti keterlambatan pembaruan data stok bahan di komputer gudang.
+Peringkat 3: Fair (Cukup Memadai)
+Kriteria: Sistem manajemen risiko bank berada di level rata-rata, namun memiliki kelemahan yang butuh perhatian. Pengawasan internal berjalan, tetapi kurang responsif atau teknologinya mulai ketinggalan zaman [OJK]. Jika kondisi ekonomi memburuk, kelemahan ini bisa berbahaya [OJK].
+Pemisalan: Warung makan yang lumayan rapi, tapi sistem kasirnya masih manual pakai buku nota. Pemiliknya jarang mengecek sisa bahan ke dapur secara langsung, sehingga kadang ada bahan makanan yang keburu layu sebelum dimasak.
+Peringkat 4: Marginal (Kurang Memadai)
+Kriteria: Manajemen risiko bank lemah dan banyak pelanggaran SOP. Sistem pemantauan risiko tidak berfungsi dengan baik, kapasitas SDM rendah, dan bank lambat dalam mendeteksi adanya potensi kerugian [OJK]. OJK akan memberikan pengawasan khusus pada level ini.
+Pemisalan: Rumah makan yang dapurnya berantakan. Koki sering lupa mencuci tangan, bahan mentah dicampur dengan bahan matang, dan tabung pemadam apinya sudah kedaluwarsa. Restoran ini tinggal menunggu waktu saja sampai ada pelanggan yang diare.
+Peringkat 5: Unsatisfactory (Tidak Memadai) 
+Kriteria: Sistem manajemen risiko bank rusak total atau tidak berfungsi sama sekali. Pengawasan dari manajemen puncak absen, kepatuhan terhadap aturan OJK sangat rendah, dan bank sangat rentan ambruk oleh hantaman krisis sekecil apa pun [OJK].
+Pemisalan: Warung makan liar pinggir jalan yang menggunakan air got untuk mencuci piring dan memakai bahan makanan busuk demi hemat biaya. Tidak ada aturan keselamatan sama sekali dan sangat berbahaya bagi siapa pun yang bertransaksi di sana.
+
+Kriteria dan 5 Peringkat Risiko Inheren (Aturan OJK)
+Berdasarkan regulasi resmi Otoritas Jasa Keuangan (SEOJK No.14), bank wajib memetakan tingkat risiko inheren ke dalam 5 peringkat skala berikut:
+1. Peringkat 1: Low (Rendah)
+Kriteria: Potensi kerugian bank akibat aktivitas bisnis tersebut sangat kecil. Transaksinya sederhana, volumenya sedikit, dan kondisinya sangat stabil.
+Pemisalan Bank: Bank hanya menaruh uang sisa mereka di instrumen super aman seperti Surat Berharga Negara (SBN) atau tabungan di Bank Indonesia (BI). Risiko uang itu hilang hampir 0%.
+2. Peringkat 2: Low to Moderate (Rendah ke Cukup)
+Kriteria: Kemungkinan kerugian masih masuk kategori rendah, tetapi sudah mulai ada variasi transaksi.
+Pemisalan Bank: Bank menyalurkan kredit perumahan (KPR) kepada Pegawai Negeri Sipil (PNS) aktif dengan sistem potong gaji otomatis. Kemungkinan macet ada, tapi sangat kecil karena pendapatan debitur terjamin negara.
+3. Peringkat 3: Moderate (Cukup/Sedang)
+Kriteria: Potensi kerugian berada di tingkat rata-rata industri perbankan. Struktur transaksi sudah mulai kompleks dan dipengaruhi naik-turunnya kondisi ekonomi makro. 
+Pemisalan Bank: Bank menyalurkan kredit modal kerja untuk pelaku usaha ritel dan toko kelontong di pasar. Kinerjanya mengikuti tren daya beli masyarakat sehari-hari.
+4. Peringkat 4: Moderate to High (Cukup Tinggi ke Tinggi)
+Kriteria: Kemungkinan kerugian tergolong tinggi. Aktivitas bisnis bank di segmen ini sangat sensitif, rumit, atau pasarnya sedang mengalami volatilitas hebat. 
+Pemisalan Bank: Bank jor-joran menyalurkan kredit kendaraan bermotor (KKB) atau pembiayaan tanpa agunan (KTA) secara digital lewat aplikasi dengan syarat mudah. Risiko nasabah kabur atau gagal bayar sangat terbuka lebar.
+5. Peringkat 5: High (Tinggi)
+Kriteria: Potensi kerugian yang dihadapi bank sangat tinggi dan bisa mengancam kelangsungan bisnis jika tidak segera ditangani.
+Pemisalan Bank: Bank memberikan pinjaman bernilai triliunan rupiah kepada satu perusahaan komoditas pertambangan yang harga produknya di pasar dunia sedang anjlok parah, ditambah perusahaan tersebut punya utang dalam denominasi Dolar AS yang melonjak. 
+Matriks Penggabungan (Kesimpulan Akhir Profil Risiko)
+OJK akan mempertemukan nilai Risiko Inheren dengan KPMR untuk menentukan nasib tingkat kesehatan bank:
+Jika Inheren = High (Peringkat 5) tapi KPMR = Strong (Peringkat 1) → Hasil Akhir: Sehat / Aman.
+Jika Inheren = Low (Peringkat 1) tapi KPMR = Unsatisfactory (Peringkat 5) → Hasil Akhir: Sangat Bahaya / Sakit (karena meskipun bisnisnya aman, internal banknya rapuh dan rawan terjadi korupsi/fraud internal).
+Berikut adalah arti penandaan warna yang digunakan dari level paling aman hingga paling berbahaya:
+🟢 Hijau (Peringkat 1)
+Arti: Sangat Aman / Sangat Sehat
+Risiko Inheren: Low (Rendah)
+KPMR: Strong (Sangat Memadai)
+Pesan Visual: Semua sistem berjalan sempurna, tidak ada lampu kuning, bisnis aman terkendali.
+🟡 Hijau Kekuningan / Hijau Muda (Peringkat 2)
+Arti: Aman / Memadai
+Risiko Inheren: Low to Moderate (Rendah ke Cukup)
+KPMR: Satisfactory (Memadai)
+Pesan Visual: Kondisi sangat stabil, hanya ada riak kecil yang tidak mengganggu jalannya operasional bank.
+🟠 Kuning / Jingga (Peringkat 3)
+Arti: Cukup / Waspada
+Risiko Inheren: Moderate (Cukup/Sedang)
+KPMR: Fair (Cukup Memadai)
+Pesan Visual: Berfungsi sebagai alarm peringatan dini (early warning). Manajemen harus mulai memperhatikan celah atau tren kenaikan risiko sebelum memburuk.
+🟤 Jingga Tua / Merah Muda (Peringkat 4)
+Arti: Bahaya / Perlu Tindakan Segera
+Risiko Inheren: Moderate to High (Cukup Tinggi)
+KPMR: Marginal (Kurang Memadai)
+Pesan Visual: Sistem internal dalam kondisi kritis. OJK biasanya sudah mengeluarkan surat teguran agar bank melakukan perbaikan kondisi (remedial action).
+🔴 Merah (Peringkat 5)
+Arti: Krisis / Kerusakan Parah
+Risiko Inheren: High (Tinggi)
+KPMR: Unsatisfactory (Tidak Memadai)
+Pesan Visual: Lampu darurat menyala. Bank dalam kondisi sangat ringkih, rawan bangkrut, atau terancam sanksi berat jika tidak disuntik modal atau dirombak manajemennya saat itu juga.
+Ada pun beberapa kasus yang terjadi diklasifikasikan pada 4 tipe yaitu SEPI:
+Sistem
+External Event
+People
+Internal portal
+BNI values ada 3 dan bisa diliat pada foto dibawah
+
+
+
+Definisi Risiko 
+Risiko adalah potensi kerugian akibat terjadinya suatu peristiwa tertentu (PJOK no 18/PJOK 03/2016 tgl 16 maret 2016)
+
+Risiko merupakan suatu kejadian potensial, baik yang dapat diperkirakan (anticipated) maupun yang tidak diperkirakan (unanticipated) yang berdampak negatif
+
+Lalu jenis risikonya ada 4 yaitu:
+Risiko kredit
+Risiko pasar
+Risiko suku bunga dan risiko nilai tukar dapat berasal baik dari posisi trading book maupun posisi banking book
+Risiko likuiditas
+Bank tidak mampu untuk memenuhi kewajiban
+Risiko operasional
+Risiko internal/external baik dari manusia, sistem dan infra
+Risiko Hukum
+Ketiadaan dan/atau perubahan peraturan perundang-undangan
+Risiko Stratejik
+Kegagalan antisipasi perubahan lingkungan manusia
+Risiko Kepatuhan
+Telat bayar, telat lapor, dll
+Risiko Reputasi
+Media negatif, etika bisnis, keluhan nasabah
+
+Konsep three lines of defense
+Risk taking unit or first line of defense
+Risk control unit or second line of defense
+Risk assurance unit or third line of defense
+
+Risiko bisa terjadi ke:
+Diri sendiri
+Kita berbuat kita yang kena, kita yg nyolong kita yg dihukum
+Terjadi pada diri sendiri dan merugikan orang lain
+Kita yg berbuat, 1 tim kena, kita nyolong dan tim kita yg dihukum
+Terjadi pada orang lain dan merugikan diri sendiri
+Orang lain yg berbuat, 1 tim kena, tim ada yg nyolong dan 1 tim kena hukum 
+
+PMS (Performance Measurement System) atau KPI Unit
+Skornya 1-5 dan semakin tinggi skornya semakin tinggi bonusnya
+Skor 3 = meet
+Skor 4 = exceed
+
+Kejadian risiko bisa terjadi kapanpun:
+Saat mencari debitur (sebelum)
+Kita tidak cermat saat mencari calon debitur 
+Saat melakukan proses advis dan komite (pada saat)
+Salah dalam input data maupun dokumen debitur pasa sistem yang ada, salah analisis, dll
+Saat sudah dilakukan pencairan kredit, ternyata debitur devault (setelah)
+Kurang pemantauan terhadap penggunaan dana oleh debitur dan digunakan untuk kepentingan pribadi
+
+Kebijakan strategis BNI 2023
+Mengembankan solusi transaksi & ekosistem dalam memenuhi kebutuhan nasabah
+Mengembankan infrastruktur teknologi serta inovasi digital melakui data driven
+Fokus pada peningkatan CASA dan FBI yang sustain
+Meningkatkan ekspansi pada corporate top tier serta sektor prioritas, value chain dan cross selling
+Melanjutkan transformasi human capital
+Memperkuat jaringan bisnis internasional
+Optimalisasi sinergi BNI grup
+
+Perilaku risiko yang diharapkan
+Pemahaman risiko
+Memiliki pemahaman bisnis, risiko yang melekdat pada aktivitas, llimit yang ada serta toleransi risiko
+Kesadaran risiko
+Memiliki kesadaran akan risiko yang melekat
+Keputusan dengan risiko (kebiasaan vs aturan)
+Keputusan bisnis berdasarkan informasi lengkap dan komprehensif
+
+Penerapan prinsip dasar kontrol
+Dual control
+Brangkas dengan 2 kunci yg digunakan oleh 2 orang
+Maker checker
+Si A usul, si B review, baru diterusin
+Segregation of duties
+
+Sifat umum kontrol
+Preventive
+Pengendalian yang dilakuka untuk mencegah terjadinya suatu permasalahan
+Detective
+Pengendalian yang dilakukan rangka mencari atau mendeteksi adanya potensi masalah
+Corrective
+Pengendalian yang dilakukan untuk memperbaiki kondisi pada saat telat terjadi suatu permasalahan sehingga dampak dapat dikurangi
+

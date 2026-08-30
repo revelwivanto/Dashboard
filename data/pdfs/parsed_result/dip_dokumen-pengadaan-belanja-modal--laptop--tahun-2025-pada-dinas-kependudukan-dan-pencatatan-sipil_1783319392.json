@@ -1,0 +1,20 @@
+{
+  "request_id": "471/03/DUKCAPIL/2025",
+  "department": "Dinas Kependudukan dan Pencatatan Sipil",
+  "item_category": "Leptop",
+  "requested_unit_price": 20868000.0,
+  "historical_avg_price": 20868000.0,
+  "price_variance_ratio": 0.0,
+  "quantity": 1,
+  "total_amount": 20868000.0,
+  "vendor_risk_score": 0.0,
+  "dept_budget_remaining": 0.0,
+  "is_urgent": 0,
+  "search_summary": {
+    "specs_searched": "HP240R G9 CORE 7 150U 16GB 512SSD WIN11HOME FHD FP",
+    "cheapest_vendor_found": "Sinar Niaga Teknologi",
+    "vendor_channel_type": "Katalog Elektronik",
+    "real_price": 20868000.0,
+    "price_savings_vs_requested": 0.0
+  }
+}

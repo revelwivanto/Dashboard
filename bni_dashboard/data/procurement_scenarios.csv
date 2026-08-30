@@ -1,0 +1,6 @@
+qty_tier,assumed_discount_pct,rationale,source,data_type
+10,0,"Baseline eceran, tanpa negosiasi volume",assumption,assumption
+25,3,Diskon kecil lazim untuk pembelian batch di atas ~20 unit (observasi pasar umum),assumption,assumption
+50,6,Estimasi skenario negosiasi menengah,assumption,assumption
+100,9,Estimasi skenario negosiasi volume besar,assumption,assumption
+250,12,Estimasi skenario kontrak tahunan / rate card vendor,assumption,assumption

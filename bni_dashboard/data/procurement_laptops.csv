@@ -1,0 +1,5 @@
+spec_id,spec_name,cpu_tier,ram_gb,storage_gb,dedicated_gpu,screen_in,form_factor,typical_business_unit,data_type
+SPEC-ENTRY,Staf Administrasi / Front Office,entry,8,256,False,14.0,clamshell,Operations,internal_assumption
+SPEC-MID,Staf Analis / Back Office,mid,16,512,False,14.0,clamshell,Finance & Risk,internal_assumption
+SPEC-HIGH,Developer / Data & IT,high,16,512,True,15.6,clamshell,IT & Digital,internal_assumption
+SPEC-PREMIUM,Eksekutif / Manajemen Senior,premium,16,512,False,14.0,2-in-1 convertible,Corporate Affairs,internal_assumption

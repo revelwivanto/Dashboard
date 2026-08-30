@@ -1,0 +1,41 @@
+document_id,title,doc_type,business_unit,upload_date,page_count,status,data_type
+DOC-0001,Procurement_SOP_v3,SOP,IT & Digital,2025-02-10,48,processed,synthetic
+DOC-0002,Pedoman HPS Barang/Jasa #2,Peraturan Perundangan (referensi),Finance & Risk,2025-07-03,20,processed,synthetic
+DOC-0003,Kontrak Vendor Laptop Alternatif #3,Kebijakan Internal,Compliance,2025-04-24,7,processed,synthetic
+DOC-0004,Nota Dinas Perpanjangan Kontrak #4,Nota Dinas,Compliance,2025-03-03,32,processed,synthetic
+DOC-0005,Pedoman HPS Barang/Jasa #5,Nota Dinas,Retail Banking,2026-07-18,22,processed,synthetic
+DOC-0006,Kontrak Vendor Laptop 2024-2026 #6,SOP,Compliance,2026-05-02,2,processed,synthetic
+DOC-0007,Kontrak Vendor Laptop 2024-2026 #7,Kontrak Vendor,Finance & Risk,2025-12-04,23,processed,synthetic
+DOC-0008,RKS Pengadaan Laptop Batch 2025 #8,Kontrak Vendor,Corporate Affairs,2026-01-05,3,processed,synthetic
+DOC-0009,Nota Dinas Izin Prinsip Pengadaan #9,SOP,IT & Digital,2026-08-19,40,processed,synthetic
+DOC-0010,SOP Pengadaan Barang/Jasa v3 #10,Peraturan Perundangan (referensi),Operations,2025-07-27,27,processed,synthetic
+DOC-0011,Kebijakan Procurement Threshold 2025 #11,Peraturan Perundangan (referensi),Compliance,2025-08-22,27,processed,synthetic
+DOC-0012,Pedoman HPS Barang/Jasa #12,SOP,Corporate Affairs,2025-02-08,15,processed,synthetic
+DOC-0013,SOP Pengadaan Barang/Jasa v3 #13,Kontrak Vendor,Compliance,2026-04-02,40,processed,synthetic
+DOC-0014,SOP Approval Matrix Procurement #14,Kontrak Vendor,IT & Digital,2025-08-09,27,processed,synthetic
+DOC-0015,Pedoman HPS Barang/Jasa #15,Kontrak Vendor,Operations,2025-01-17,40,processed,synthetic
+DOC-0016,Pedoman HPS Barang/Jasa #16,RKS/RAB,IT & Digital,2025-07-26,3,processed,synthetic
+DOC-0017,Kontrak Vendor Laptop Alternatif #17,Kebijakan Internal,IT & Digital,2025-08-12,7,processed,synthetic
+DOC-0018,Kontrak Vendor Laptop Alternatif #18,Kontrak Vendor,Corporate Affairs,2025-10-06,41,processed,synthetic
+DOC-0019,Perpres 16/2018 jo. 12/2021 jo. 46/2025 (referensi) #19,Kebijakan Internal,Corporate Affairs,2025-08-12,44,processed,synthetic
+DOC-0020,Kebijakan Procurement Threshold 2025 #20,SOP,IT & Digital,2025-07-28,40,processed,synthetic
+DOC-0021,RKS Pengadaan Laptop Batch 2025 #21,Kontrak Vendor,Finance & Risk,2025-07-10,24,processed,synthetic
+DOC-0022,Kebijakan Anti-Fraud & Gratifikasi #22,Peraturan Perundangan (referensi),IT & Digital,2024-12-23,8,processed,synthetic
+DOC-0023,Kebijakan Anti-Fraud & Gratifikasi #23,SOP,Compliance,2026-05-29,15,processed,synthetic
+DOC-0024,Kebijakan Anti-Fraud & Gratifikasi #24,SOP,Operations,2025-11-26,18,processed,synthetic
+DOC-0025,Kebijakan Anti-Fraud & Gratifikasi #25,RKS/RAB,Retail Banking,2025-06-20,38,processed,synthetic
+DOC-0026,Kebijakan Anti-Fraud & Gratifikasi #26,Peraturan Perundangan (referensi),IT & Digital,2025-07-21,38,processed,synthetic
+DOC-0027,SOP Pengadaan Barang/Jasa v3 #27,Kontrak Vendor,IT & Digital,2025-06-10,19,processed,synthetic
+DOC-0028,Kebijakan Procurement Threshold 2025 #28,SOP,Finance & Risk,2025-07-03,3,processed,synthetic
+DOC-0029,Perpres 16/2018 jo. 12/2021 jo. 46/2025 (referensi) #29,Kontrak Vendor,Operations,2025-02-28,13,processed,synthetic
+DOC-0030,Pedoman HPS Barang/Jasa #30,SOP,Operations,2025-10-22,30,processed,synthetic
+DOC-0031,SOP Approval Matrix Procurement #31,Nota Dinas,Corporate Affairs,2026-03-02,38,processed,synthetic
+DOC-0032,Pedoman HPS Barang/Jasa #32,Kebijakan Internal,IT & Digital,2024-11-10,28,processed,synthetic
+DOC-0033,Kebijakan Procurement Threshold 2025 #33,RKS/RAB,Operations,2026-06-22,27,processed,synthetic
+DOC-0034,Pedoman HPS Barang/Jasa #34,Kebijakan Internal,IT & Digital,2025-04-27,14,processed,synthetic
+DOC-0035,Kebijakan Procurement Threshold 2025 #35,Peraturan Perundangan (referensi),IT & Digital,2025-04-08,4,processed,synthetic
+DOC-0036,SOP Pengadaan Barang/Jasa v3 #36,Nota Dinas,Compliance,2024-11-08,17,processed,synthetic
+DOC-0037,Nota Dinas Izin Prinsip Pengadaan #37,SOP,Corporate Affairs,2024-11-02,24,processed,synthetic
+DOC-0038,RKS Pengadaan Laptop Batch 2025 #38,Nota Dinas,Operations,2026-01-12,10,processed,synthetic
+DOC-0039,RKS Pengadaan Laptop Batch 2025 #39,SOP,Finance & Risk,2024-09-21,35,processed,synthetic
+DOC-0040,Nota Dinas Perpanjangan Kontrak #40,Peraturan Perundangan (referensi),IT & Digital,2025-07-13,38,processed,synthetic

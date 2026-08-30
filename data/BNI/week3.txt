@@ -1,0 +1,718 @@
+Day 1
+Operasional risk cabang
+
+Kategori Risiko Operasional di Cabang BNI
+Di level cabang, risiko operasional umumnya dibagi menjadi 4 kelompok utama:
+Risiko Sumber Daya Manusia (SDM), Ini adalah risiko yang paling sering terjadi di cabang karena interaksi langsung dengan nasabah.
+Internal Fraud: Tindakan kecurangan oleh pegawai cabang, seperti fraud kasir (teller), manipulasi pencatatan, hingga pembobolan rekening nasabah oleh oknum dalam.
+Human Error: Salah input nominal transaksi oleh Teller, salah memasukkan nomor rekening, atau kelalaian Customer Service (CS) dalam memverifikasi data identitas nasabah saat buka rekening.
+Risiko Proses Internal, Risiko yang muncul akibat ketidakpatuhan atau kelemahan dalam menjalankan Standard Operating Procedure (SOP) BNI.
+Kelalaian Dokumentasi: Berkas kredit atau pembukaan rekening yang tidak lengkap, atau agunan nasabah yang tidak diikat secara hukum dengan benar.
+Selisih Kas: Ketidaksesuaian antara fisik uang di brankas/laci Teller dengan laporan di sistem pada akhir hari kerja (closing).
+Risiko Sistem dan Teknologi, Gangguan pada infrastruktur digital yang digunakan cabang untuk melayani nasabah.
+Sistem Down/Lag: Kegagalan koneksi ke core banking BNI pusat yang membuat antrean di cabang mengular dan transaksi kliring atau transfer tertunda.
+Masalah ATM/CRM: Mesin ATM di cabang mengalami stuck uang, error sistem, atau kehabisan uang tunai saat libur panjang.
+Risiko Eksternal, Kejadian di luar kendali manajemen cabang BNI tetapi berdampak langsung pada operasional.
+External Fraud: Pemalsuan bilyet deposito, penipuan dengan dokumen palsu oleh calon debitur, atau aksi skimming pada mesin ATM cabang.
+Force Majeure: Bencana alam (seperti banjir atau gempa bumi) yang merusak fisik kantor cabang, atau pemadaman listrik massal.
+
+
+Senjata Utama BNI: Sistem PERISKOP
+Dalam materi manajemen risiko BNI, ada satu sistem khusus yang wajib diketahui, yaitu PERISKOP (Perangkat Risiko Operasional). PERISKOP adalah sistem informasi manajemen risiko operasional terintegrasi milik BNI yang digunakan oleh unit kerja (termasuk Kantor Cabang) untuk:
+Identifikasi & Penilaian: Cabang menginput data potensi risiko yang mungkin terjadi di wilayahnya.
+Early Warning System: PERISKOP memantau indikator kinerja utama atau Key Risk Indicators (KRI). Jika ada aktivitas cabang yang mendekati ambang batas bahaya (misal: frekuensi komplain nasabah meningkat atau angka selisih kas sering terjadi), sistem akan memberikan notifikasi peringatan dini sebelum kerugian besar benar-benar terjadi.
+
+Strategi Pertahanan Lini (Three Lines of Defense) di Cabang
+BNI membagi tanggung jawab pengelolaan risiko ini ke dalam struktur yang jelas:
+Lini Pertama (First Line): Manajemen Cabang (Pemimpin Cabang, Penyelia, Teller, CS). Mereka adalah Risk Owner yang wajib mematuhi SOP harian dan melakukan kontrol langsung saat transaksi berjalan.
+Lini Kedua (Second Line): Divisi Manajemen Risiko (di level Wilayah/Pusat). Mereka yang memantau kepatuhan cabang secara sistem, menetapkan limit risiko, dan menganalisis laporan dari sistem PERISKOP.
+Lini Ketiga (Third Line): Audit Internal (SKAI). Tim auditor yang datang secara berkala ke cabang untuk melakukan sidak atau pemeriksaan independen terhadap kepatuhan operasional cabang.
+
+Penilaian kelayakan calon debitur terdapat 5 poin yaitu:
+Character, kepribadian nasabah
+Capacity, kapasitas nasabah
+Capital, penghasilan nasabah
+Condition, kondisi nasabah
+Collateral, aset nasabah
+
+Treasury
+Menjelaskan terkait apa itu treasury, bagaimana cara divisi ini mendapatkan keuntungan, risiko suku bunga serta mekanisme pehitungan kredit dari segala sisi sebagai pemisalan nasabah KOL 5 pasti akan mendapatkan perbedaan dibanding nasabah KOL 1
+
+Definisi & Tujuan ALMA
+ALM (Asset Liability Management): Strategi mengelola sumber dana (sources of funds) dan penggunaan dana (uses of funds) untuk mengoptimalkan Net Interest Margin (NIM/profit) dalam batas risiko yang telah ditentukan.
+Tujuan Utama: Menghindari dan mengelola risiko pasar (suku bunga dan nilai tukar) serta risiko likuiditas.
+Fungsi Asset & Liability Committee (ALCO)
+Wewenang: Menetapkan kebijakan dan mengelola aset-liabilitas BNI, termasuk kecukupan modal untuk mendukung strategi bisnis.
+Cakupan Manajemen: Mengelola likuiditas, suku bunga, nilai tukar, pendapatan, serta investasi.
+Tugas Operasional: Menetapkan tujuan ALMA, mengkaji eksposur risiko neraca, mengevaluasi indikator ekonomi, serta menentukan suku bunga pinjaman (base rate) dan suku bunga DPK (giro, tabungan, deposito).
+Tata Kerja: Mengadakan rapat minimal 1 kali dalam 3 bulan.
+Manajemen Likuiditas (Liquidity Management)
+Risiko Likuiditas: Risiko akibat ketidakmampuan bank memenuhi kewajiban jatuh tempo dari sumber pendanaan atau aset likuid. Risiko ini terintegrasi erat dengan risiko kredit, pasar, operasional, reputasi, dan konsentrasi.
+Cadangan Likuiditas (Reserves):
+Primary Reserve (PR): Uang kas, GWM di BI, dan Giro di bank lain untuk kebutuhan jangka pendek.
+Secondary Reserve (SR): Investasi jangka pendek (SBI, SPN, interbank placement, dll.) sebagai penyangga PR.
+Tertiary Reserve (TR): Investasi jangka menengah/panjang (Obligasi Pemerintah/Korporasi) untuk mengantisipasi lonjakan kredit atau jatuh tempo dana non-konvensional.
+Indikator Utama Regulator: Mengacu pada aturan BI dan OJK, seperti GWM, Penyangga Likuiditas Makroprudensial (PLM), Rasio Intermediasi Makroprudensial (RIM), Liquidity Coverage Ratio (LCR), Net Stable Funding Ratio (NSFR), dan Alat Likuid/Non Core Deposit (AL/NCD).
+Manajemen Nilai Tukar (Forex Management)
+Risiko Nilai Tukar: Risiko yang muncul akibat perbedaan posisi aset dan liabilitas dalam mata uang asing (Posisi Devisa Neto / PDN) terhadap fluktuasi kurs.
+Jenis Posisi PDN: Square (Aset = Liabilitas), Long (Aset > Liabilitas), dan Short (Aset < Liabilitas).
+Ketentuan: Regulasi BI membatasi PDN Keseluruhan maksimal 20% dari modal bank untuk menghindari spekulasi dan menjaga stabilitas nilai tukar.
+Manajemen Suku Bunga (Interest Rate Management)
+Risiko Suku Bunga: Potensi kerugian akibat perubahan suku bunga pasar yang memengaruhi nilai investasi atau margin bank.
+Pengelolaan Gap ($GAP = RSA - RSL$): Mengatur struktur Rate Sensitive Asset (RSA) dan Rate Sensitive Liabilities (RSL):
+Positive Gap ($RSA > RSL$): Kenaikan suku bunga akan meningkatkan NIM.
+Negative Gap ($RSA < RSL$): Kenaikan suku bunga akan menurunkan NIM.
+Matched Gap ($RSA = RSL$): NIM cenderung tetap saat suku bunga berubah.
+
+
+Manajemen Penetapan Harga (Pricing Management)
+Loan Pricing Model (LPM): Digunakan untuk menetapkan bunga pinjaman agar menutup biaya dan mencapai target profit.
+ $$\text{Formula: } LPM = BCOLF + OHC + PM + CRP$$
+ (BCOLF = Blended Cost of Loanable Fund, OHC = Overhead Cost, PM = Profit Margin, CRP = Credit Risk Premium/Premi Risiko Kredit).
+Suku Bunga Dasar Kredit (SBDK): Suku bunga terendah yang mencerminkan kewajaran biaya bank dan ekspektasi keuntungan. SBDK dihitung dari Harga Pokok Dana untuk Kredit (HPDK) + OHC + PM, namun belum memperhitungkan premi risiko (CRP) masing-masing debitur.
+Fungsi utama liquidity management	
+GWM primer (averaging): 9% dari DPK Rupiah, berupa saldo Giro pada BI (average 2 minggu Kalender) dan wajib berupa giro pada BI
+Penyangga Likuiditas Makroprudensial (PLM) : 4%, berupa SBI / RR SBN / SBBI / SPN / SUN, bisa selain dengan giro akan tetapi tetap harus dibawah BI
+Rasio Intermediasi Makroprudensial (RIM) : 84% - 94% (Kredit + SSB Korporasi yg Dimiliki) / (DPK + SSB yg Diterbitkan + Pembiayaan yg Diterima) 
+Kebijakan insentif Likuiditas Makroprudensial (KLM): maksimal 5.5% Pembiayaan Sektor pertanian, industri, dan hilirisasi; Sektor jasa (termasuk sektor ekonomi kreatif), Sektor konstruksi, real estate, dan perumahan; Sektor UMKM, koperasi, inklusi, dan keberlanjutan 
+GWM Valas : 4% dari DPK Valas, berupa saldo Giro pada BI (2% daily& 2% average), serupa dengan yang primer(rupiah) bedanya ini hanya versi valas saja
+AL/NCD(Alat Likuid / Non Core Deposit) : min. 50% Mengukur ketersediaan alat likuid Bank (kas, penempatan pada BI, Surat Berharga Pemerintah, dll.) untuk mengantisipasi penarikan DPK oleh Nasabah 
+
+Adapun pemisalan untuk GWM Primer berupa foto berikut
+cara bacanya gini, perhitungan 1-15 digunakan sebagai parameter 16-eom, begitupun dengan 16-eom digunakan sebagai parameter 1-15. Ini hanya untuk patokan DPK saja dari kewewenangan yang diberikan oleh BI.
+
+
+
+
+Beberapa istilah perbankan terkait rekening
+Nostro, uang kita (BNI) ada di orang lain (Bank lain)
+Vostro, uang mereka (bank lain) ada di kita (BNI)
+Loro, uang mereka (bank lain) ada di orang lain (bank lain)
+BNI memiliki total 57 rekening nostro aktif (18 nostro USD & 39 nostro Non USD)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Day 2
+Foreign exchange
+
+Definisi & Konsep Dasar
+Foreign Exchange (Forex) adalah pertukaran dua mata uang yang melibatkan pasangan mata uang (currency pair), di mana satu mata uang dibeli dan mata uang lainnya dijual. Nilai tukar (kurs) dan tanggal penyerahan dana (settlement date) disepakati pada saat transaksi dilakukan (trade date).
+Unsur Pasangan Mata Uang: Terdiri dari Reference Currency (mata uang patokan internasional seperti USD, EUR, GBP, AUD, NZD) dan Non-Reference/Foreign Currency (mata uang yang diperbandingkan nilainya, contoh: IDR).
+Kuotasi Harga: Bisa berupa Direct Quotation (jumlah mata uang domestik untuk 1 unit valas, misal: IDR 16.700 = USD 1) atau Indirect Quotation (kebalikannya). Bank menyajikan harga dalam Bid (harga beli bank) dan Ask/Offer (harga jual bank).
+
+Tujuan Transaksi Forex di Bank
+Pelaku pasar (seperti eksportir, importir, investor, dan bank) melakukan transaksi valas untuk beberapa tujuan:
+Transactional/Commercial: Memenuhi kebutuhan riil seperti perdagangan internasional (ekspor-impor) atau kebutuhan personal (wisata ke luar negeri).
+Hedging (Lindung Nilai): Mengamankan posisi atau aset valas dari risiko kerugian akibat fluktuasi nilai tukar di masa depan.
+Trading/Speculation: Mencari keuntungan semata dari selisih kurs jual dan kurs beli (fee-based income).
+Banking Book: Mengelola likuiditas neraca bank (kredit valas, simpanan nasabah, atau surat utang).
+
+Pelaku Utama Pasar Forex
+Price Makers (Bank & Lembaga Keuangan):
+Siapa mereka: Bank komersial dan lembaga keuangan.
+Perannya: Sebagai pelaku utama yang aktif menyediakan dan memberikan harga jual/beli valas ke pasar, baik untuk segmen retail (perorangan) maupun wholesale (skala besar) bagi sektor swasta dan pemerintah.
+Investor:
+Siapa mereka: Individu atau institusi pengelola dana.
+Perannya: Melakukan transaksi mata uang dengan tujuan melindungi nilai aset yang mereka miliki (hedging) atau untuk mencari keuntungan (profit) dari fluktuasi perubahan kurs.
+Eksportir / Importir:
+Siapa mereka: Perusahaan perdagangan internasional.
+Perannya: Melakukan jual-beli mata uang asing untuk memenuhi kebutuhan operasional bisnis riil mereka, terutama yang berkaitan langsung dengan kegiatan ekspor dan impor barang/jasa.
+Bank Sentral:
+Siapa mereka: Lembaga moneter tertinggi suatu negara (misalnya Bank Indonesia).
+Perannya: Melakukan intervensi di pasar forex dengan tujuan menjaga stabilitas nilai tukar mata uang agar tetap sejalan dengan kondisi fundamental perekonomian negara tersebut.
+
+Analisis Pergerakan Kurs
+Untuk memprediksi arah pergerakan nilai tukar, pelaku pasar menggunakan tiga metode analisis:
+Fundamental: Menilai data ekonomi negara (inflasi, pertumbuhan ekonomi, suku bunga bank sentral, neraca dagang).
+Technical: Memanfaatkan data historis berupa grafik (chart candlestick) dan volume transaksi untuk melihat pola atau tren.
+Sentiment: Mengamati pandangan, sikap psikologis pelaku pasar, serta kondisi sosial-politik yang terjadi secara regional maupun global.
+
+Jenis-Jenis Transaksi Forex di Bank
+Secara umum, transaksi valas di bank dibagi berdasarkan kehadiran fisik uang dan waktu penyelesaiannya (settlement):
+Transaksi Berdasarkan Fisik (Banknotes vs TT)
+Forex Banknotes (Fisik): Melibatkan serah terima fisik uang kertas asing secara langsung di teller bank.
+Telegraphic Transfer (TT / Non-Fisik): Transaksi non-tunai melalui perpindahan saldo antar-rekening valas.
+
+Transaksi Berdasarkan Waktu Penyelesaian (Settlement)
+TOD (Today / T+0): Transaksi dan pembukuan/penyelesaian dana dilakukan pada hari yang sama.
+TOM (Tomorrow / T+1): Penyelesaian dilakukan 1 hari kerja setelah transaksi kesepakatan.
+SPOT (T+2): Penyelesaian dilakukan 2 hari kerja setelah tanggal transaksi.
+
+Transaksi Derivatif Nilai Tukar (FX Based Derivative)
+Merupakan transaksi perbankan yang didasari kontrak atau perjanjian, di mana nilainya merupakan turunan dari instrumen utama (nilai tukar/suku bunga):
+FX Forward: Transaksi jual/beli valas dengan kurs yang dikunci hari ini, tetapi penyerahan dananya dilakukan lebih dari 2 hari kerja di masa depan.
+Contoh: Anda adalah seorang importir laptop yang punya tagihan sebesar USD 100.000 yang harus dibayar 3 bulan lagi ke pabrik di Taiwan.
+Aksinya: Karena takut Rupiah mendadak melemah 3 bulan lagi, hari ini Anda pergi ke bank dan mengunci kurs FX Forward 3 bulan di angka Rp16.515.
+Saat Jatuh Tempo (3 bulan lagi): Mau kurs asli di pasar melonjak jadi Rp17.000 atau anjlok ke Rp16.000, Anda wajib menyerahkan uang sebesar Rp1.651.500.000 (Rp16.515 $\times$ USD 100.000) ke bank, dan bank akan menyerahkan USD 100.000 secara utuh untuk Anda bayarkan ke pabrik.
+
+DNDF (Domestic Non-Deliverable Forward): Transaksi forward di pasar domestik yang penyelesaiannya tanpa pergerakan dana pokok (netting), melainkan hanya membayar selisih kursnya dalam mata uang Rupiah berdasarkan kurs acuan JISDOR (Jakarta Interbank Spot Dollar Rate).
+Contoh: Kasusnya sama, Anda punya kewajiban/tagihan USD 100.000 untuk 3 bulan lagi, tapi Anda memilih menggunakan instrumen DNDF. Anda mengunci kurs DNDF di Rp16.550.
+Aksinya: Di instrumen ini, tidak ada perpindahan uang USD 100.000 secara fisik atau utuh saat jatuh tempo. Bank hanya melihat selisih kurs kesepakatan dengan kurs acuan resmi Bank Indonesia (JISDOR) pada hari tersebut.
+Saat Jatuh Tempo:
+Jika kurs JISDOR ternyata naik jadi Rp16.650 (Rupiah melemah).
+Selisihnya adalah Rp100 per Dolar AS (Rp16.650 - Rp16.550).
+Bank BNI/bank Anda akan langsung mentransfer selisihnya saja ke rekening Anda sebesar Rp10.000.000 (Rp100 $\times$ USD 100.000) dalam bentuk Rupiah. Uang Rp10 juta ini bisa Anda pakai untuk menutup kerugian beli dolar di pasar spot.
+
+FX Swap: Perjanjian simultan untuk menukar sejumlah mata uang hari ini, dan menukarkannya kembali ke mata uang asal di kemudian hari dengan kurs yang sudah disepakati.
+Contoh: Perusahaan Anda punya uang Rp16,5 miliar, tapi selama 1 bulan ke depan Anda mendadak butuh uang USD 1 juta untuk operasional jangka pendek. Anda tidak mau menjual Rupiah Anda secara permanen.
+Aksinya: Anda melakukan FX Swap dengan bank (Skema Buy-Sell):
+Hari ini (Leg 1): Anda serahkan Rp16,5 miliar ke bank, dan bank meminjamkan USD 1 juta ke Anda.
+1 Bulan Lagi (Leg 2): Anda kembalikan USD 1 juta tersebut ke bank, dan bank akan mengembalikan uang Rp16,5 miliar Anda utuh (atau disesuaikan sedikit dengan swap point yang disepakati).
+Tujuan: Anda mendapatkan likuiditas USD selama 1 bulan tanpa takut kehilangan aset Rupiah Anda akibat fluktuasi kurs.
+
+FX Option: Kontrak yang memberi hak (bukan kewajiban) kepada pembeli untuk membeli (Call Option) atau menjual (Put Option) sejumlah valas pada harga tertentu (Strike Price) sebelum tanggal kedaluwarsa, dengan membayar biaya premi di awal.
+Contoh: Anda ingin mengamankan kurs pembelian USD untuk 1 bulan lagi di harga (Strike Price) Rp16.700, tapi Anda tidak mau terikat kewajiban seperti Forward.
+Aksinya: Hari ini Anda membeli Call FX Option (Hak Membeli) dari bank dan wajib membayar uang premi di awal (misal Rp5 juta) sebagai harga tiket hak tersebut.
+Saat Jatuh Tempo:
+Skenario A (Kurs pasar naik jadi Rp17.200): Anda gunakan hak Anda! Anda beli USD dari bank pakai harga murah kesepakatan, yaitu Rp16.700. Anda untung.
+Skenario B (Kurs pasar turun jadi Rp16.200): Anda buang tiket hak Anda (opsi tidak dieksekusi) karena harga di pasar biasa ternyata lebih murah. Anda tinggal beli USD langsung di pasar dengan harga Rp16.200. Kerugian Anda hanyalah uang premi Rp5 juta yang hangus di awal
+
+Cross Currency Swap (CCS): Kesepakatan bertukar serangkaian pembayaran bunga dan/atau uang pokok dalam dua mata uang yang berbeda untuk melindung nilai portofolio dari risiko kurs sekaligus suku bunga.
+Contoh: Perusahaan konstruksi Anda mengambil pinjaman bank dalam bentuk Rupiah sebesar Rp20 miliar dengan bunga mengambang (Floating) IndONIA + 2.50%. Masalahnya, seluruh pendapatan proyek Anda nanti berupa mata uang USD (terjadi mismatch).
+Aksinya: Anda melakukan kontrak CCS dengan Bank Treasury untuk menukar beban tersebut:
+Awal Kontrak: Dilakukan pertukaran nilai pokok pinjaman secara fiktif/nyata dari Rupiah ke USD.
+Secara Periodik (Misal tiap 3 bulan): Bank akan membayarkan bunga floating Rupiah Anda ke pemberi pinjaman, dan sebagai gantinya, Anda menyetor bunga tetap (Fixed) dalam bentuk USD (misal sebesar 4.78%) ke bank tersebut.
+Tujuan: Utang Anda yang awalnya fluktuatif dalam Rupiah, sekarang berubah menjadi utang dengan bunga pasti (Fixed) dalam USD, aman dan sesuai dengan mata uang pendapatan perusahaan Anda.
+USD/IDR, artinya USD menjadi reference dan IDR menjadi non reference tapi bisa juga ada hal politik/kasta terkait penyebutannya sehingga mata uang suatu negara bisa menjadi reference	
+
+Risiko & Regulasi di Indonesia
+Bank memitigasi berbagai risiko forex seperti Market Risk (perubahan suku bunga/kurs), Credit Risk (kegagalan counterparty), Liquidity Risk, hingga Operational Risk melalui penetapan limit berkala (seperti Deal Ticket Limit, Open Position Limit, dan Counterparty Limit).
+Di Indonesia, aktivitas perbankan ini berizin dan diawasi ketat oleh Otoritas Jasa Keuangan (OJK) serta Bank Indonesia (BI). Selain itu, seluruh pelaku pasar wajib tunduk pada Market Code of Conduct internasional dan domestik (seperti aturan IFEMC dan ACI FMA Indonesia) guna menjaga etika pasar dan mencegah disrupsi harga. Bank komersial tertentu juga ditunjuk oleh BI sebagai Agen Intervensi Valas untuk membantu menjaga stabilitas moneter nasional.
+
+Banknotes
+Definisi & Kategori Transaksi Banknotes
+Banknotes (UKA) adalah uang kartal berbentuk kertas yang dicetak oleh bank atau otoritas berwenang, memiliki fitur pengaman (security features), dan bersifat payable to the bearer (dapat dibayarkan kepada pembawa).
+Di dalam bank, transaksinya dibagi menjadi dua kategori utama:
+Transaksi Banking (Non-Exchange): Transaksi produk & jasa perbankan berupa setor atau tarik tunai valas ke/dari rekening dengan mata uang yang sama (currency tidak berubah).
+Ketentuan: Setiap transaksi setor/tarik ini dikenakan tarif khusus yang disebut in lieu of exchange.
+Transaksi Trading (Exchange): Transaksi jual-beli fisik valas terhadap Rupiah (terjadi penukaran mata uang/cross currency).
+Bank Jual: Nasabah membawa Rupiah $\rightarrow$ ditukar menjadi Banknotes (atau mendebet rekening IDR nasabah) menggunakan Kurs Jual Bank.
+Bank Beli: Nasabah membawa Banknotes $\rightarrow$ ditukar menjadi Rupiah (atau disetor ke rekening IDR nasabah) menggunakan Kurs Beli Bank.
+
+Studi Kasus Tarif/Rate: Jika Andi membawa fisik $100 dan ingin menyetorkannya ke rekening USD miliknya, ini masuk transaksi Banking dan dikenakan tarif in lieu of exchange. Namun, jika Andi ingin menukarkan fisik $100 tersebut langsung menjadi Rupiah tunai, ini masuk transaksi Trading dan bank akan memprosesnya menggunakan Kurs Beli Bank.
+
+Transaksi bank notes
+Cash to cash
+Bank jual banknotes = bank punya fisik valas, masuk supply
+Bank beli banknotes = nasabah punya fisik valas, masuk ke remis
+Setor rekening
+Debet rekening
+
+Ketentuan Umum & Syarat Fisik Banknotes
+Untuk menjaga keamanan dari uang palsu (counterfeit) maupun kerugian salah harga (miss pricing), bank menetapkan standar fisik yang sangat ketat:
+Syarat Fisik Mutlak: Harus lolos pemeriksaan mesin detektor bank, tidak ada bagian yang hilang/sobek, edisinya masih berlaku secara resmi di negara asal (bukan uang kuno/koleksi), serta mulus tanpa coretan, lipatan, atau stempel.
+Ketentuan Khusus Kurs:
+Transaksi nasabah dengan nominal < USD 5.000 (atau ekuivalen) akan dikenakan kurs counter biasa.
+Nasabah dengan nilai transaksi $\ge$ USD 5.000 berhak mendapatkan special rate (kurs khusus) langsung dari divisi Treasury.
+
+Alur Kelola dan Mekanisme Pasar (Ekspor-Impor)
+Alur Distribusi Internal (Pagu Kas)
+Bank rutin memantau stok dan batas maksimum kas (Pagu Kas) valas harian di tiap cabang menggunakan sistem indikator warna (Traffic Light) untuk mitigasi risiko likuiditas. Jika stok di cabang menipis, cabang akan mengajukan Supply (permintaan pasokan) ke Divisi BOP. Sebaliknya, jika berlebih, cabang melakukan Remise (pengembalian kas) ke Divisi BOP melalui vendor keamanan khusus.
+
+Alur Ekspor-Impor Global (Kerjasama Divisi TRS & BOP)
+Karena bank tidak bisa mencetak uang asing sendiri, bank melakukan mekanisme pasokan global:
+Impor Banknotes (at Premium): Dilakukan saat bank kekurangan inventori fisik valas di dalam negeri. Kemudian counterpartnya lebih dari 1
+Ekspor Banknotes (at Discount): Dilakukan saat fisik valas di dalam negeri surplus dan harus dikembalikan ke pasar internasional. Kemudian counterpartnya kurang dari 1
+Tapi untuk perhitungan counterpart impor dan ekspor bisa saja perhitungannya berubah karena supply and demand, supplier bisa bebas menentukan harga karena dia yang punya barang dan demand adalah org yg butuh sehinga harus siap dengan biaya berapapun
+Alur Birokrasi: Divisi BOP mengajukan kuota ekspor-impor ke Bank Indonesia (BI). Setelah disetujui oleh BI, Divisi Tresuri (TRS) melakukan negosiasi harga (dealing) dengan bank lokal/luar negeri (Overseas Bank) sebagai perwakilan bank.
+
+Ekosistem Pelaku & Portofolio Valas
+Pelaku Pasar: Mencakup segmen Ritel (perorangan/turis), Korporasi (perusahaan dalam negeri), Institusi (pemerintah), Bank (domestik & overseas), serta MSB (Money Service Business / Money Changer).
+Mata Uang Banknotes Utama di BNI: Mengelola 18 mata uang dunia, di antaranya USD (Dolar AS), SGD (Dolar Singapura), SAR (Riyal Arab Saudi), EUR (Euro), GBP (Poundsterling), JPY (Yen Jepang), hingga CNH (Yuan Tiongkok).
+
+Solusi Keuangan Treasury
+Solusi Keuangan Transaksional (Forex)
+Aktivitas penukaran valuta asing non-fisik (pemindahbukuan antar-rekening) dibagi berdasarkan waktu penyelesaiannya (settlement):
+Forex TOD (Today / $T+0$): Penyelesaian dan pembukuan selesai pada hari yang sama dengan tanggal transaksi. Dapat dilakukan melalui aplikasi BNI Smart Forex.
+Forex TOM (Tomorrow / $T+1$): Penyelesaian 1 hari kerja setelah tanggal transaksi.
+Forex SPOT ($T+2$): Penyelesaian 2 hari kerja setelah transaksi disepakati.
+
+Ketentuan Khusus: Transaksi TOM, SPOT, dan derivatif hanya dapat diakses melalui Dealer Divisi Treasury. Nasabah wajib memiliki fasilitas Treasury Line atau menyerahkan jaminan berupa Marginal Deposit yang diblokir dan diikat gadai, serta telah menandatangani Perjanjian Induk Derivatif Indonesia (PIDI) atau ISDA Master Agreement. Kurs khusus (special rate) baru bisa diberikan untuk nominal transaksi minimal ekuivalen USD 10.000.
+
+Mekanisme Direct Dealing (Transaksi Langsung dengan Dealer)
+Nasabah reguler dapat melakukan negosiasi harga (rate) langsung ke Appointed Dealer Treasury via telepon, WhatsApp, atau BNIFX dengan memenuhi kriteria berikut:
+Telah bertransaksi forex minimal 1 tahun di BNI (clear track record).
+Akumulasi nominal transaksi minimal ekuivalen USD 300.000 per bulan.
+Patuh terhadap penyampaian dokumen underlying.
+Catatan Ketat: Pembatalan transaksi setelah deal done akan dikenakan penalti sebesar 2,5% dari nominal transaksi.
+
+Solusi Keuangan Investasi & Simpanan
+Obligasi (Pasar Sekunder)
+Nasabah dapat melakukan jual-beli obligasi (Surat Utang Negara/ORI/SR/Korporasi) untuk mendapatkan keuntungan dari kupon berkala dan capital gain. Transaksi pasar sekunder dikelola oleh Divisi Treasury (TRS), sedangkan pasar primer dikelola oleh Divisi Wealth Management (WEM).
+Minimal Transaksi: Obligasi Ritel IDR (ORI/SR) sebesar Rp1 juta, Obligasi Pemerintah Non-Ritel IDR (FR/PBS) sebesar Rp100 juta, dan Obligasi Pemerintah USD sebesar USD 20 ribu.
+Depo Swap	
+Produk investasi valas gabungan antara deposito konvensional dan transaksi FX Swap yang menghasilkan imbal hasil (return) lebih tinggi dan nilai pokoknya dijamin aman (principal protected).
+Tenor & Minimal: 1 sampai 12 bulan. Minimal ekuivalen USD 50.000 atau Rp1 miliar (maksimal Rp75 miliar untuk JPY/IDR).
+Aturan: Tidak bisa dicairkan sebelum jatuh tempo dan keuntungan dikenakan Pajak PPh Final sebesar 20%.
+Market Linked Dual Currency Investment (ML-DCI)
+Produk terstruktur (structured product) kombinasi investasi non-derivatif (simpanan) dengan derivatif (FX Option). Imbal hasil tinggi didapatkan dari bunga simpanan ditambah premi hasil penjualan hak (sell call/put option) oleh nasabah. Produk ini tidak memiliki jaminan terhadap pokok; saat jatuh tempo, dana bisa kembali dalam mata uang utama (base) atau mata uang alternatif tergantung kondisi pasar.
+Penempatan Dana Idle Jangka Pendek (DOC & MMA)
+Deposit on Call (DOC): Simpanan jangka waktu 3–30 hari. Minimal Rp100 juta atau USD 75 ribu. Perhitungan bunga menggunakan basis Act/365 p.a.
+Money Market Account (MMA): Simpanan sangat pendek dari 1 hari (overnight) hingga 1 tahun. Minimal Rp1 miliar atau USD 100 ribu. Perhitungan bunga menggunakan basis Act/360 p.a.
+Kelebihan: Keduanya dapat dicairkan sewaktu-waktu tanpa penalti, namun bunga akan disesuaikan proporsional ke bunga giro/tabungan.
+
+Hegding/lindung nilai memiliki 7 cara berupa
+Forex Forward (Kunci Kurs & Serah Terima Utuh)
+Penjelasan: Transaksi jual/beli valas dengan mengunci harga kurs hari ini, tetapi uangnya baru saling ditukarkan secara penuh lebih dari 2 hari kerja di masa depan.
+Pemisalan: Importir mengunci kurs USD di harga Rp16.500 untuk bayar tagihan bulan depan. Pas jatuh tempo, importir wajib setor Rupiah dan bank kasih USD utuh sesuai kurs Rp16.500 tadi.
+
+Forex Swap (Tukar Sementara, Balikin Nanti)
+Penjelasan: Transaksi tukaran dua mata uang hari ini, sekaligus berjanji untuk menukarkannya kembali ke mata uang asal di masa depan dengan nasabah yang sama.
+Pemisalan: Anda butuh USD selama 1 bulan tapi punya dana Rupiah. Hari ini Anda tukar Rupiah Anda ke USD bank, lalu 1 bulan lagi Anda balikin USD itu untuk ambil Rupiah Anda kembali.
+
+Forex Option (Tiket Hak, Bebas Dipakai/Enggak)
+Penjelasan: Kontrak yang memberi hak (bukan kewajiban) kepada pembeli untuk jual/beli valas pada harga tertentu (strike price) sebelum kedaluwarsa dengan bayar biaya tiket (premi) di awal.
+Pemisalan: Anda beli hak beli USD di kurs Rp16.700. Jika bulan depan kurs pasar naik ke Rp17.000, Anda pakai hak Anda (beli murah). Jika kurs pasar turun ke Rp16.200, hak dibuang dan Anda beli langsung di pasar bebas.
+
+Call Spread Option (Modifikasi Opsi Biar Lebih Murah)
+Penjelasan: Strategi gabungan langsung membeli satu kontrak Call Option sekaligus menjual satu kontrak Call Option lain dengan harga strike berbeda demi menghemat biaya premi
+Pemisalan: Anda beli hak beli USD di kurs Rp16.500, tapi di saat bersamaan Anda jual hak beli USD di kurs Rp17.000. Uang hasil menjual hak digunakan untuk menyubsidi biaya pembelian hak pertama Anda.
+
+
+Domestic Non-Deliverable Forward (DNDF) (Forward Hanya Bayar Selisih)
+Penjelasan: Transaksi forward valas terhadap Rupiah di pasar domestik, di mana saat jatuh tempo tidak ada penyerahan uang pokok secara utuh, melainkan hanya membayar/menerima selisih kursnya saja dalam bentuk Rupiah (berdasarkan kurs acuan JISDOR).
+Pemisalan: Anda kunci kurs DNDF di Rp16.500. Jika saat jatuh tempo kurs BI (JISDOR) naik ke Rp16.600, bank hanya akan mentransfer uang selisihnya saja yaitu Rp100 per dolar langsung ke rekening Rupiah Anda.
+
+Interest Rate Swap (IRS) (Tukaran Skema Bunga Utang)
+Penjelasan: Kesepakatan antar-dua pihak untuk bertukar skema pembayaran bunga utang (misal dari bunga fluktuatif ke bunga tetap) dalam mata uang yang sama, tanpa menukarkan uang pokok pinjamannya.
+Pemiselan: Anda punya utang Rupiah dengan bunga mengambang/fluktuatif bank (Floating Rate). Lewat IRS, Anda menukarnya dengan pihak lain sehingga Anda cukup membayar bunga tetap (Fixed Rate) yang aman dari kenaikan suku bunga pasar.
+
+Cross Currency Swap (CCS) (Tukaran Uang Pokok + Bunga Berbeda Valas)
+Penjelasan: Kesepakatan untuk saling menukarkan uang pokok pinjaman sekaligus pembayaran bunga dalam dua mata uang yang berbeda.
+Pemisalan: Perusahaan Anda punya utang dalam mata uang Rupiah dengan bunga fluktuatif, padahal pendapatan bisnis Anda berbentuk Dolar AS (USD). Melalui CCS, utang Rupiah bunga fluktuatif Anda disulap menjadi utang USD dengan bunga pasti (Fixed) agar sejalan dengan mata uang pendapatan Anda.
+
+Regulasi Penting & Mitigasi Risiko
+Kewajiban Penggunaan Rupiah (PBI No. 17/3/PBI/2015)
+Seluruh transaksi keuangan yang dilakukan di wilayah NKRI (tunai maupun non-tunai) wajib menggunakan Rupiah. Larangan menolak Rupiah berlaku kecuali untuk transaksi yang dikecualikan (seperti perdagangan & pembiayaan internasional, simpanan valas di bank) atau proyek infrastruktur strategis nasional yang telah mendapat persetujuan tertulis dari Bank Indonesia.
+
+Threshold Dokumen Underlying Transaksi
+Sesuai aturan Bank Indonesia terbaru (PADG 2026), batas nominal (threshold) akumulasi transaksi per bulan per pelaku transaksi yang bebas dokumen underlying telah disesuaikan menjadi lebih ketat:
+Transaksi Tunai (TOD, TOM, SPOT) Beli Valas vs IDR: Maksimal USD 25.000 atau ekuivalennya per bulan. Jika melebihi nilai tersebut, nasabah wajib menyerahkan dokumen underlying (final atau prakiraan) beserta surat pernyataan tertulis.
+Sanksi: Pelanggaran terhadap penyampaian dokumen mendasar ini dikenakan sanksi denda administratif sebesar 1% dari nominal transaksi yang dilanggar (minimal Rp10 juta dan maksimal Rp1 miliar).
+
+
+
+
+Fasilitas Treasury Line & Perhitungan Jaminan
+Treasury Line (TL): Batasan maksimum eksposur risiko kredit nasabah untuk transaksi derivatif. Perhitungannya didapat dari nilai nosional transaksi dikali dengan Faktor Konversi Kredit (FKK) yang direview divisi ERM per 6 bulan.
+Tanpa Treasury Line: Jika nasabah tidak memiliki fasilitas TL, nasabah wajib menyerahkan Marginal Deposit (MD) dengan rumus perhitungan jaminan yang diblokir sebesar:
+$$1,2\% \times FKK \times Nominal\ Transaksi$$
+
+Kebijakan Devisa Hasil Ekspor (DHE SDA) - Efektif 1 Juni 2026
+Guna memperkuat cadangan devisa dan nilai tukar Rupiah, eksportir Sumber Daya Alam (SDA) wajib merepatriasi dan menempatkan dana ekspornya pada Rekening Khusus (Reksus) di Bank Himbara (Bank milik negara):
+Sektor Non-Migas: Wajib menempatkan 100% DHE SDA minimal selama 12 bulan.
+Sektor Migas: Wajib menempatkan minimal 30% DHE SDA minimal selama 3 bulan.
+Mekanisme Baru (2026): Batas maksimal konversi DHE Valas ke Rupiah diturunkan menjadi paling banyak 50%. Sisa dana valas pada Reksus diperluas penggunaannya untuk modal kerja, pembayaran impor, pajak, dividen, serta diperbolehkan ditempatkan pada instrumen baru yaitu Surat Berharga Negara (SBN) Valas domestik. Lembaga LPEI kini tidak lagi menjadi tempat pemasukan/penempatan DHE SDA.
+
+
+
+
+
+
+
+
+
+
+
+
+Day 3
+Wholesale transaction solution
+Fungsi Intermediasi & Kinerja Pasar Bank BNI
+Fungsi Intermediasi: Bank bertindak sebagai penghubung antara pihak Surplus (Funding dengan bunga simpanan 0–3%) dan pihak Defisit (Lending dengan bunga pinjaman 8.5%–11.5%). Keuntungan bank diperoleh dari selisih bunga (spread) tersebut.
+Market Share (Posisi Maret 2026):
+DPK: Market share BNI berada di angka 10,7%, di bawah BMRI (16,6%) dan BBRI (15,3%).
+Giro: Market share BNI sebesar 13,4%. Berdasarkan data per April 2026, pertumbuhan Giro BNI tumbuh paling signifikan (+31,1% YoY) dibanding para kompetitor (Peers).
+Cost of Fund (CoF): Tren penurunan CoF BNI pada 1Q26 mencapai 2,16%. Penurunan CoF Giro BNI tercatat paling kecil dibanding Peers.
+
+Kinerja & Manajemen Portfolio Giro (Desember 2025)
+Pertumbuhan Positif: Nilai Ending Balance (EB) Giro mencapai Rp433,6 Triliun (tumbuh 44% YoY) dan Average Balance (AB) Giro mencapai Rp346,3 Triliun (tumbuh 13% YoY). Pencapaian ini berhasil melampaui target yang ditetapkan di tahun 2025.
+Penopang Utama: Pertumbuhan dalam setahun terakhir (hingga Mei 2026) didominasi oleh pertumbuhan komponen Giro Reguler Rate.
+Penetrasi BNIdirect: Per 16 Mei 2026, aplikasi BNIdirect Cash telah mencakup 258.305 CIF (44% dari total nasabah Giro). CIF terdaftar ini berkontribusi masif sebesar 92% terhadap total saldo Giro BNI.
+
+Ekosistem Produk Cash Management BNI
+Layanan Wholesale Transaction BNI dirancang untuk memenuhi siklus arus kas nasabah melalui 4 stream utama:
+Collection (Solusi Penerimaan): Mempermudah perusahaan menerima pembayaran secara cepat dan akurat.
+Produk: Virtual Account (VA) (rekening unik untuk kemudahan rekonsiliasi otomatis) dan Cash in Transit (CIT) (layanan pengantaran uang tunai aman).
+Kinerja: Fee-Based Income (FBI) Cash Management tumbuh 16,9% YoY pada FY25 (Mencapai 102% dari target). Virtual Account menjadi kontributor terbesar dengan andil 75% dari total pendapatan FBI.
+Payment (Solusi Pembayaran): Layanan pembayaran yang efisien, aman, dan terintegrasi.
+Produk: Modul Penerimaan Negara (MPN) untuk pajak/bea cukai, API SNAP Transfer Kredit, serta API RDN (Rekening Dana Nasabah) untuk sekuritas.
+Liquidity Management (Pengelolaan Likuiditas): Solusi untuk mengoptimalkan saldo kas nasabah.
+Produk: Notional Pooling (konsolidasi saldo grup tanpa pemindahan dana fisik untuk optimasi bunga) dan Intraday Facility (dukungan likuiditas harian untuk transaksi besar).
+Liability (Penghimpunan Dana): Fokus pada sumber dana murah (CASA) perusahaan maupun pemerintah.
+Jenis Giro: Giro Regular (Standard), Giro Optima (Single rate > counter rate dengan blokir saldo/tenor harian), dan Giro Custom Rate (tiering balance sesuai kebutuhan nasabah).
+
+SIklus arus kas & kebutuhan nasabah
+Tahap COLLECTION (Cash In)
+Kondisi Nasabah: Anggaplah nasabah kita adalah sebuah Universitas Swasta Besar. Setiap semester, mereka harus menerima pembayaran kuliah dari puluhan ribu mahasiswa.
+Harapan Nasabah: Mereka ingin menerima pembayaran secara terperinci, otomatis teridentifikasi (mahasiswa mana yang sudah bayar), mengurangi kesalahan pendataan manual, dan langsung terekonsiliasi.
+POV Pegawai BNI & Solusinya:
+Kita menawarkan BNI Virtual Account (VA). Setiap mahasiswa diberikan 1 nomor VA unik.
+Ketika mahasiswa membayar, data transaksi masuk secara real-time ke sistem universitas menggunakan teknologi API Notifikasi BNI. Sistem universitas langsung tahu bahwa "Mahasiswa A telah membayar lunas" tanpa perlu mahasiswa mengirim foto resi transfer ke tata usaha.
+
+Tahap LIQUIDITY MANAGEMENT (Pusat Pengelolaan)
+Setelah uang kuliah dari puluhan ribu mahasiswa tadi masuk lewat BNI Virtual Account, dana tersebut akan terkumpul di rekening induk universitas. Di sinilah peran pengelolaan likuiditas dimulai.
+Excess of Liquidity (Kelebihan Likuiditas)
+Kondisi: Di awal semester, uang kas universitas sangat melimpah (surplus) karena mahasiswa baru saja bayar kuliah harian.
+Harapan Nasabah: Mereka ingin dana mengendap ini aman, tetapi tetap menghasilkan imbal hasil (return) tinggi dan mudah dicairkan sewaktu-waktu jika ada kebutuhan mendesak.
+POV Pegawai BNI & Solusinya: Kita menawarkan penempatan dana ke Giro Custom Rate / Giro Optima (dengan penawaran suku bunga kompetitif harian) atau dipindahkan ke Deposito Non-Perorangan BNI. Jika universitas memiliki beberapa rekening unit/fakultas berbeda, kita pasangkan fitur Notional Pooling agar saldo terkonsolidasi secara sistem untuk optimasi bunga tanpa perlu memindahkan dana fisiknya secara manual.
+
+
+
+Lack of Liquidity (Kekurangan Likuiditas) / LENDING
+Kondisi: Di pertengahan tahun, universitas ingin membangun gedung laboratorium baru yang besar (membutuhkan dana besar melebihi kas operasional harian).
+Harapan Nasabah: Membutuhkan tambahan dana eksternal yang cepat dan aman.
+POV Pegawai BNI & Solusinya: Sebagai pegawai, kita akan mengarahkan mereka ke fungsi Lending (Pinjaman). Karena tujuannya untuk membangun aset tetap, kita tawarkan Kredit Produktif, secara spesifik yaitu Kredit Investasi BNI. (Jika kebutuhannya hanya untuk biaya operasional bulanan yang kurang, kita tawarkan Kredit Modal Kerja atau Intraday Facility).
+Tahap PAYMENT (Cash Out)
+Kondisi Nasabah: Universitas harus membayar gaji dosen & staf, membayar vendor konstruksi pembangunan gedung, serta menyetor pajak operasional ke negara.
+Harapan Nasabah: Pembayaran harus tepat waktu, nominalnya tepat (sesuai data), aman, dan hasilnya langsung memunculkan laporan otomatis berformat PDF/Excel untuk kebutuhan audit internal.
+POV Pegawai BNI & Solusinya:
+Untuk Gaji Dosen/Karyawan: Kita pasangkan fitur BNIdirect Payroll. Melalui portal BNIdirect, admin universitas tinggal mengunggah satu file Excel, dan sistem BNI akan langsung mendistribusikan gaji ke ribuan rekening dosen secara serentak di waktu yang ditentukan.
+Untuk Vendor & Pihak Ketiga: Kita tawarkan integrasi API SNAP Transfer Kredit. Sistem internal keuangan universitas bisa langsung memicu instruksi transfer kliring, RTGS, maupun in-house transfer secara otomatis ke rekening vendor tanpa perlu mengetik manual satu per satu di platform perbankan.
+Untuk Setoran Pajak Negara: Kita tawarkan fitur pembayaran lewat MPN (Modul Penerimaan Negara) BNI. Pegawai keuangan universitas cukup memasukkan kode billing pajak ke platform BNIdirect untuk melakukan eksekusi pembayaran langsung yang terintegrasi dengan sistem kementerian keuangan.
+Istilah Penting dalam Siklus untuk Diketahui Pegawai BNI:
+API SNAP: Standar nasional interkoneksi API sistem pembayaran yang kita gunakan untuk menghubungkan aplikasi nasabah dengan sistem transfer BNI secara langsung.
+MPN (Modul Penerimaan Negara): Sistem terintegrasi BNI untuk memfasilitasi nasabah menyetor penerimaan negara seperti pajak secara aman dan valid.
+CASA (Current Account Saving Account): Dana murah (Giro dan Tabungan). Goal kita sebagai pegawai adalah membuat universitas ini terus menaruh dana transaksionalnya di Giro BNI agar CASA bank kita meningkat.
+
+
+Keunggulan Kompetitif BNI (Key Differentiator)
+Dalam perbandingannya dengan kompetitor utama (Mandiri, BCA, BRI), BNI dinilai sebagai Champion (unggul) pada beberapa fitur spesifik di platform Wholesale-nya, yaitu:
+Target Balance Cross Currency
+Notional Pooling
+Giro Custom Rate
+SME Channel (Dukungan Cash Management untuk klien UMKM/SME)
+
+Manajemen Risiko Cash Management
+BNI mengidentifikasi 5 risiko kritis yang wajib dikelola dalam operasional transaksi wholesale:
+Risiko Operasional: Kesalahan input, gangguan sistem pembayaran, atau keterlambatan settlement.
+Risiko Likuiditas: Terjadinya mismatch arus kas, adanya dana mengendap berlebih (excess liquidity), atau kekurangan dana operasional.
+Risiko Kepatuhan: Pelanggaran regulasi eksternal atau ketidaksesuaian dengan SOP internal bank.
+Risiko Pasar: Perubahan suku bunga yang memengaruhi nilai dana, fluktuasi nilai tukar valas, dan pergeseran Cost of Fund.
+Risiko Fraud: Transaksi tidak sah, penyalahgunaan akses sistem, atau manipulasi data pembayaran.
+
+Studi Kasus Sektoral (Use Cases)
+Penerapan solusi Cash Management BNI disesuaikan secara spesifik berdasarkan karakteristik industri berikut:
+Pendidikan (Universitas/Sekolah): Menggunakan Virtual Account per siswa untuk identifikasi pembayaran biaya pendidikan serta rekonsiliasi otomatis.
+Kesehatan (Rumah Sakit/Klinik): Integrasi sistem rumah sakit (HIS) melalui Host-to-Host (H2H), VA pasien, serta cash pooling untuk RS multi-cabang.
+Pemerintah (Kementerian/Pemda/BUMN): Penyediaan sistem MPN / Bill Payment untuk penerimaan negara yang transparan, serta fitur Payroll untuk pembayaran massal (gaji, bansos).
+FMCG & eCommerce: Mengelola transaksi bervolume tinggi menggunakan API pembayaran H2H, pemanfaatan VA untuk distributor/agen, serta menjadikan Giro sebagai central account.
+
+
+
+
+
+Trade Finance & Bank Guarantee
+Berikut adalah penjelasan yang sangat mendetail mengenai Trade Finance dan Garansi Bank berdasarkan materi ODP BNI 2026, lengkap dengan catatan penting yang wajib diingat untuk kebutuhan operasional perbankan.
+
+Fondasi Transaksi Perdagangan (Trade Finance)
+Trade Finance adalah fasilitas perbankan yang menjembatani kesenjangan kepercayaan (trust gap) antara penjual (eksportir) dan pembeli (importir). Di dalam dunia perdagangan, transaksi selalu dimulai dengan Sales Contract.
+Kontrak Dagang wajib mengatur 4 pilar utama:
+Terms of Goods: Mengunci spesifikasi teknis barang, kuantitas, kualitas, harga per unit, serta negara asal komoditas (country of origin).
+Terms of Delivery (Incoterms): Menentukan kapan dan di mana tanggung jawab serta biaya berpindah dari penjual ke pembeli. Contoh: FOB (Free on Board) berarti risiko penjual selesai saat barang naik ke kapal, sedangkan CIF (Cost, Insurance, and Freight) berarti penjual wajib menanggung biaya pengiriman dan asuransi hingga pelabuhan tujuan.
+Terms of Documents: Menentukan daftar dokumen legal, komersial, dan transportasi wajib yang harus diserahkan oleh penjual agar uang bisa cair.
+Terms of Payment: Sistem pembayaran yang digunakan (apakah pakai jaminan bank atau tidak).
+
+
+Bedah Mendalam: Metode Pembayaran Perdagangan
+Metode pembayaran dalam dunia perdagangan diklasifikasikan secara ketat berdasarkan tingkat risiko yang dihadapi oleh masing-masing pihak.
+RISIKO PENJUAL TINGGI -----------------------------------------------------> RISIKO BUYER TINGGI
+[Open Account] ------ [Consignment] ------ [Collection] ------ [L/C - SKBDN] ------ [Advance Payment]
+
+Metode Tanpa Jaminan Bank (Bank Hanya Mediator)
+Bank tidak bertanggung jawab atas pembayaran; bank hanya bertindak sebagai pengantar dokumen atau dana.
+Advance Payment (Pembayaran di Muka)
+Mekanisme: Pembeli mengirimkan uang penuh (100% Cash) ke penjual sebelum barang diproduksi atau dikirim.
+Kapan Digunakan: Biasanya digunakan jika posisi tawar penjual sangat kuat, barang bersifat custom-made (dibuat khusus sehingga sulit dijual ke orang lain jika pembeli batal), atau pembeli memiliki rekam jejak kredit yang buruk.
+notes: Metode ini sangat berisiko bagi pembeli karena tidak ada kontrol hukum lewat bank jika penjual membawa lari uang atau mengirim barang palsu.
+Open Account (Rekening Terbuka)
+Mekanisme: Kebalikan dari Advance Payment. Penjual mengirimkan barang dan semua dokumen komersial langsung kepada pembeli. Pembeli baru membayar setelah barang diterima (misal tempo 30-90 hari).
+Kapan Digunakan: Hanya direkomendasikan jika penjual dan pembeli sudah memiliki hubungan bisnis jangka panjang (high trust), pembeli punya reputasi internasional yang kuat, dan kondisi politik di negara pembeli sangat stabil.
+notest: Metode ini sangat berbahaya bagi penjual karena kontrol barang sepenuhnya lepas; pembeli bisa mangkir atau menyatakan pailit pasca-barang diterima.
+Consignment (Konsinyasi)
+Mekanisme: Penjual mengirimkan barang untuk ditaruh di gudang pembeli, tetapi status kepemilikan barang masih milik penjual. Pembeli bertindak sebagai perantara agen. Pembayaran baru dikirim ke penjual hanya jika barang tersebut telah laku terjual ke konsumen akhir (end-user).
+Documentary Collection (Inkaso Berdokumen)
+Mekanisme: Penjual mengirim barang lewat kapal, tetapi dokumen kepemilikan asli (Original Bill of Lading) dikirim secara resmi dari bank penjual (Remitting Bank) ke bank pembeli (Collecting Bank). Pembeli tidak bisa mengambil barang di pelabuhan tanpa dokumen asli ini.
+D/P (Documents Against Payment): Bank pembeli baru boleh menyerahkan dokumen asli kepada pembeli setelah pembeli membayar tunai (Cash). Mirip kayak konsep MM di FB, buyer kirim duit ke MM, MM konfirmasi pembayaran ke seller, seller kirim barang ke buyer, buyer terima barang kemudian MM kirim uang ke seller.
+D/A (Documents Against Acceptance): Bank pembeli boleh menyerahkan dokumen asli setelah pembeli menandatangani draf akseptasi (surat janji utang formal) yang jatuh tempo di masa depan.
+Notes: Lebih aman daripada Open Account, tetapi risiko tetap ada pada penjual jika dalam sistem D/P ternyata pembeli menolak membayar tunai saat barang sudah bersandar di pelabuhan tujuan (menimbulkan biaya sewa pelabuhan/demurrage).
+
+Metode Dengan Jaminan Bank
+Letter of Credit (L/C) / Surat Kredit Berdokumen Dalam Negeri (SKBDN)
+Mekanisme: Instrumen paling aman. Issuing Bank (bank pembeli) mengambil alih kewajiban pembayaran. Selama penjual mampu menyerahkan dokumen yang 100% cocok dengan syarat L/C (Complying Presentation), bank wajib membayar penjual, bahkan jika pembeli bangkrut sekalipun.
+
+
+
+
+Jenis Jaminan L/C & Struktur Pembiayaan (Trade Financing)
+Fungsi masing-masing bank yang wajib kamu ingat untuk operasional Wholesale Banking:
+Advising Bank (Bank Pengadvis / Penerus)
+Definisi: Bank di negara eksportir yang ditunjuk oleh Issuing Bank untuk menerima amanat penerbitan L/C.
+Fungsinya: Bank ini bertindak sebagai "kantor pos resmi". Tugas utamanya adalah memverifikasi keotentikan pesan SWIFT L/C yang masuk (MT700) dan meneruskannya secara resmi kepada Eksportir (Beneficiary) agar mereka tahu bahwa jaminan pembayaran sudah terbit.
+Beneficiary Bank
+Definisi: Bank tempat Eksportir/Penjual membuka rekening utamanya untuk menerima hasil pembayaran dagang (proceed).
+Fungsinya: Sering kali Advising Bank dan Beneficiary Bank adalah bank yang sama. Namun, jika Advising Bank tidak memiliki jaringan langsung ke penjual, mereka akan meneruskan L/C tersebut ke Beneficiary Bank (bank lokal nasabah) untuk dikreditkan ke rekening mereka.
+Negotiating Bank (Bank Pengambilalih Tagihan)
+Definisi: Bank yang diberi kuasa oleh Issuing Bank untuk membeli atau mengambil alih dokumen pengapalan yang diajukan oleh Eksportir.
+Fungsinya: Ini adalah pilar utama Trade Financing. Bank ini memeriksa apakah dokumen eksportir sudah Clean. Jika ya, bank ini akan mencairkan uang duluan (talangan/diskonto) kepada eksportir sebelum Issuing Bank mengirimkan uang settlement.
+Reimbursing Bank (Bank Pengganti Pembayaran)
+Definisi: Bank ketiga yang ditunjuk oleh Issuing Bank untuk menyelesaikan urusan kliring dana antarbank.
+Fungsinya: Biasanya digunakan pada transaksi lintas negara yang mata uang L/C-nya menggunakan mata uang negara ketiga.
+Pemisalan khusus: BNI Jakarta menerbitkan L/C dalam mata uang USD untuk supplier di China. Karena kliring USD harus lewat sirkuit perbankan Amerika Serikat, BNI Jakarta menunjuk BNI New York sebagai Reimbursing Bank. Ketika bank di China menagih, mereka akan meminta reimbursement dana langsung ke BNI New York atas otorisasi BNI Jakarta.
+Confirming Bank (Bank Penjamin Kedua)
+Definisi: Bank yang ikut mengikatkan diri secara hukum untuk menambahkan konfirmasi jaminan pembayaran di atas jaminan yang sudah diberikan oleh Issuing Bank.
+Fungsinya: Memberikan perlindungan ganda (double penjaminan) bagi eksportir.
+Notes (Kondisi Lapangan): Eksportir wajib meminta L/C berstatus Confirmed jika mereka tidak yakin dengan kemampuan bayar Issuing Bank pilihan pembeli, atau jika Issuing Bank berada di negara yang kondisi politik/ekonominya sedang tidak stabil. Jika Issuing Bank bangkrut, Confirming Bank wajib pasang badan untuk membayar eksportir.
+Transferring Bank (Bank Pengalih)
+Definisi: Bank yang diberi kuasa resmi di dalam klausul L/C untuk memproses pengalihan hak pembayaran.
+Fungsinya: Ini khusus ditemukan pada jenis Transferable L/C. Atas instruksi dari First Beneficiary (Broker/Trader), Transferring Bank akan menerbitkan porsi L/C baru dengan nilai atau harga yang disesuaikan (biasanya lebih kecil agar broker dapat margin keuntungan) untuk diteruskan kepada Second Beneficiary (pabrik/supplier riil).
+
+Fitur Karakteristik L/C Khusus
+Transferable L/C: L/C yang memberikan hak kepada penerima pertama (Beneficiary 1 / Broker / Trader) untuk mengalihkan sebagian atau seluruh nilai L/C kepada produsen riil (Beneficiary 2). Ini memungkinkan trader melakukan transaksi tanpa menggunakan modal atau fasilitas kredit pribadinya.
+Revolving L/C: L/C yang nilainya otomatis pulih (auto-reinstate) setelah digunakan atau pada periode waktu tertentu. Digunakan untuk kontrak pasokan komoditas konstan jangka panjang (misal: pengiriman batu bara berkala setiap bulan selama setahun).
+Red Clause L/C: L/C yang memiliki klausul khusus (biasanya diketik tinta merah) yang mengizinkan Nominated Bank untuk memberikan penarikan dana tunai di muka (advance payment) kepada penjual sebelum barang dikapalkan. Berfungsi sebagai modal kerja produksi bagi eksportir.
+
+Struktur Refinancing L/C (Wajib Diingat untuk Kasus Likuiditas)
+UPAS (Usance Payable at Sight)
+Kondisi: Eksportir luar negeri menuntut dibayar langsung tunai begitu dokumen kapal dikirim (Sight), tetapi Importir domestik tidak punya uang tunai dan butuh waktu 90 hari untuk mengolah barang menjadi kas (Usance). Applicant minta diperlama tapi beneficiary maunya lebih cepet.
+Solusi: Bank menerbitkan L/C UPAS. Bank membayar tunai ke Eksportir lewat bank koresponden, lalu memberikan fasilitas kredit berjangka (refinancing) kepada Importir selama jangka waktu yang disepakati.
+UPAU (Usance Payable at Usance)
+Kondisi: Eksportir setuju dibayar berjangka pendek (misal tempo 30 hari), tetapi Importir merasa perputaran bisnisnya lambat dan butuh tempo pelunasan lebih lama (misal 120 hari). Beneficiary mau lebih cepet tapi applicant gak bisa.
+Solusi: Bank melakukan refinancing atas dokumen wesel L/C tersebut sehingga eksportir cair di hari ke-30, sedangkan importir baru melunasi utangnya ke bank di hari ke-120.
+Bill Collection Financing (IBCF & OBCF)
+Fasilitas pembiayaan berbasis tagihan inkaso non-L/C. OBCF (Outward Bill Collection Financing) diberikan sebagai talangan tunai (diskonto dengan hak regres) bagi eksportir setelah mengirim dokumen tagihan, sedangkan IBCF (Inward Bill Collection Financing) adalah talangan pinjaman bagi importir untuk menebus dokumen inkaso yang telah tiba di bank.
+
+
+
+Garansi Bank (Bank Guarantee) & Jaminan Independen
+Garansi Bank adalah komitmen tertulis bank untuk membayar sejumlah uang kepada Beneficiary apabila nasabah (Applicant) cidera janji atau gagal memenuhi kewajibannya dalam proyek utama.
+
+
+Perbedaan Krusial: Dependent vs Independent Guarantee
+Fitur Pembeda
+Dependent Guarantee (Garansi Bank Lokal)
+Independent Guarantee (SBLC & Demand Guarantee)
+Aturan Hukum
+Hukum Nasional Indonesia (KUHP Perdata & POJK No. 26/2024).
+Kebiasaan Internasional (UCP 600, ISP 98, URDG 758).
+Sifat Hubungan Kontrak
+Aksesor (Secondary Obligation). Jaminan terikat mati dengan kontrak utama proyek.
+Independen (Primary Obligation). Kontrak jaminan terpisah mutlak dari kontrak fisik proyek.
+Mekanisme Klaim/Pencairan
+Penerima jaminan harus bisa membuktikan secara hukum atau formal bahwa nasabah benar-benar melanggar kontrak fisik.
+Begitu dokumen klaim tertulis diajukan sesuai teks garansi, bank wajib bayar tanpa perlu mengecek sengketa fisik di lapangan.
+Media Penerbitan
+Hanya diterbitkan dalam bentuk fisik warkat kertas.
+Dapat berbentuk fisik warkat maupun pesan elektronik internasional via SWIFT MT760.
+
+
+Jenis Garansi Berdasarkan Tahapan Proyek (Wajib Diingat untuk Commercial Banking):
+Bid Bond (Jaminan Penarikan/Tender): Menjamin bahwa nasabah tidak akan mundur dari lelang proyek jika ditunjuk sebagai pemenang.
+Performance Bond (Jaminan Pelaksanaan): Menjamin bahwa kontraktor/nasabah akan menyelesaikan pengerjaan proyek sesuai standar kualitas dan tenggat waktu kontrak.
+Advance Payment Bond (Jaminan Uang Muka): Jika pemilik proyek memberikan uang muka (down payment) 20% kepada nasabah, jaminan ini memastikan uang muka tersebut benar-benar dipakai untuk modal proyek, bukan disalahgunakan.
+Retention/Maintenance Bond (Jaminan Pemeliharaan): Menjamin perbaikan jika terjadi kerusakan struktural pasca-proyek selesai dikerjakan secara fisik.
+
+
+Manajemen Risiko Manajemen & Ketentuan Internal Bank
+Bagian ini merupakan ringkasan kebijakan mitigasi risiko di sisi operasional perbankan (terutama merujuk pada standar BNI).
+Risiko Operasional Utama & Mitigasinya
+Discrepancy (Penyimpangan Dokumen) L/C: Jika dokumen yang dikirim eksportir tidak cocok dengan syarat L/C (misal salah ketik HS Code, tanggal pengapalan melewati batas Latest Shipment), jaminan pembayaran bank otomatis gugur.
+Mitigasi: Jalankan prinsip checking document berjenjang (Maker, Approver, Releaser).
+Transaksi Fiktif/Fraud: Penyalahgunaan trade finance untuk pencucian uang atau pendanaan terorisme.
+Mitigasi: Wajib melakukan Customer Due Diligence (CDD) yang ketat untuk meneliti kewajaran nilai kontrak dagang dengan kapasitas gudang/pabrik nasabah.
+Sanksi Internasional (OFAC Sanction): Larangan memproses transaksi yang terafiliasi dengan negara/entitas yang diembargo oleh Amerika Serikat (seperti Iran, Kuba, Korea Utara, dll.). Jika terobos, bank domestik bisa diblokir dari jaringan kliring USD global.
+Mitigasi: Mengintegrasikan sistem filtering otomatis pada pesan SWIFT di sistem perbankan.
+Ketentuan Finansial Kredit & Pricing
+NWE (Negosiasi Wesel Ekspor): Pengambilalihan wesel ekspor oleh bank sebelum bank penerbit membayar. Nasabah non-debitur (Giran) wajib melewati mekanisme pre-screening scoring ketat (minimal skor 80%).
+Plafond Jaminan Trade: Penerbitan L/C Impor atau Garansi Bank wajib dicover oleh salah satu dari tiga instrumen: Marginal Deposit 100% (Cash Collateral), Plafond NCL (Non-Cash Loan), atau Penjaminan Kontra Garansi Asuransi yang telah memiliki PKS resmi dengan bank.
+Waktu Proses (SLA): Standar pelayanan penerbitan Garansi Bank domestik menggunakan Sameday Service asalkan dokumen dinyatakan lengkap dan dana cover telah diblokir di sistem sebelum pukul 15.00 WIB.
+Day 4
+Literasi International Banking
+Definisi & Pihak yang Terlibat
+Pengertian Remittance: Disebut juga sebagai Fund Remittance, Fund Transfer, atau Money Transfer. Ini adalah perintah tertulis atas permintaan nasabah pengirim (ordering customer/institution) kepada bank pengirim (remitting bank) untuk membayar sejumlah uang kepada penerima (beneficiary customer/institution) melalui bank koresponden (receiver bank).
+Pihak-Pihak Utama:
+Ordering Customer / Institution: Pihak yang meminta bank mengirimkan uang (bisa perorangan, badan hukum, atau bank).
+Remitting Bank: Bank yang mengirimkan berita kiriman uang (payment order / PO).
+Receiver Bank: Bank yang menerima berita kiriman uang dari remitting bank (harus bank koresponden).
+Beneficiary Customer / Institution: Pihak yang ditunjuk untuk menerima uang.
+
+Istilah Teknis dalam Perbankan Internasional
+Bank Koresponden: Bank yang bekerja sama untuk saling menyalurkan transaksi, diikat melalui Relationship Management Application (RMA) atau MoU.
+Nostro: Rekening valuta asing milik BNI yang ditempatkan di bank luar negeri.
+Vostro: Rekening milik bank luar negeri (baik dalam Rupiah maupun valas) yang ditempatkan di BNI.
+SWIFT: Jaringan pesan finansial aman antar-lembaga keuangan global.
+BIC (Business Identifier Code): Alamat/kode unik SWIFT yang terdiri dari 8 atau 11 digit.
+SWIFT gpi (Global Payment Innovation): Fitur terbaru SWIFT agar pengiriman uang antar-negara menjadi lebih cepat, dapat terlacak secara real-time, dan transparan.
+OBK: Ongkos Bang Koresponden, tidak bisa diganggu gugat sehingga gk bisa dikurangi
+Profisi: keuntungan bank bni, bisa dikurangi tapi jangan dibikin terlalu gila
+
+Beberapa kode SWIFT MT yang umum digunakan:
+Customer Payments and Cheques (Pembayaran Nasabah)
+Ini adalah kategori yang paling sering bersentuhan dengan nasabah retail/perorangan:
+MT103 (Single Customer Credit Transfer): Format pesan yang paling umum digunakan untuk mengirim uang antar-negara. Isi pesannya mencakup instruksi detail dari pengirim ke penerima, termasuk instruksi pembebanan biaya (Charge Instruction seperti OUR, SHA, BEN).
+MT101 (Request for Transfer): Permintaan dari nasabah (biasanya korporasi besar) kepada banknya untuk memindahkan dana dari rekeningnya.
+MT199 (Free Format Message): Pesan teks bebas antar-bank untuk melakukan konfirmasi, menanyakan status transfer yang tersangkut, atau membetulkan salah ketik nama/nomor rekening penerima.
+
+Financial Institution Transfers (Transfer Antar-Bank)
+Grup kode ini digunakan ketika bank mengirimkan uang untuk keperluan operasional internal mereka sendiri, bukan atas nama nasabah retail:
+MT202 (General Financial Institution Transfer): Instruksi untuk memindahkan dana antar-bank atau lewat bank koresponden (tanpa melibatkan nasabah retail secara langsung).
+MT202 Cov (Cover Method): Digunakan jika bank mengirimkan pesan MT103 langsung ke bank penerima, tetapi pergerakan uangnya (settlement dananya) harus melewati bank koresponden lain sebagai perantara penjamin (cover bank).
+
+Cash Management and Status (Manajemen Kas & Rekening)
+Grup kode ini digunakan bank untuk saling melaporkan posisi saldo rekening atau pembukuan:
+MT940 (Customer Statement): Laporan mutasi rekening berkala (rekening koran digital) yang dikirim oleh bank pengelola rekening (misal bank asing penyimpan rekening Nostro) kepada pemilik rekening.
+MT950 (Statement Message): Format standar harian untuk rekonsiliasi saldo akun antar-bank koresponden.
+
+Tipe Instruksi Pembebanan Biaya Transaksi (Charge Instruction)
+Ada tiga opsi pembagian biaya transfer internasional:
+BEN (Beneficiary): Seluruh biaya kiriman uang ditanggung oleh penerima; biaya akan langsung memotong nominal uang yang dikirim.
+SHA (Shared): Biaya bank pengirim ditanggung oleh pengirim, sedangkan biaya bank koresponden/pembayar ditanggung oleh penerima.
+OUR: Seluruh biaya kiriman uang ditanggung oleh pengirim; biaya bank koresponden akan ditagihkan ke bank pengirim sehingga nominal uang diterima utuh.
+
+Kategori Produk Remittance BNI
+Secara garis besar, layanan remittance dibagi menjadi dua arah:
+Incoming Transfer Remittance (ITR) – Uang Masuk dari Luar Negeri
+Dapat disalurkan melalui 3 cara setelah lolos filter checking:
+Credit to BNI Account: Uang masuk langsung ke rekening BNI nasabah (nama dan nomor rekening harus sesuai).
+Credit to Non-BNI Account: Uang diteruskan ke rekening bank domestik lain melalui kliring, RTGS, atau SWIFT.
+Cash (BNI Wesel PIN): Penerima mengambil uang tunai di outlet BNI atau agen pembayaran (seperti POS, Alfamart, Pegadaian) dengan menunjukkan PIN (6-16 digit) dan kartu identitas yang berlaku.
+Catatan Regulasi: Jika nominal transaksi > USD 10.000 (ekuivalen), nasabah wajib mengisi laporan Lalu Lintas Devisa (LLD).
+
+Outgoing Transfer Remittance (OTR) – Uang Keluar ke Luar Negeri
+Dapat dikategorikan berdasarkan mata uang dan saluran (channel) yang digunakan:
+Berdasarkan Jenis Valuta:
+Hard Currency: Menggunakan mata uang utama dunia seperti USD, SGD, HKD, JPY, EUR, GBP, CAD, CNY, CHF, SAR, dan AUD.
+Local Currency Settlement (LCS): Kerja sama bilateral menggunakan mata uang lokal seperti MYR (Malaysia) atau THB (Thailand).
+OTR Khusus Negara: Seperti OTR Korean Won (kerja sama dengan BNI Seoul, Kookmin Bank, Woori Bank) dan OTR Chinese Yuan (kerja sama ICBC).
+OTR Multicurrency: Pengiriman valas yang bisa diterima dalam 125 mata uang lokal di 160 negara melalui kerja sama dengan Deutsche Bank.
+Berdasarkan Channel Layanan:
+Kantor Cabang: Layanan konvensional untuk nasabah korporasi maupun perorangan.
+BNIDirect: Platform berbasis internet/web khusus untuk nasabah Wholesale/Corporate.
+Mobile Banking & Wondr by BNI: Aplikasi mobile untuk nasabah perorangan. Transaksi lewat aplikasi terbaru (Wondr) menawarkan biaya yang sangat kompetitif (flat fee sekitar 3 USD/EUR/AUD/SGD) dengan batas maksimal USD 10.000 per transaksi atau USD 100.000 per bulan.
+Catatan Regulasi: Transaksi OTR > USD 10.000 memerlukan laporan LLD. Jika transaksi > USD 100.000, nasabah wajib menyertakan dokumen underlying (bukti dasar transaksi ekonomi).
+
+Cara kerja sebenarnya (versi gw)
+Sender bawa uang ke BNI: Misal Anda mau kirim USD 1.000 ke teman Anda di Amerika yang pakai bank Wells Fargo (Beneficiary Bank). Anda menyerahkan Rupiah ke BNI, lalu BNI mendebet/mengambil uang Anda.
+BNI kirim info (Pesan SWIFT): BNI mengirim pesan digital via SWIFT ke Wells Fargo (atau ke Depository Correspondent BNI di Amerika, misal JP Morgan). Pesannya berbunyi: "Tolong bayar ke Teman si Sender sebesar USD 1.000. Potong saja dari keranjang (Nostro) BNI yang ada di tempatmu."
+Uang Sender Langsung Dipakai: Uang Rupiah yang Anda berikan di awal tadi langsung dikonversi oleh BNI ke USD dan dipakai saat itu juga untuk mengisi keranjang BNI yang ada di Amerika. Jadi, uang Anda tidak menunggu keranjangnya kosong baru diisi, melainkan diisi secara real-time atau harian melalui proses yang disebut settlement.
+Beneficiary Terima Uang: Wells Fargo melihat rekening Nostro BNI aman, lalu mereka mencairkan USD 1.000 itu ke rekening teman Anda.
+
+
+Kepatuhan Regulasi & Manajemen Risiko
+Regulasi Internasional (OFAC): BNI wajib mematuhi aturan sanksi ekonomi dari pemerintah Amerika Serikat (Office of Foreign Assets Control) terhadap negara, rezim, teroris, atau aktivitas ilegal yang dilarang.
+Regulasi Nasional (Bank Indonesia): Mematuhi kewajiban penggunaan Rupiah di dalam negeri serta pelaporan kegiatan LLD perbankan.
+Manfaat Melalui Bank Resmi: Menawarkan perlindungan data yang tinggi, pengawasan ketat oleh OJK, BI, dan LPS, serta penerapan standar Anti-Money Laundering (AML), CFT, dan KYC untuk meminimalkan risiko fraud.
+
+Alasan Mendasar Kenapa Ada Hal di Atas (OTR, ITR, SWIFT, API) 
+Kenapa dunia perbankan harus repot-repot membuat skema Outgoing (OTR), Incoming (ITR), serta membedakan jalur SWIFT dan API? Alasan mendasarnya ada 3:
+
+Bank di Dunia Ini Tidak Saling Kenal (Masalah Kepercayaan)
+BNI tidak punya hubungan langsung dengan semua bank di seluruh dunia (ada puluhan ribu bank). Tidak mungkin BNI menaruh "keranjang uang" (Nostro) di semua bank tersebut karena modalnya akan habis diparkir di luar negeri.
+Solusi SWIFT: Dibuatlah jaringan SWIFT agar bank-bank yang tidak saling kenal ini bisa berkomunikasi dengan format pesan yang legal, standar, aman, dan diakui dunia.
+Solusi Bank Koresponden: BNI cukup menaruh keranjang uang di beberapa bank raksasa dunia (disebut Depository Correspondent atau Bank Koresponden). Jika BNI mau kirim uang ke bank kecil di pelosok Jerman, BNI cukup menyuruh bank korespondennya di Jerman untuk meneruskan uang tersebut via kliring lokal di sana.
+
+Kebutuhan Kecepatan Manusia Modern (SWIFT vs API)
+Dulu, semua transfer antar-negara diproses manual lewat pesan SWIFT (bisa memakan waktu 1-3 hari). Di era modern, muncul fintech, e-commerce, dan kebutuhan PMI (Pekerja Migran) yang ingin mengirim uang secara instan detik itu juga ke keluarganya di kampung.
+Alasan ada API: BNI membuka jalur API khusus untuk perusahaan Payment Aggregator / Fintech / Mitra resmi. API memotong birokrasi pesan SWIFT yang kaku. Dengan API, sistem komputer BNI dan sistem komputer mitra luar negeri bisa "berbicara" langsung secara otomatis dan real-time (hitungan detik langsung cair).
+
+Kontrol Devis Negara & Hukum (Alasan OTR / ITR dipisah)
+Uang yang keluar dari sebuah negara (Outgoing / OTR) dan uang yang masuk (Incoming / ITR) memiliki dampak besar terhadap stabilitas nilai mata uang negara tersebut (Rupiah).
+Alasan OTR dipisah: Pemerintah (Bank Indonesia) harus membatasi jangan sampai ada orang kaya yang kabur membawa dolar dalam jumlah masif ke luar negeri (makanya ada aturan underlying document di atas USD 100.000 agar tahu uang itu dipakai untuk apa, bukan untuk mencuci uang).
+Alasan ITR dipisah: Pemerintah ingin memastikan devisa hasil ekspor (seperti kasus batu bara tadi) benar-benar masuk ke dalam negeri, dan kiriman uang dari PMI (pahlawan devisa) bisa disalurkan dengan aman tanpa dipotong biaya siluman (makanya ada opsi biaya BEN, SHA, OUR).
+
+Profil Pasar Global & Aktivitas Pemasaran BNI
+BNI menargetkan komunitas Diaspora Indonesia dan Pekerja Migran Indonesia (PMI) di berbagai belahan dunia melalui Kantor Cabang Luar Negeri (KCLN):
+KCLN & Wilayah Fokus: Singapura (103 ribu PMI, memiliki aplikasi khusus BNI MoRe), Hong Kong (250 ribu PMI), Taiwan (328 ribu PMI), Malaysia (1,8 juta PMI), Arab Saudi (961 ribu PMI), Korea Selatan (30 ribu PMI/mahasiswa), Jepang, London, dan New York.
+Program Pemasaran di Luar Negeri:
+Open Table: Layanan jemput bola untuk pembukaan rekening Taplus PMI di Malaysia, Hong Kong, Seoul, dan UAE.
+Capacity Building: Pelatihan kewirausahaan bagi PMI sebelum kembali ke tanah air.
+Kerjasama Komunitas: Penerbitan kartu perbankan Co-Branding dengan komunitas pelajar/organisasi (seperti PERPITA Taiwan dan Kartanu/PCINU di Seoul).
+
+
+BNI Cash Management
+ -
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Day 5
+Anti Fraud Awareness
+Definisi fraud:
+Unsur penyimpangan pelanggaran prosedur pembiaran
+Unsur sengaja
+Unsur mengelabui/manipulasi/menipu
+Terjadi di lingkungan atau sarana ljk
+Kerugian bagi korban atau keuntungan bagi pelaku
+
+Jenis perbuatan fraud
+Jenis korupsi
+Benturan kepentingan yang merugikan LJK dan/atau konsumen
+Penyuapan
+Penerimaan tidak sah
+Pemerasan
+Penyalahgunaan aset berupa
+Uang tunai
+Persediaan
+Aset lainnya
+
+Teori dari fraud
+Pengendalian internal
+Opportunity
+capability
+Pengendalian diri
+pressure/motivation
+Rationalization
+
+Divisi Subsidiaries Management
+

@@ -1,0 +1,20 @@
+{
+  "request_id": "HPS-2026-001",
+  "department": "Rumah Sakit Mutiara Sukma",
+  "item_category": "Belanja Modal Alat Kantor",
+  "requested_unit_price": 17825000.0,
+  "historical_avg_price": 17500000.0,
+  "price_variance_ratio": 0.01857,
+  "quantity": 4,
+  "total_amount": 71300000.0,
+  "vendor_risk_score": 0.2,
+  "dept_budget_remaining": 500000000.0,
+  "is_urgent": 0,
+  "search_summary": {
+    "specs_searched": "PC Unit ExpertCenter EG3408WVAK-BPC515X and Laptop OmniBook 5 Flip 14-FP0558TU",
+    "cheapest_vendor_found": "Global Komputer",
+    "vendor_channel_type": "E-Katalog",
+    "real_price": 70500000.0,
+    "price_savings_vs_requested": 800000.0
+  }
+}

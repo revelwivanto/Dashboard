@@ -1,0 +1,20 @@
+{
+  "request_id": "07/PB/KP-PPK/2022",
+  "department": "Kantor Inspektorat Kabupaten Lombok Barat",
+  "item_category": "Pengadaan Laptop",
+  "requested_unit_price": 6282000.0,
+  "historical_avg_price": 6282000.0,
+  "price_variance_ratio": 0.0,
+  "quantity": 7,
+  "total_amount": 48860000.0,
+  "vendor_risk_score": 0.0,
+  "dept_budget_remaining": 140000.0,
+  "is_urgent": 0,
+  "search_summary": {
+    "specs_searched": "Asus X441MA-GA031T/Celeron N4020/4GB/1TB/14\"/Win 10 Home",
+    "cheapest_vendor_found": "CV. JUMPA KARYA ABADI",
+    "vendor_channel_type": "Direct Procurement",
+    "real_price": 48860000.0,
+    "price_savings_vs_requested": 0.0
+  }
+}

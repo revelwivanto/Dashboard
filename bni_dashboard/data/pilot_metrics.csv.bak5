@@ -1,0 +1,4 @@
+metric_id,label,value,unit,category,data_type,source
+TOTAL_DOCS_PROCESSED,Total Documents Processed,40.0,documents,RAG,calculated,= len(legal_documents.csv)
+RECORDS_SEARCHABLE_TOTAL,Historical/Legal/RAG Records Made Searchable (this prototype dataset),5738.0,records,RAG,calculated,= len(procurement_history)+len(marketplace_listings)+len(legal_documents)+len(rag_answers)+len(citations)
+ROI_HEADLINE,ROI on Pilot Investment (Base Case),5.171,x,ROI,calculated,"= roi_scenarios.csv, Base Case row (see full breakdown in-app)"

@@ -1,0 +1,20 @@
+{
+  "request_id": "PO-226804-221205-1",
+  "department": "Kantor Kecamatan Malili",
+  "item_category": "Electronics/Computers",
+  "requested_unit_price": 7950000.0,
+  "historical_avg_price": 7950000.0,
+  "price_variance_ratio": 0.0,
+  "quantity": 1,
+  "total_amount": 8824500.0,
+  "vendor_risk_score": 0.0,
+  "dept_budget_remaining": 0.0,
+  "is_urgent": 0,
+  "search_summary": {
+    "specs_searched": "AXIOO Mybook Pro F3 (4H9) i3-6157u/4GB/14",
+    "cheapest_vendor_found": "CV. MALILI TEKNO",
+    "vendor_channel_type": "mbizmarket.co.id",
+    "real_price": 7950000.0,
+    "price_savings_vs_requested": 0.0
+  }
+}

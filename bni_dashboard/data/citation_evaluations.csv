@@ -1,0 +1,429 @@
+citation_id,answer_id,document_id,category,confidence_score,validity_prob,is_valid,data_type
+CIT-00001,ANS-0001,DOC-0001,SOP & Sirkular Internal,0.94,0.884,True,calculated
+CIT-00002,ANS-0001,DOC-0021,Kontrak & Perjanjian Vendor,0.94,0.8039999999999999,True,calculated
+CIT-00003,ANS-0002,DOC-0010,Referensi Regulasi Eksternal,0.978,0.7173,True,calculated
+CIT-00004,ANS-0003,DOC-0023,SOP & Sirkular Internal,0.967,0.8934500000000001,True,calculated
+CIT-00005,ANS-0004,DOC-0040,Referensi Regulasi Eksternal,0.987,0.72045,False,calculated
+CIT-00006,ANS-0005,DOC-0022,Referensi Regulasi Eksternal,0.954,0.7089,False,calculated
+CIT-00007,ANS-0006,DOC-0019,SOP & Sirkular Internal,0.945,0.88575,True,calculated
+CIT-00008,ANS-0006,DOC-0013,Kontrak & Perjanjian Vendor,0.945,0.80575,True,calculated
+CIT-00009,ANS-0007,DOC-0011,Referensi Regulasi Eksternal,0.694,0.6179,False,calculated
+CIT-00010,ANS-0007,DOC-0033,Kontrak & Perjanjian Vendor,0.694,0.7179,True,calculated
+CIT-00011,ANS-0008,DOC-0025,Kontrak & Perjanjian Vendor,0.932,0.8012,True,calculated
+CIT-00012,ANS-0008,DOC-0030,SOP & Sirkular Internal,0.932,0.8812000000000001,True,calculated
+CIT-00013,ANS-0009,DOC-0018,Kontrak & Perjanjian Vendor,0.946,0.8060999999999999,True,calculated
+CIT-00014,ANS-0009,DOC-0011,Referensi Regulasi Eksternal,0.946,0.7061,False,calculated
+CIT-00015,ANS-0010,DOC-0020,SOP & Sirkular Internal,0.732,0.8112,True,calculated
+CIT-00016,ANS-0010,DOC-0015,Kontrak & Perjanjian Vendor,0.732,0.7312,True,calculated
+CIT-00017,ANS-0011,DOC-0031,SOP & Sirkular Internal,0.904,0.8714000000000001,True,calculated
+CIT-00018,ANS-0011,DOC-0007,Kontrak & Perjanjian Vendor,0.904,0.7914,False,calculated
+CIT-00019,ANS-0012,DOC-0033,Kontrak & Perjanjian Vendor,0.885,0.78475,True,calculated
+CIT-00020,ANS-0012,DOC-0020,SOP & Sirkular Internal,0.885,0.86475,False,calculated
+CIT-00021,ANS-0013,DOC-0013,Kontrak & Perjanjian Vendor,0.864,0.7774,False,calculated
+CIT-00022,ANS-0013,DOC-0013,Kontrak & Perjanjian Vendor,0.864,0.7774,True,calculated
+CIT-00023,ANS-0014,DOC-0011,Referensi Regulasi Eksternal,0.755,0.63925,False,calculated
+CIT-00024,ANS-0015,DOC-0022,Referensi Regulasi Eksternal,0.356,0.49960000000000004,False,calculated
+CIT-00025,ANS-0015,DOC-0018,Kontrak & Perjanjian Vendor,0.356,0.5996,False,calculated
+CIT-00026,ANS-0016,DOC-0017,SOP & Sirkular Internal,0.549,0.7471500000000001,True,calculated
+CIT-00027,ANS-0016,DOC-0011,Referensi Regulasi Eksternal,0.549,0.56715,True,calculated
+CIT-00028,ANS-0017,DOC-0008,Kontrak & Perjanjian Vendor,0.87,0.7795,True,calculated
+CIT-00029,ANS-0017,DOC-0026,Referensi Regulasi Eksternal,0.87,0.6795,True,calculated
+CIT-00030,ANS-0018,DOC-0031,SOP & Sirkular Internal,0.588,0.7608,False,calculated
+CIT-00031,ANS-0019,DOC-0005,SOP & Sirkular Internal,0.89,0.8665,True,calculated
+CIT-00032,ANS-0019,DOC-0020,SOP & Sirkular Internal,0.89,0.8665,True,calculated
+CIT-00033,ANS-0020,DOC-0001,SOP & Sirkular Internal,0.978,0.8973,True,calculated
+CIT-00034,ANS-0020,DOC-0013,Kontrak & Perjanjian Vendor,0.978,0.8172999999999999,True,calculated
+CIT-00035,ANS-0021,DOC-0033,Kontrak & Perjanjian Vendor,0.866,0.7781,False,calculated
+CIT-00036,ANS-0021,DOC-0010,Referensi Regulasi Eksternal,0.866,0.6781,True,calculated
+CIT-00037,ANS-0022,DOC-0014,Kontrak & Perjanjian Vendor,0.917,0.7959499999999999,True,calculated
+CIT-00038,ANS-0023,DOC-0021,Kontrak & Perjanjian Vendor,0.948,0.8068,True,calculated
+CIT-00039,ANS-0024,DOC-0040,Referensi Regulasi Eksternal,0.964,0.7124,True,calculated
+CIT-00040,ANS-0024,DOC-0033,Kontrak & Perjanjian Vendor,0.964,0.8124,False,calculated
+CIT-00041,ANS-0025,DOC-0020,SOP & Sirkular Internal,0.942,0.8847,True,calculated
+CIT-00042,ANS-0025,DOC-0027,Kontrak & Perjanjian Vendor,0.942,0.8047,True,calculated
+CIT-00043,ANS-0026,DOC-0014,Kontrak & Perjanjian Vendor,0.88,0.783,True,calculated
+CIT-00044,ANS-0027,DOC-0003,SOP & Sirkular Internal,0.69,0.7965000000000001,True,calculated
+CIT-00045,ANS-0027,DOC-0007,Kontrak & Perjanjian Vendor,0.69,0.7165,False,calculated
+CIT-00046,ANS-0028,DOC-0038,SOP & Sirkular Internal,0.966,0.8931,False,calculated
+CIT-00047,ANS-0028,DOC-0024,SOP & Sirkular Internal,0.966,0.8931,True,calculated
+CIT-00048,ANS-0029,DOC-0021,Kontrak & Perjanjian Vendor,0.938,0.8032999999999999,True,calculated
+CIT-00049,ANS-0030,DOC-0036,SOP & Sirkular Internal,0.687,0.7954500000000001,True,calculated
+CIT-00050,ANS-0030,DOC-0002,Referensi Regulasi Eksternal,0.687,0.61545,False,calculated
+CIT-00051,ANS-0031,DOC-0022,Referensi Regulasi Eksternal,0.705,0.62175,True,calculated
+CIT-00052,ANS-0032,DOC-0005,SOP & Sirkular Internal,0.979,0.8976500000000001,False,calculated
+CIT-00053,ANS-0033,DOC-0030,SOP & Sirkular Internal,0.951,0.88785,True,calculated
+CIT-00054,ANS-0034,DOC-0037,SOP & Sirkular Internal,0.869,0.8591500000000001,True,calculated
+CIT-00055,ANS-0035,DOC-0014,Kontrak & Perjanjian Vendor,0.91,0.7935,True,calculated
+CIT-00056,ANS-0035,DOC-0008,Kontrak & Perjanjian Vendor,0.91,0.7935,True,calculated
+CIT-00057,ANS-0036,DOC-0017,SOP & Sirkular Internal,0.976,0.8966000000000001,True,calculated
+CIT-00058,ANS-0037,DOC-0016,Kontrak & Perjanjian Vendor,0.922,0.7977,True,calculated
+CIT-00059,ANS-0038,DOC-0018,Kontrak & Perjanjian Vendor,0.689,0.71615,False,calculated
+CIT-00060,ANS-0038,DOC-0014,Kontrak & Perjanjian Vendor,0.689,0.71615,True,calculated
+CIT-00061,ANS-0039,DOC-0023,SOP & Sirkular Internal,0.93,0.8805000000000001,True,calculated
+CIT-00062,ANS-0039,DOC-0022,Referensi Regulasi Eksternal,0.93,0.7005,True,calculated
+CIT-00063,ANS-0040,DOC-0001,SOP & Sirkular Internal,0.69,0.7965000000000001,True,calculated
+CIT-00064,ANS-0041,DOC-0028,SOP & Sirkular Internal,0.649,0.7821500000000001,True,calculated
+CIT-00065,ANS-0042,DOC-0022,Referensi Regulasi Eksternal,0.307,0.48245000000000005,False,calculated
+CIT-00066,ANS-0043,DOC-0038,SOP & Sirkular Internal,0.861,0.8563500000000001,False,calculated
+CIT-00067,ANS-0043,DOC-0039,SOP & Sirkular Internal,0.861,0.8563500000000001,True,calculated
+CIT-00068,ANS-0044,DOC-0025,Kontrak & Perjanjian Vendor,0.73,0.7304999999999999,True,calculated
+CIT-00069,ANS-0045,DOC-0010,Referensi Regulasi Eksternal,0.786,0.6501,False,calculated
+CIT-00070,ANS-0046,DOC-0011,Referensi Regulasi Eksternal,0.976,0.7166,True,calculated
+CIT-00071,ANS-0046,DOC-0018,Kontrak & Perjanjian Vendor,0.976,0.8166,False,calculated
+CIT-00072,ANS-0047,DOC-0009,SOP & Sirkular Internal,0.87,0.8595,True,calculated
+CIT-00073,ANS-0048,DOC-0022,Referensi Regulasi Eksternal,0.986,0.7201,True,calculated
+CIT-00074,ANS-0049,DOC-0024,SOP & Sirkular Internal,0.582,0.7587,True,calculated
+CIT-00075,ANS-0050,DOC-0036,SOP & Sirkular Internal,0.938,0.8833,True,calculated
+CIT-00076,ANS-0051,DOC-0020,SOP & Sirkular Internal,0.887,0.86545,False,calculated
+CIT-00077,ANS-0052,DOC-0033,Kontrak & Perjanjian Vendor,0.956,0.8096,True,calculated
+CIT-00078,ANS-0053,DOC-0030,SOP & Sirkular Internal,0.89,0.8665,False,calculated
+CIT-00079,ANS-0054,DOC-0027,Kontrak & Perjanjian Vendor,0.926,0.7991,True,calculated
+CIT-00080,ANS-0055,DOC-0017,SOP & Sirkular Internal,0.876,0.8616,True,calculated
+CIT-00081,ANS-0056,DOC-0022,Referensi Regulasi Eksternal,0.913,0.69455,False,calculated
+CIT-00082,ANS-0056,DOC-0028,SOP & Sirkular Internal,0.913,0.87455,True,calculated
+CIT-00083,ANS-0057,DOC-0022,Referensi Regulasi Eksternal,0.965,0.71275,True,calculated
+CIT-00084,ANS-0058,DOC-0035,Referensi Regulasi Eksternal,0.946,0.7061,False,calculated
+CIT-00085,ANS-0058,DOC-0034,SOP & Sirkular Internal,0.946,0.8861,True,calculated
+CIT-00086,ANS-0059,DOC-0037,SOP & Sirkular Internal,0.89,0.8665,True,calculated
+CIT-00087,ANS-0059,DOC-0026,Referensi Regulasi Eksternal,0.89,0.6865,True,calculated
+CIT-00088,ANS-0060,DOC-0022,Referensi Regulasi Eksternal,0.81,0.6585000000000001,False,calculated
+CIT-00089,ANS-0060,DOC-0029,Kontrak & Perjanjian Vendor,0.81,0.7585,True,calculated
+CIT-00090,ANS-0061,DOC-0021,Kontrak & Perjanjian Vendor,0.895,0.78825,True,calculated
+CIT-00091,ANS-0061,DOC-0027,Kontrak & Perjanjian Vendor,0.895,0.78825,True,calculated
+CIT-00092,ANS-0062,DOC-0016,Kontrak & Perjanjian Vendor,0.969,0.8141499999999999,True,calculated
+CIT-00093,ANS-0062,DOC-0012,SOP & Sirkular Internal,0.969,0.89415,True,calculated
+CIT-00094,ANS-0063,DOC-0007,Kontrak & Perjanjian Vendor,0.891,0.78685,True,calculated
+CIT-00095,ANS-0063,DOC-0036,SOP & Sirkular Internal,0.891,0.8668500000000001,False,calculated
+CIT-00096,ANS-0064,DOC-0033,Kontrak & Perjanjian Vendor,0.868,0.7787999999999999,True,calculated
+CIT-00097,ANS-0065,DOC-0010,Referensi Regulasi Eksternal,0.879,0.68265,True,calculated
+CIT-00098,ANS-0065,DOC-0005,SOP & Sirkular Internal,0.879,0.86265,True,calculated
+CIT-00099,ANS-0066,DOC-0007,Kontrak & Perjanjian Vendor,0.965,0.81275,True,calculated
+CIT-00100,ANS-0067,DOC-0032,SOP & Sirkular Internal,0.912,0.8742000000000001,True,calculated
+CIT-00101,ANS-0068,DOC-0001,SOP & Sirkular Internal,0.99,0.9015000000000001,True,calculated
+CIT-00102,ANS-0068,DOC-0021,Kontrak & Perjanjian Vendor,0.99,0.8215,True,calculated
+CIT-00103,ANS-0069,DOC-0005,SOP & Sirkular Internal,0.947,0.8864500000000001,True,calculated
+CIT-00104,ANS-0070,DOC-0001,SOP & Sirkular Internal,0.878,0.8623000000000001,True,calculated
+CIT-00105,ANS-0071,DOC-0017,SOP & Sirkular Internal,0.96,0.891,True,calculated
+CIT-00106,ANS-0072,DOC-0007,Kontrak & Perjanjian Vendor,0.959,0.81065,True,calculated
+CIT-00107,ANS-0073,DOC-0031,SOP & Sirkular Internal,0.426,0.7041000000000001,True,calculated
+CIT-00108,ANS-0073,DOC-0037,SOP & Sirkular Internal,0.426,0.7041000000000001,True,calculated
+CIT-00109,ANS-0074,DOC-0023,SOP & Sirkular Internal,0.275,0.6512500000000001,True,calculated
+CIT-00110,ANS-0074,DOC-0027,Kontrak & Perjanjian Vendor,0.275,0.57125,True,calculated
+CIT-00111,ANS-0075,DOC-0025,Kontrak & Perjanjian Vendor,0.833,0.76655,True,calculated
+CIT-00112,ANS-0076,DOC-0036,SOP & Sirkular Internal,0.863,0.8570500000000001,True,calculated
+CIT-00113,ANS-0077,DOC-0019,SOP & Sirkular Internal,0.861,0.8563500000000001,False,calculated
+CIT-00114,ANS-0077,DOC-0031,SOP & Sirkular Internal,0.861,0.8563500000000001,True,calculated
+CIT-00115,ANS-0078,DOC-0029,Kontrak & Perjanjian Vendor,0.894,0.7879,True,calculated
+CIT-00116,ANS-0078,DOC-0036,SOP & Sirkular Internal,0.894,0.8679000000000001,True,calculated
+CIT-00117,ANS-0079,DOC-0032,SOP & Sirkular Internal,0.894,0.8679000000000001,True,calculated
+CIT-00118,ANS-0079,DOC-0025,Kontrak & Perjanjian Vendor,0.894,0.7879,True,calculated
+CIT-00119,ANS-0080,DOC-0040,Referensi Regulasi Eksternal,0.895,0.68825,True,calculated
+CIT-00120,ANS-0081,DOC-0002,Referensi Regulasi Eksternal,0.975,0.71625,False,calculated
+CIT-00121,ANS-0081,DOC-0023,SOP & Sirkular Internal,0.975,0.89625,True,calculated
+CIT-00122,ANS-0082,DOC-0025,Kontrak & Perjanjian Vendor,0.861,0.77635,True,calculated
+CIT-00123,ANS-0082,DOC-0012,SOP & Sirkular Internal,0.861,0.8563500000000001,True,calculated
+CIT-00124,ANS-0083,DOC-0006,SOP & Sirkular Internal,0.883,0.8640500000000001,True,calculated
+CIT-00125,ANS-0083,DOC-0004,SOP & Sirkular Internal,0.883,0.8640500000000001,False,calculated
+CIT-00126,ANS-0084,DOC-0027,Kontrak & Perjanjian Vendor,0.938,0.8032999999999999,True,calculated
+CIT-00127,ANS-0084,DOC-0024,SOP & Sirkular Internal,0.938,0.8833,True,calculated
+CIT-00128,ANS-0085,DOC-0001,SOP & Sirkular Internal,0.885,0.86475,False,calculated
+CIT-00129,ANS-0085,DOC-0034,SOP & Sirkular Internal,0.885,0.86475,True,calculated
+CIT-00130,ANS-0086,DOC-0002,Referensi Regulasi Eksternal,0.946,0.7061,True,calculated
+CIT-00131,ANS-0086,DOC-0025,Kontrak & Perjanjian Vendor,0.946,0.8060999999999999,True,calculated
+CIT-00132,ANS-0087,DOC-0033,Kontrak & Perjanjian Vendor,0.318,0.5863,True,calculated
+CIT-00133,ANS-0087,DOC-0013,Kontrak & Perjanjian Vendor,0.318,0.5863,False,calculated
+CIT-00134,ANS-0088,DOC-0040,Referensi Regulasi Eksternal,0.962,0.7117,False,calculated
+CIT-00135,ANS-0089,DOC-0028,SOP & Sirkular Internal,0.898,0.8693000000000001,True,calculated
+CIT-00136,ANS-0090,DOC-0008,Kontrak & Perjanjian Vendor,0.543,0.66505,True,calculated
+CIT-00137,ANS-0091,DOC-0012,SOP & Sirkular Internal,0.971,0.89485,True,calculated
+CIT-00138,ANS-0092,DOC-0020,SOP & Sirkular Internal,0.978,0.8973,True,calculated
+CIT-00139,ANS-0093,DOC-0009,SOP & Sirkular Internal,0.863,0.8570500000000001,True,calculated
+CIT-00140,ANS-0093,DOC-0027,Kontrak & Perjanjian Vendor,0.863,0.77705,True,calculated
+CIT-00141,ANS-0094,DOC-0005,SOP & Sirkular Internal,0.979,0.8976500000000001,True,calculated
+CIT-00142,ANS-0095,DOC-0031,SOP & Sirkular Internal,0.952,0.8882000000000001,True,calculated
+CIT-00143,ANS-0096,DOC-0010,Referensi Regulasi Eksternal,0.956,0.7096,True,calculated
+CIT-00144,ANS-0096,DOC-0006,SOP & Sirkular Internal,0.956,0.8896000000000001,False,calculated
+CIT-00145,ANS-0097,DOC-0025,Kontrak & Perjanjian Vendor,0.828,0.7647999999999999,False,calculated
+CIT-00146,ANS-0098,DOC-0025,Kontrak & Perjanjian Vendor,0.908,0.7928,True,calculated
+CIT-00147,ANS-0098,DOC-0037,SOP & Sirkular Internal,0.908,0.8728,True,calculated
+CIT-00148,ANS-0099,DOC-0013,Kontrak & Perjanjian Vendor,0.468,0.6388,False,calculated
+CIT-00149,ANS-0100,DOC-0005,SOP & Sirkular Internal,0.946,0.8861,True,calculated
+CIT-00150,ANS-0100,DOC-0012,SOP & Sirkular Internal,0.946,0.8861,True,calculated
+CIT-00151,ANS-0101,DOC-0039,SOP & Sirkular Internal,0.962,0.8917,True,calculated
+CIT-00152,ANS-0101,DOC-0015,Kontrak & Perjanjian Vendor,0.962,0.8117,True,calculated
+CIT-00153,ANS-0102,DOC-0016,Kontrak & Perjanjian Vendor,0.912,0.7942,True,calculated
+CIT-00154,ANS-0102,DOC-0024,SOP & Sirkular Internal,0.912,0.8742000000000001,True,calculated
+CIT-00155,ANS-0103,DOC-0009,SOP & Sirkular Internal,0.379,0.6876500000000001,True,calculated
+CIT-00156,ANS-0104,DOC-0025,Kontrak & Perjanjian Vendor,0.981,0.81835,True,calculated
+CIT-00157,ANS-0104,DOC-0031,SOP & Sirkular Internal,0.981,0.8983500000000001,True,calculated
+CIT-00158,ANS-0105,DOC-0002,Referensi Regulasi Eksternal,0.915,0.69525,False,calculated
+CIT-00159,ANS-0105,DOC-0018,Kontrak & Perjanjian Vendor,0.915,0.79525,True,calculated
+CIT-00160,ANS-0106,DOC-0029,Kontrak & Perjanjian Vendor,0.911,0.79385,True,calculated
+CIT-00161,ANS-0107,DOC-0017,SOP & Sirkular Internal,0.737,0.8129500000000001,True,calculated
+CIT-00162,ANS-0108,DOC-0028,SOP & Sirkular Internal,0.93,0.8805000000000001,False,calculated
+CIT-00163,ANS-0109,DOC-0040,Referensi Regulasi Eksternal,0.88,0.683,False,calculated
+CIT-00164,ANS-0109,DOC-0038,SOP & Sirkular Internal,0.88,0.8630000000000001,True,calculated
+CIT-00165,ANS-0110,DOC-0013,Kontrak & Perjanjian Vendor,0.952,0.8082,True,calculated
+CIT-00166,ANS-0111,DOC-0025,Kontrak & Perjanjian Vendor,0.824,0.7634,True,calculated
+CIT-00167,ANS-0111,DOC-0037,SOP & Sirkular Internal,0.824,0.8434,True,calculated
+CIT-00168,ANS-0112,DOC-0031,SOP & Sirkular Internal,0.962,0.8917,True,calculated
+CIT-00169,ANS-0113,DOC-0008,Kontrak & Perjanjian Vendor,0.967,0.81345,False,calculated
+CIT-00170,ANS-0113,DOC-0016,Kontrak & Perjanjian Vendor,0.967,0.81345,True,calculated
+CIT-00171,ANS-0114,DOC-0007,Kontrak & Perjanjian Vendor,0.366,0.6031,True,calculated
+CIT-00172,ANS-0114,DOC-0033,Kontrak & Perjanjian Vendor,0.366,0.6031,True,calculated
+CIT-00173,ANS-0115,DOC-0029,Kontrak & Perjanjian Vendor,0.875,0.78125,False,calculated
+CIT-00174,ANS-0116,DOC-0003,SOP & Sirkular Internal,0.889,0.8661500000000001,True,calculated
+CIT-00175,ANS-0118,DOC-0020,SOP & Sirkular Internal,0.734,0.8119000000000001,True,calculated
+CIT-00176,ANS-0118,DOC-0031,SOP & Sirkular Internal,0.734,0.8119000000000001,True,calculated
+CIT-00177,ANS-0119,DOC-0009,SOP & Sirkular Internal,0.985,0.89975,True,calculated
+CIT-00178,ANS-0120,DOC-0028,SOP & Sirkular Internal,0.784,0.8294,True,calculated
+CIT-00179,ANS-0121,DOC-0037,SOP & Sirkular Internal,0.974,0.8959,True,calculated
+CIT-00180,ANS-0123,DOC-0033,Kontrak & Perjanjian Vendor,0.938,0.8032999999999999,True,calculated
+CIT-00181,ANS-0124,DOC-0027,Kontrak & Perjanjian Vendor,0.877,0.78195,True,calculated
+CIT-00182,ANS-0125,DOC-0001,SOP & Sirkular Internal,0.979,0.8976500000000001,True,calculated
+CIT-00183,ANS-0125,DOC-0032,SOP & Sirkular Internal,0.979,0.8976500000000001,True,calculated
+CIT-00184,ANS-0126,DOC-0009,SOP & Sirkular Internal,0.866,0.8581000000000001,True,calculated
+CIT-00185,ANS-0127,DOC-0007,Kontrak & Perjanjian Vendor,0.891,0.78685,True,calculated
+CIT-00186,ANS-0128,DOC-0002,Referensi Regulasi Eksternal,0.41,0.5185,True,calculated
+CIT-00187,ANS-0129,DOC-0038,SOP & Sirkular Internal,0.934,0.8819000000000001,True,calculated
+CIT-00188,ANS-0130,DOC-0007,Kontrak & Perjanjian Vendor,0.888,0.7857999999999999,False,calculated
+CIT-00189,ANS-0130,DOC-0029,Kontrak & Perjanjian Vendor,0.888,0.7857999999999999,True,calculated
+CIT-00190,ANS-0131,DOC-0029,Kontrak & Perjanjian Vendor,0.688,0.7158,True,calculated
+CIT-00191,ANS-0132,DOC-0019,SOP & Sirkular Internal,0.896,0.8686,True,calculated
+CIT-00192,ANS-0133,DOC-0015,Kontrak & Perjanjian Vendor,0.96,0.8109999999999999,True,calculated
+CIT-00193,ANS-0133,DOC-0015,Kontrak & Perjanjian Vendor,0.96,0.8109999999999999,True,calculated
+CIT-00194,ANS-0134,DOC-0035,Referensi Regulasi Eksternal,0.881,0.68335,True,calculated
+CIT-00195,ANS-0134,DOC-0028,SOP & Sirkular Internal,0.881,0.8633500000000001,True,calculated
+CIT-00196,ANS-0135,DOC-0022,Referensi Regulasi Eksternal,0.977,0.71695,True,calculated
+CIT-00197,ANS-0135,DOC-0005,SOP & Sirkular Internal,0.977,0.89695,True,calculated
+CIT-00198,ANS-0136,DOC-0033,Kontrak & Perjanjian Vendor,0.863,0.77705,True,calculated
+CIT-00199,ANS-0136,DOC-0033,Kontrak & Perjanjian Vendor,0.863,0.77705,True,calculated
+CIT-00200,ANS-0137,DOC-0023,SOP & Sirkular Internal,0.956,0.8896000000000001,False,calculated
+CIT-00201,ANS-0137,DOC-0010,Referensi Regulasi Eksternal,0.956,0.7096,True,calculated
+CIT-00202,ANS-0138,DOC-0027,Kontrak & Perjanjian Vendor,0.938,0.8032999999999999,True,calculated
+CIT-00203,ANS-0139,DOC-0040,Referensi Regulasi Eksternal,0.973,0.71555,False,calculated
+CIT-00204,ANS-0139,DOC-0027,Kontrak & Perjanjian Vendor,0.973,0.81555,True,calculated
+CIT-00205,ANS-0140,DOC-0035,Referensi Regulasi Eksternal,0.906,0.6921,True,calculated
+CIT-00206,ANS-0140,DOC-0018,Kontrak & Perjanjian Vendor,0.906,0.7921,True,calculated
+CIT-00207,ANS-0141,DOC-0027,Kontrak & Perjanjian Vendor,0.793,0.75255,False,calculated
+CIT-00208,ANS-0141,DOC-0032,SOP & Sirkular Internal,0.793,0.8325500000000001,True,calculated
+CIT-00209,ANS-0142,DOC-0020,SOP & Sirkular Internal,0.911,0.87385,True,calculated
+CIT-00210,ANS-0143,DOC-0029,Kontrak & Perjanjian Vendor,0.632,0.6962,False,calculated
+CIT-00211,ANS-0143,DOC-0039,SOP & Sirkular Internal,0.632,0.7762000000000001,True,calculated
+CIT-00212,ANS-0144,DOC-0031,SOP & Sirkular Internal,0.987,0.9004500000000001,True,calculated
+CIT-00213,ANS-0144,DOC-0027,Kontrak & Perjanjian Vendor,0.987,0.82045,False,calculated
+CIT-00214,ANS-0145,DOC-0025,Kontrak & Perjanjian Vendor,0.861,0.77635,True,calculated
+CIT-00215,ANS-0145,DOC-0030,SOP & Sirkular Internal,0.861,0.8563500000000001,False,calculated
+CIT-00216,ANS-0146,DOC-0033,Kontrak & Perjanjian Vendor,0.949,0.8071499999999999,False,calculated
+CIT-00217,ANS-0147,DOC-0030,SOP & Sirkular Internal,0.829,0.8451500000000001,True,calculated
+CIT-00218,ANS-0149,DOC-0032,SOP & Sirkular Internal,0.983,0.89905,True,calculated
+CIT-00219,ANS-0150,DOC-0018,Kontrak & Perjanjian Vendor,0.552,0.6682,True,calculated
+CIT-00220,ANS-0151,DOC-0019,SOP & Sirkular Internal,0.64,0.779,True,calculated
+CIT-00221,ANS-0152,DOC-0012,SOP & Sirkular Internal,0.99,0.9015000000000001,True,calculated
+CIT-00222,ANS-0152,DOC-0021,Kontrak & Perjanjian Vendor,0.99,0.8215,True,calculated
+CIT-00223,ANS-0153,DOC-0009,SOP & Sirkular Internal,0.803,0.8360500000000001,True,calculated
+CIT-00224,ANS-0154,DOC-0020,SOP & Sirkular Internal,0.913,0.87455,False,calculated
+CIT-00225,ANS-0154,DOC-0021,Kontrak & Perjanjian Vendor,0.913,0.79455,False,calculated
+CIT-00226,ANS-0155,DOC-0016,Kontrak & Perjanjian Vendor,0.977,0.81695,True,calculated
+CIT-00227,ANS-0156,DOC-0034,SOP & Sirkular Internal,0.977,0.89695,True,calculated
+CIT-00228,ANS-0156,DOC-0034,SOP & Sirkular Internal,0.977,0.89695,True,calculated
+CIT-00229,ANS-0157,DOC-0007,Kontrak & Perjanjian Vendor,0.965,0.81275,True,calculated
+CIT-00230,ANS-0158,DOC-0023,SOP & Sirkular Internal,0.68,0.793,True,calculated
+CIT-00231,ANS-0159,DOC-0008,Kontrak & Perjanjian Vendor,0.983,0.81905,True,calculated
+CIT-00232,ANS-0160,DOC-0035,Referensi Regulasi Eksternal,0.951,0.70785,False,calculated
+CIT-00233,ANS-0161,DOC-0011,Referensi Regulasi Eksternal,0.983,0.71905,True,calculated
+CIT-00234,ANS-0162,DOC-0040,Referensi Regulasi Eksternal,0.682,0.6137,False,calculated
+CIT-00235,ANS-0162,DOC-0031,SOP & Sirkular Internal,0.682,0.7937000000000001,True,calculated
+CIT-00236,ANS-0163,DOC-0024,SOP & Sirkular Internal,0.901,0.8703500000000001,True,calculated
+CIT-00237,ANS-0164,DOC-0009,SOP & Sirkular Internal,0.865,0.85775,True,calculated
+CIT-00238,ANS-0164,DOC-0040,Referensi Regulasi Eksternal,0.865,0.67775,True,calculated
+CIT-00239,ANS-0165,DOC-0011,Referensi Regulasi Eksternal,0.932,0.7012,True,calculated
+CIT-00240,ANS-0166,DOC-0018,Kontrak & Perjanjian Vendor,0.636,0.6976,True,calculated
+CIT-00241,ANS-0167,DOC-0030,SOP & Sirkular Internal,0.989,0.90115,True,calculated
+CIT-00242,ANS-0169,DOC-0014,Kontrak & Perjanjian Vendor,0.461,0.63635,True,calculated
+CIT-00243,ANS-0169,DOC-0012,SOP & Sirkular Internal,0.461,0.71635,False,calculated
+CIT-00244,ANS-0170,DOC-0016,Kontrak & Perjanjian Vendor,0.724,0.7283999999999999,True,calculated
+CIT-00245,ANS-0171,DOC-0020,SOP & Sirkular Internal,0.913,0.87455,True,calculated
+CIT-00246,ANS-0172,DOC-0018,Kontrak & Perjanjian Vendor,0.968,0.8138,True,calculated
+CIT-00247,ANS-0173,DOC-0027,Kontrak & Perjanjian Vendor,0.943,0.8050499999999999,True,calculated
+CIT-00248,ANS-0174,DOC-0011,Referensi Regulasi Eksternal,0.908,0.6928,True,calculated
+CIT-00249,ANS-0174,DOC-0009,SOP & Sirkular Internal,0.908,0.8728,True,calculated
+CIT-00250,ANS-0175,DOC-0032,SOP & Sirkular Internal,0.896,0.8686,False,calculated
+CIT-00251,ANS-0175,DOC-0018,Kontrak & Perjanjian Vendor,0.896,0.7886,False,calculated
+CIT-00252,ANS-0176,DOC-0017,SOP & Sirkular Internal,0.709,0.80315,True,calculated
+CIT-00253,ANS-0177,DOC-0039,SOP & Sirkular Internal,0.698,0.7993,True,calculated
+CIT-00254,ANS-0178,DOC-0022,Referensi Regulasi Eksternal,0.945,0.70575,False,calculated
+CIT-00255,ANS-0178,DOC-0003,SOP & Sirkular Internal,0.945,0.88575,False,calculated
+CIT-00256,ANS-0179,DOC-0027,Kontrak & Perjanjian Vendor,0.956,0.8096,True,calculated
+CIT-00257,ANS-0180,DOC-0030,SOP & Sirkular Internal,0.92,0.8770000000000001,True,calculated
+CIT-00258,ANS-0180,DOC-0030,SOP & Sirkular Internal,0.92,0.8770000000000001,True,calculated
+CIT-00259,ANS-0181,DOC-0004,SOP & Sirkular Internal,0.944,0.8854000000000001,False,calculated
+CIT-00260,ANS-0182,DOC-0023,SOP & Sirkular Internal,0.977,0.89695,True,calculated
+CIT-00261,ANS-0182,DOC-0013,Kontrak & Perjanjian Vendor,0.977,0.81695,True,calculated
+CIT-00262,ANS-0183,DOC-0019,SOP & Sirkular Internal,0.905,0.87175,True,calculated
+CIT-00263,ANS-0183,DOC-0012,SOP & Sirkular Internal,0.905,0.87175,True,calculated
+CIT-00264,ANS-0184,DOC-0010,Referensi Regulasi Eksternal,0.897,0.68895,False,calculated
+CIT-00265,ANS-0185,DOC-0033,Kontrak & Perjanjian Vendor,0.47,0.6395,True,calculated
+CIT-00266,ANS-0185,DOC-0030,SOP & Sirkular Internal,0.47,0.7195,False,calculated
+CIT-00267,ANS-0186,DOC-0038,SOP & Sirkular Internal,0.467,0.71845,False,calculated
+CIT-00268,ANS-0186,DOC-0024,SOP & Sirkular Internal,0.467,0.71845,True,calculated
+CIT-00269,ANS-0187,DOC-0010,Referensi Regulasi Eksternal,0.959,0.71065,False,calculated
+CIT-00270,ANS-0188,DOC-0016,Kontrak & Perjanjian Vendor,0.985,0.81975,True,calculated
+CIT-00271,ANS-0188,DOC-0017,SOP & Sirkular Internal,0.985,0.89975,True,calculated
+CIT-00272,ANS-0189,DOC-0018,Kontrak & Perjanjian Vendor,0.925,0.79875,True,calculated
+CIT-00273,ANS-0190,DOC-0012,SOP & Sirkular Internal,0.892,0.8672000000000001,True,calculated
+CIT-00274,ANS-0190,DOC-0002,Referensi Regulasi Eksternal,0.892,0.6872,True,calculated
+CIT-00275,ANS-0191,DOC-0025,Kontrak & Perjanjian Vendor,0.689,0.71615,True,calculated
+CIT-00276,ANS-0192,DOC-0029,Kontrak & Perjanjian Vendor,0.685,0.71475,True,calculated
+CIT-00277,ANS-0192,DOC-0036,SOP & Sirkular Internal,0.685,0.7947500000000001,True,calculated
+CIT-00278,ANS-0193,DOC-0018,Kontrak & Perjanjian Vendor,0.893,0.78755,True,calculated
+CIT-00279,ANS-0193,DOC-0028,SOP & Sirkular Internal,0.893,0.86755,True,calculated
+CIT-00280,ANS-0194,DOC-0034,SOP & Sirkular Internal,0.986,0.9001,True,calculated
+CIT-00281,ANS-0194,DOC-0018,Kontrak & Perjanjian Vendor,0.986,0.8200999999999999,True,calculated
+CIT-00282,ANS-0195,DOC-0012,SOP & Sirkular Internal,0.988,0.9008,True,calculated
+CIT-00283,ANS-0196,DOC-0036,SOP & Sirkular Internal,0.646,0.7811,True,calculated
+CIT-00284,ANS-0197,DOC-0012,SOP & Sirkular Internal,0.904,0.8714000000000001,False,calculated
+CIT-00285,ANS-0197,DOC-0029,Kontrak & Perjanjian Vendor,0.904,0.7914,False,calculated
+CIT-00286,ANS-0198,DOC-0039,SOP & Sirkular Internal,0.974,0.8959,True,calculated
+CIT-00287,ANS-0199,DOC-0007,Kontrak & Perjanjian Vendor,0.926,0.7991,True,calculated
+CIT-00288,ANS-0199,DOC-0026,Referensi Regulasi Eksternal,0.926,0.6991,True,calculated
+CIT-00289,ANS-0200,DOC-0010,Referensi Regulasi Eksternal,0.969,0.71415,False,calculated
+CIT-00290,ANS-0201,DOC-0011,Referensi Regulasi Eksternal,0.891,0.68685,True,calculated
+CIT-00291,ANS-0201,DOC-0006,SOP & Sirkular Internal,0.891,0.8668500000000001,True,calculated
+CIT-00292,ANS-0202,DOC-0008,Kontrak & Perjanjian Vendor,0.877,0.78195,True,calculated
+CIT-00293,ANS-0202,DOC-0022,Referensi Regulasi Eksternal,0.877,0.6819500000000001,True,calculated
+CIT-00294,ANS-0203,DOC-0040,Referensi Regulasi Eksternal,0.937,0.70295,False,calculated
+CIT-00295,ANS-0203,DOC-0034,SOP & Sirkular Internal,0.937,0.8829500000000001,True,calculated
+CIT-00296,ANS-0204,DOC-0014,Kontrak & Perjanjian Vendor,0.871,0.7798499999999999,True,calculated
+CIT-00297,ANS-0205,DOC-0039,SOP & Sirkular Internal,0.57,0.7545000000000001,True,calculated
+CIT-00298,ANS-0206,DOC-0029,Kontrak & Perjanjian Vendor,0.868,0.7787999999999999,True,calculated
+CIT-00299,ANS-0207,DOC-0029,Kontrak & Perjanjian Vendor,0.93,0.8005,True,calculated
+CIT-00300,ANS-0207,DOC-0005,SOP & Sirkular Internal,0.93,0.8805000000000001,True,calculated
+CIT-00301,ANS-0208,DOC-0007,Kontrak & Perjanjian Vendor,0.945,0.80575,True,calculated
+CIT-00302,ANS-0208,DOC-0014,Kontrak & Perjanjian Vendor,0.945,0.80575,False,calculated
+CIT-00303,ANS-0209,DOC-0001,SOP & Sirkular Internal,0.941,0.8843500000000001,True,calculated
+CIT-00304,ANS-0212,DOC-0014,Kontrak & Perjanjian Vendor,0.613,0.68955,False,calculated
+CIT-00305,ANS-0213,DOC-0023,SOP & Sirkular Internal,0.744,0.8154,True,calculated
+CIT-00306,ANS-0214,DOC-0035,Referensi Regulasi Eksternal,0.861,0.67635,True,calculated
+CIT-00307,ANS-0215,DOC-0036,SOP & Sirkular Internal,0.941,0.8843500000000001,True,calculated
+CIT-00308,ANS-0215,DOC-0035,Referensi Regulasi Eksternal,0.941,0.70435,True,calculated
+CIT-00309,ANS-0216,DOC-0034,SOP & Sirkular Internal,0.941,0.8843500000000001,True,calculated
+CIT-00310,ANS-0216,DOC-0038,SOP & Sirkular Internal,0.941,0.8843500000000001,False,calculated
+CIT-00311,ANS-0217,DOC-0018,Kontrak & Perjanjian Vendor,0.893,0.78755,False,calculated
+CIT-00312,ANS-0217,DOC-0026,Referensi Regulasi Eksternal,0.893,0.68755,False,calculated
+CIT-00313,ANS-0218,DOC-0040,Referensi Regulasi Eksternal,0.764,0.6424,True,calculated
+CIT-00314,ANS-0218,DOC-0005,SOP & Sirkular Internal,0.764,0.8224,True,calculated
+CIT-00315,ANS-0219,DOC-0022,Referensi Regulasi Eksternal,0.907,0.69245,True,calculated
+CIT-00316,ANS-0220,DOC-0018,Kontrak & Perjanjian Vendor,0.894,0.7879,False,calculated
+CIT-00317,ANS-0220,DOC-0012,SOP & Sirkular Internal,0.894,0.8679000000000001,True,calculated
+CIT-00318,ANS-0221,DOC-0001,SOP & Sirkular Internal,0.97,0.8945000000000001,True,calculated
+CIT-00319,ANS-0221,DOC-0010,Referensi Regulasi Eksternal,0.97,0.7145,False,calculated
+CIT-00320,ANS-0222,DOC-0012,SOP & Sirkular Internal,0.928,0.8798,True,calculated
+CIT-00321,ANS-0223,DOC-0039,SOP & Sirkular Internal,0.552,0.7482000000000001,True,calculated
+CIT-00322,ANS-0223,DOC-0017,SOP & Sirkular Internal,0.552,0.7482000000000001,True,calculated
+CIT-00323,ANS-0224,DOC-0002,Referensi Regulasi Eksternal,0.843,0.67005,True,calculated
+CIT-00324,ANS-0224,DOC-0036,SOP & Sirkular Internal,0.843,0.8500500000000001,False,calculated
+CIT-00325,ANS-0225,DOC-0013,Kontrak & Perjanjian Vendor,0.971,0.81485,False,calculated
+CIT-00326,ANS-0226,DOC-0032,SOP & Sirkular Internal,0.614,0.7699,True,calculated
+CIT-00327,ANS-0226,DOC-0036,SOP & Sirkular Internal,0.614,0.7699,True,calculated
+CIT-00328,ANS-0227,DOC-0040,Referensi Regulasi Eksternal,0.418,0.5213,False,calculated
+CIT-00329,ANS-0227,DOC-0021,Kontrak & Perjanjian Vendor,0.418,0.6213,True,calculated
+CIT-00330,ANS-0228,DOC-0020,SOP & Sirkular Internal,0.776,0.8266000000000001,True,calculated
+CIT-00331,ANS-0229,DOC-0039,SOP & Sirkular Internal,0.481,0.72335,True,calculated
+CIT-00332,ANS-0229,DOC-0021,Kontrak & Perjanjian Vendor,0.481,0.64335,True,calculated
+CIT-00333,ANS-0230,DOC-0021,Kontrak & Perjanjian Vendor,0.959,0.81065,True,calculated
+CIT-00334,ANS-0231,DOC-0029,Kontrak & Perjanjian Vendor,0.983,0.81905,True,calculated
+CIT-00335,ANS-0231,DOC-0022,Referensi Regulasi Eksternal,0.983,0.71905,False,calculated
+CIT-00336,ANS-0232,DOC-0001,SOP & Sirkular Internal,0.955,0.8892500000000001,True,calculated
+CIT-00337,ANS-0233,DOC-0039,SOP & Sirkular Internal,0.902,0.8707,True,calculated
+CIT-00338,ANS-0233,DOC-0036,SOP & Sirkular Internal,0.902,0.8707,True,calculated
+CIT-00339,ANS-0234,DOC-0005,SOP & Sirkular Internal,0.871,0.85985,True,calculated
+CIT-00340,ANS-0236,DOC-0025,Kontrak & Perjanjian Vendor,0.95,0.8075,True,calculated
+CIT-00341,ANS-0237,DOC-0001,SOP & Sirkular Internal,0.747,0.81645,True,calculated
+CIT-00342,ANS-0238,DOC-0038,SOP & Sirkular Internal,0.762,0.8217000000000001,True,calculated
+CIT-00343,ANS-0238,DOC-0035,Referensi Regulasi Eksternal,0.762,0.6417,False,calculated
+CIT-00344,ANS-0240,DOC-0008,Kontrak & Perjanjian Vendor,0.929,0.80015,True,calculated
+CIT-00345,ANS-0241,DOC-0024,SOP & Sirkular Internal,0.892,0.8672000000000001,True,calculated
+CIT-00346,ANS-0242,DOC-0010,Referensi Regulasi Eksternal,0.87,0.6795,False,calculated
+CIT-00347,ANS-0242,DOC-0019,SOP & Sirkular Internal,0.87,0.8595,True,calculated
+CIT-00348,ANS-0243,DOC-0017,SOP & Sirkular Internal,0.92,0.8770000000000001,True,calculated
+CIT-00349,ANS-0244,DOC-0018,Kontrak & Perjanjian Vendor,0.989,0.8211499999999999,True,calculated
+CIT-00350,ANS-0244,DOC-0026,Referensi Regulasi Eksternal,0.989,0.72115,True,calculated
+CIT-00351,ANS-0245,DOC-0017,SOP & Sirkular Internal,0.981,0.8983500000000001,True,calculated
+CIT-00352,ANS-0245,DOC-0010,Referensi Regulasi Eksternal,0.981,0.71835,True,calculated
+CIT-00353,ANS-0246,DOC-0034,SOP & Sirkular Internal,0.951,0.88785,True,calculated
+CIT-00354,ANS-0247,DOC-0024,SOP & Sirkular Internal,0.898,0.8693000000000001,True,calculated
+CIT-00355,ANS-0247,DOC-0037,SOP & Sirkular Internal,0.898,0.8693000000000001,True,calculated
+CIT-00356,ANS-0248,DOC-0022,Referensi Regulasi Eksternal,0.982,0.7187,False,calculated
+CIT-00357,ANS-0249,DOC-0015,Kontrak & Perjanjian Vendor,0.935,0.80225,True,calculated
+CIT-00358,ANS-0250,DOC-0023,SOP & Sirkular Internal,0.915,0.8752500000000001,True,calculated
+CIT-00359,ANS-0251,DOC-0034,SOP & Sirkular Internal,0.8,0.8350000000000001,True,calculated
+CIT-00360,ANS-0251,DOC-0026,Referensi Regulasi Eksternal,0.8,0.655,True,calculated
+CIT-00361,ANS-0252,DOC-0006,SOP & Sirkular Internal,0.866,0.8581000000000001,True,calculated
+CIT-00362,ANS-0252,DOC-0003,SOP & Sirkular Internal,0.866,0.8581000000000001,True,calculated
+CIT-00363,ANS-0253,DOC-0005,SOP & Sirkular Internal,0.904,0.8714000000000001,True,calculated
+CIT-00364,ANS-0254,DOC-0017,SOP & Sirkular Internal,0.967,0.8934500000000001,True,calculated
+CIT-00365,ANS-0255,DOC-0009,SOP & Sirkular Internal,0.756,0.8196000000000001,True,calculated
+CIT-00366,ANS-0255,DOC-0023,SOP & Sirkular Internal,0.756,0.8196000000000001,True,calculated
+CIT-00367,ANS-0256,DOC-0040,Referensi Regulasi Eksternal,0.905,0.69175,True,calculated
+CIT-00368,ANS-0257,DOC-0003,SOP & Sirkular Internal,0.947,0.8864500000000001,True,calculated
+CIT-00369,ANS-0257,DOC-0030,SOP & Sirkular Internal,0.947,0.8864500000000001,True,calculated
+CIT-00370,ANS-0258,DOC-0033,Kontrak & Perjanjian Vendor,0.985,0.81975,True,calculated
+CIT-00371,ANS-0258,DOC-0023,SOP & Sirkular Internal,0.985,0.89975,False,calculated
+CIT-00372,ANS-0259,DOC-0034,SOP & Sirkular Internal,0.756,0.8196000000000001,True,calculated
+CIT-00373,ANS-0259,DOC-0039,SOP & Sirkular Internal,0.756,0.8196000000000001,True,calculated
+CIT-00374,ANS-0260,DOC-0034,SOP & Sirkular Internal,0.958,0.8903000000000001,True,calculated
+CIT-00375,ANS-0260,DOC-0029,Kontrak & Perjanjian Vendor,0.958,0.8103,True,calculated
+CIT-00376,ANS-0261,DOC-0004,SOP & Sirkular Internal,0.914,0.8749,True,calculated
+CIT-00377,ANS-0262,DOC-0030,SOP & Sirkular Internal,0.628,0.7748,True,calculated
+CIT-00378,ANS-0262,DOC-0010,Referensi Regulasi Eksternal,0.628,0.5948,False,calculated
+CIT-00379,ANS-0264,DOC-0002,Referensi Regulasi Eksternal,0.937,0.70295,False,calculated
+CIT-00380,ANS-0265,DOC-0018,Kontrak & Perjanjian Vendor,0.985,0.81975,False,calculated
+CIT-00381,ANS-0266,DOC-0022,Referensi Regulasi Eksternal,0.891,0.68685,True,calculated
+CIT-00382,ANS-0267,DOC-0040,Referensi Regulasi Eksternal,0.678,0.6123000000000001,False,calculated
+CIT-00383,ANS-0267,DOC-0032,SOP & Sirkular Internal,0.678,0.7923000000000001,True,calculated
+CIT-00384,ANS-0268,DOC-0010,Referensi Regulasi Eksternal,0.878,0.6823,True,calculated
+CIT-00385,ANS-0268,DOC-0018,Kontrak & Perjanjian Vendor,0.878,0.7823,True,calculated
+CIT-00386,ANS-0269,DOC-0010,Referensi Regulasi Eksternal,0.887,0.68545,True,calculated
+CIT-00387,ANS-0270,DOC-0009,SOP & Sirkular Internal,0.98,0.898,True,calculated
+CIT-00388,ANS-0271,DOC-0036,SOP & Sirkular Internal,0.588,0.7608,True,calculated
+CIT-00389,ANS-0272,DOC-0002,Referensi Regulasi Eksternal,0.87,0.6795,True,calculated
+CIT-00390,ANS-0273,DOC-0028,SOP & Sirkular Internal,0.968,0.8938,True,calculated
+CIT-00391,ANS-0274,DOC-0006,SOP & Sirkular Internal,0.959,0.89065,True,calculated
+CIT-00392,ANS-0275,DOC-0006,SOP & Sirkular Internal,0.766,0.8231,True,calculated
+CIT-00393,ANS-0275,DOC-0028,SOP & Sirkular Internal,0.766,0.8231,True,calculated
+CIT-00394,ANS-0276,DOC-0035,Referensi Regulasi Eksternal,0.905,0.69175,False,calculated
+CIT-00395,ANS-0276,DOC-0034,SOP & Sirkular Internal,0.905,0.87175,False,calculated
+CIT-00396,ANS-0277,DOC-0038,SOP & Sirkular Internal,0.908,0.8728,True,calculated
+CIT-00397,ANS-0278,DOC-0015,Kontrak & Perjanjian Vendor,0.921,0.79735,True,calculated
+CIT-00398,ANS-0279,DOC-0036,SOP & Sirkular Internal,0.912,0.8742000000000001,True,calculated
+CIT-00399,ANS-0280,DOC-0033,Kontrak & Perjanjian Vendor,0.983,0.81905,True,calculated
+CIT-00400,ANS-0281,DOC-0030,SOP & Sirkular Internal,0.896,0.8686,False,calculated
+CIT-00401,ANS-0282,DOC-0024,SOP & Sirkular Internal,0.888,0.8658,True,calculated
+CIT-00402,ANS-0283,DOC-0028,SOP & Sirkular Internal,0.908,0.8728,True,calculated
+CIT-00403,ANS-0284,DOC-0002,Referensi Regulasi Eksternal,0.9,0.6900000000000001,True,calculated
+CIT-00404,ANS-0285,DOC-0029,Kontrak & Perjanjian Vendor,0.916,0.7956,True,calculated
+CIT-00405,ANS-0286,DOC-0032,SOP & Sirkular Internal,0.817,0.8409500000000001,True,calculated
+CIT-00406,ANS-0286,DOC-0022,Referensi Regulasi Eksternal,0.817,0.66095,True,calculated
+CIT-00407,ANS-0287,DOC-0011,Referensi Regulasi Eksternal,0.885,0.68475,False,calculated
+CIT-00408,ANS-0288,DOC-0001,SOP & Sirkular Internal,0.949,0.88715,True,calculated
+CIT-00409,ANS-0289,DOC-0027,Kontrak & Perjanjian Vendor,0.934,0.8019000000000001,False,calculated
+CIT-00410,ANS-0289,DOC-0018,Kontrak & Perjanjian Vendor,0.934,0.8019000000000001,False,calculated
+CIT-00411,ANS-0290,DOC-0016,Kontrak & Perjanjian Vendor,0.942,0.8047,True,calculated
+CIT-00412,ANS-0290,DOC-0030,SOP & Sirkular Internal,0.942,0.8847,True,calculated
+CIT-00413,ANS-0291,DOC-0036,SOP & Sirkular Internal,0.802,0.8357000000000001,False,calculated
+CIT-00414,ANS-0292,DOC-0009,SOP & Sirkular Internal,0.875,0.8612500000000001,True,calculated
+CIT-00415,ANS-0292,DOC-0008,Kontrak & Perjanjian Vendor,0.875,0.78125,True,calculated
+CIT-00416,ANS-0293,DOC-0037,SOP & Sirkular Internal,0.908,0.8728,True,calculated
+CIT-00417,ANS-0294,DOC-0031,SOP & Sirkular Internal,0.684,0.7944000000000001,True,calculated
+CIT-00418,ANS-0294,DOC-0020,SOP & Sirkular Internal,0.684,0.7944000000000001,False,calculated
+CIT-00419,ANS-0295,DOC-0004,SOP & Sirkular Internal,0.943,0.88505,True,calculated
+CIT-00420,ANS-0296,DOC-0018,Kontrak & Perjanjian Vendor,0.915,0.79525,True,calculated
+CIT-00421,ANS-0296,DOC-0008,Kontrak & Perjanjian Vendor,0.915,0.79525,False,calculated
+CIT-00422,ANS-0297,DOC-0010,Referensi Regulasi Eksternal,0.91,0.6935,True,calculated
+CIT-00423,ANS-0297,DOC-0025,Kontrak & Perjanjian Vendor,0.91,0.7935,True,calculated
+CIT-00424,ANS-0298,DOC-0015,Kontrak & Perjanjian Vendor,0.947,0.80645,True,calculated
+CIT-00425,ANS-0299,DOC-0035,Referensi Regulasi Eksternal,0.931,0.70085,True,calculated
+CIT-00426,ANS-0299,DOC-0011,Referensi Regulasi Eksternal,0.931,0.70085,True,calculated
+CIT-00427,ANS-0300,DOC-0019,SOP & Sirkular Internal,0.882,0.8637,True,calculated
+CIT-00428,ANS-0300,DOC-0028,SOP & Sirkular Internal,0.882,0.8637,True,calculated

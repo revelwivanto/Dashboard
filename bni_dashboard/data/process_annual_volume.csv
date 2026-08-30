@@ -1,0 +1,5 @@
+process_name,estimated_annual_occurrences,basis,data_type
+Legal document preparation,240,"Asumsi: setiap dokumen di legal_documents.csv rata-rata direvisi/dipersiapkan ulang ~6x/tahun (amandemen, adendum, dsb)",assumption
+Source / citation verification,3600,Diskalakan dari volume rag_answers.csv (300 jawaban sampel) x 12 asumsi run-rate bulanan produksi,assumption
+Procurement price comparison,4000,= jumlah baris di procurement_history.csv (4000) — setiap request idealnya melalui 1x price comparison,assumption
+Document review,320,Asumsi: setiap dokumen direview ~8x/tahun oleh berbagai pemangku kepentingan,assumption

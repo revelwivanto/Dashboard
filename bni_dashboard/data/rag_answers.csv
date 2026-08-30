@@ -1,0 +1,301 @@
+answer_id,question,business_unit,answer_date,confidence_score,source_type,grounded,has_citation,data_type
+ANS-0001,Apa syarat approval untuk pengadaan di atas Rp200 juta?,Compliance,2025-02-23,0.94,internal_kb,True,True,synthetic
+ANS-0002,Apa perbedaan RAB Direktorat Bidang dan RAB reguler?,Finance & Risk,2026-04-04,0.978,internal_kb,True,True,synthetic
+ANS-0003,Apa perbedaan RAB Direktorat Bidang dan RAB reguler?,Operations,2025-05-09,0.967,internal_kb,True,True,synthetic
+ANS-0004,Dokumen apa yang wajib dilampirkan pada RKS pengadaan?,IT & Digital,2026-04-21,0.987,internal_kb,True,True,synthetic
+ANS-0005,Apakah kontrak vendor laptop saat ini sudah termasuk PPN?,Operations,2025-06-04,0.954,internal_kb,True,True,synthetic
+ANS-0006,Apa syarat approval untuk pengadaan di atas Rp200 juta?,IT & Digital,2025-12-06,0.945,internal_kb,True,True,synthetic
+ANS-0007,Siapa yang berwenang menyetujui perubahan spesifikasi pengadaan?,Operations,2026-01-28,0.694,internal_kb,True,True,synthetic
+ANS-0008,Bagaimana prosedur jika ditemukan indikasi harga di luar benchmark pasar?,Finance & Risk,2024-11-22,0.932,user_provided,True,True,synthetic
+ANS-0009,Dokumen apa yang wajib dilampirkan pada RKS pengadaan?,Compliance,2025-06-01,0.946,internal_kb,True,True,synthetic
+ANS-0010,Apa perbedaan RAB Direktorat Bidang dan RAB reguler?,IT & Digital,2026-05-08,0.732,external_web,True,True,synthetic
+ANS-0011,Siapa yang berwenang menyetujui perubahan spesifikasi pengadaan?,Retail Banking,2025-08-28,0.904,internal_kb,True,True,synthetic
+ANS-0012,Apa syarat approval untuk pengadaan di atas Rp200 juta?,Compliance,2025-05-23,0.885,internal_kb,True,True,synthetic
+ANS-0013,Apa perbedaan RAB Direktorat Bidang dan RAB reguler?,IT & Digital,2025-10-07,0.864,internal_kb,True,True,synthetic
+ANS-0014,Siapa yang berwenang menyetujui perubahan spesifikasi pengadaan?,IT & Digital,2025-10-25,0.755,user_provided,True,True,synthetic
+ANS-0015,Apa perbedaan RAB Direktorat Bidang dan RAB reguler?,Finance & Risk,2024-10-11,0.356,internal_kb,True,True,synthetic
+ANS-0016,Dokumen apa yang wajib dilampirkan pada RKS pengadaan?,Compliance,2024-11-08,0.549,user_provided,True,True,synthetic
+ANS-0017,Siapa yang berwenang menyetujui perubahan spesifikasi pengadaan?,Operations,2025-06-28,0.87,internal_kb,True,True,synthetic
+ANS-0018,Dokumen apa yang wajib dilampirkan pada RKS pengadaan?,Retail Banking,2025-08-01,0.588,internal_kb,True,True,synthetic
+ANS-0019,Berapa lama masa berlaku kontrak vendor laptop 2024?,Corporate Affairs,2025-02-02,0.89,internal_kb,True,True,synthetic
+ANS-0020,Apa syarat approval untuk pengadaan di atas Rp200 juta?,Finance & Risk,2025-07-31,0.978,internal_kb,True,True,synthetic
+ANS-0021,Dokumen apa yang wajib dilampirkan pada RKS pengadaan?,Retail Banking,2025-10-11,0.866,internal_kb,True,True,synthetic
+ANS-0022,Berapa ambang batas nilai yang memerlukan tanda tangan Direktur?,Finance & Risk,2025-06-30,0.917,internal_kb,True,True,synthetic
+ANS-0023,Dokumen apa yang wajib dilampirkan pada RKS pengadaan?,Compliance,2024-10-16,0.948,internal_kb,True,True,synthetic
+ANS-0024,Siapa yang berwenang menyetujui perubahan spesifikasi pengadaan?,Compliance,2026-06-01,0.964,external_web,True,True,synthetic
+ANS-0025,Berapa lama masa berlaku kontrak vendor laptop 2024?,IT & Digital,2025-04-20,0.942,internal_kb,True,True,synthetic
+ANS-0026,Apakah ada ketentuan margin vendor yang dibakukan?,Compliance,2025-10-27,0.88,internal_kb,True,True,synthetic
+ANS-0027,Apa syarat approval untuk pengadaan di atas Rp200 juta?,Retail Banking,2026-01-14,0.69,internal_kb,True,True,synthetic
+ANS-0028,Apakah ada ketentuan margin vendor yang dibakukan?,Retail Banking,2026-04-05,0.966,user_provided,True,True,synthetic
+ANS-0029,Bagaimana prosedur jika ditemukan indikasi harga di luar benchmark pasar?,IT & Digital,2026-02-15,0.938,internal_kb,True,True,synthetic
+ANS-0030,Apa syarat approval untuk pengadaan di atas Rp200 juta?,Finance & Risk,2026-01-19,0.687,internal_kb,True,True,synthetic
+ANS-0031,Dokumen apa yang wajib dilampirkan pada RKS pengadaan?,Corporate Affairs,2025-04-29,0.705,internal_kb,True,True,synthetic
+ANS-0032,Apa syarat approval untuk pengadaan di atas Rp200 juta?,Compliance,2026-01-18,0.979,internal_kb,True,True,synthetic
+ANS-0033,Apa dasar hukum penyusunan HPS untuk pengadaan laptop?,Operations,2026-01-22,0.951,internal_kb,True,True,synthetic
+ANS-0034,Apa dasar hukum penyusunan HPS untuk pengadaan laptop?,Retail Banking,2026-07-08,0.869,internal_kb,True,True,synthetic
+ANS-0035,Berapa lama masa berlaku kontrak vendor laptop 2024?,Compliance,2026-02-03,0.91,user_provided,True,True,synthetic
+ANS-0036,Siapa yang berwenang menyetujui perubahan spesifikasi pengadaan?,Compliance,2025-06-01,0.976,internal_kb,True,True,synthetic
+ANS-0037,Berapa ambang batas nilai yang memerlukan tanda tangan Direktur?,Compliance,2025-10-02,0.922,internal_kb,True,True,synthetic
+ANS-0038,Siapa yang berwenang menyetujui perubahan spesifikasi pengadaan?,Corporate Affairs,2025-07-12,0.689,internal_kb,True,True,synthetic
+ANS-0039,Apakah kontrak vendor laptop saat ini sudah termasuk PPN?,Corporate Affairs,2025-11-05,0.93,internal_kb,True,True,synthetic
+ANS-0040,Apakah ada ketentuan margin vendor yang dibakukan?,Compliance,2025-03-31,0.69,internal_kb,True,True,synthetic
+ANS-0041,Dokumen apa yang wajib dilampirkan pada RKS pengadaan?,Operations,2026-01-21,0.649,user_provided,True,True,synthetic
+ANS-0042,Bagaimana prosedur jika ditemukan indikasi harga di luar benchmark pasar?,Finance & Risk,2026-08-10,0.307,user_provided,True,True,synthetic
+ANS-0043,Apa perbedaan RAB Direktorat Bidang dan RAB reguler?,Compliance,2024-12-02,0.861,internal_kb,True,True,synthetic
+ANS-0044,Berapa ambang batas nilai yang memerlukan tanda tangan Direktur?,Compliance,2026-05-18,0.73,user_provided,True,True,synthetic
+ANS-0045,Siapa yang berwenang menyetujui perubahan spesifikasi pengadaan?,Operations,2026-06-12,0.786,user_provided,True,True,synthetic
+ANS-0046,Apakah ada ketentuan margin vendor yang dibakukan?,Retail Banking,2024-11-25,0.976,internal_kb,True,True,synthetic
+ANS-0047,Apa syarat approval untuk pengadaan di atas Rp200 juta?,Corporate Affairs,2024-09-04,0.87,external_web,True,True,synthetic
+ANS-0048,Dokumen apa yang wajib dilampirkan pada RKS pengadaan?,Operations,2025-09-12,0.986,internal_kb,True,True,synthetic
+ANS-0049,Apa syarat approval untuk pengadaan di atas Rp200 juta?,Compliance,2025-08-14,0.582,internal_kb,True,True,synthetic
+ANS-0050,Apa perbedaan RAB Direktorat Bidang dan RAB reguler?,Corporate Affairs,2026-08-10,0.938,internal_kb,True,True,synthetic
+ANS-0051,Apakah ada ketentuan margin vendor yang dibakukan?,Corporate Affairs,2024-12-29,0.887,internal_kb,True,True,synthetic
+ANS-0052,Apa dasar hukum penyusunan HPS untuk pengadaan laptop?,Compliance,2024-11-21,0.956,user_provided,True,True,synthetic
+ANS-0053,Apa perbedaan RAB Direktorat Bidang dan RAB reguler?,Compliance,2026-07-25,0.89,external_web,True,True,synthetic
+ANS-0054,Bagaimana prosedur jika ditemukan indikasi harga di luar benchmark pasar?,Compliance,2025-04-27,0.926,internal_kb,True,True,synthetic
+ANS-0055,Apa dasar hukum penyusunan HPS untuk pengadaan laptop?,Finance & Risk,2026-05-10,0.876,internal_kb,True,True,synthetic
+ANS-0056,Apakah ada ketentuan margin vendor yang dibakukan?,Operations,2024-10-21,0.913,internal_kb,True,True,synthetic
+ANS-0057,Apa dasar hukum penyusunan HPS untuk pengadaan laptop?,Corporate Affairs,2026-07-15,0.965,user_provided,True,True,synthetic
+ANS-0058,Apa perbedaan RAB Direktorat Bidang dan RAB reguler?,Finance & Risk,2025-06-14,0.946,internal_kb,True,True,synthetic
+ANS-0059,Dokumen apa yang wajib dilampirkan pada RKS pengadaan?,IT & Digital,2024-11-23,0.89,external_web,True,True,synthetic
+ANS-0060,Apakah ada ketentuan margin vendor yang dibakukan?,Finance & Risk,2026-07-08,0.81,user_provided,True,True,synthetic
+ANS-0061,Apa perbedaan RAB Direktorat Bidang dan RAB reguler?,Compliance,2025-04-25,0.895,internal_kb,True,True,synthetic
+ANS-0062,Bagaimana prosedur jika ditemukan indikasi harga di luar benchmark pasar?,Retail Banking,2024-09-26,0.969,user_provided,True,True,synthetic
+ANS-0063,Apa dasar hukum penyusunan HPS untuk pengadaan laptop?,Compliance,2025-05-03,0.891,internal_kb,True,True,synthetic
+ANS-0064,Apakah kontrak vendor laptop saat ini sudah termasuk PPN?,Operations,2026-07-19,0.868,internal_kb,True,True,synthetic
+ANS-0065,Apa perbedaan RAB Direktorat Bidang dan RAB reguler?,Corporate Affairs,2025-10-26,0.879,external_web,True,True,synthetic
+ANS-0066,Dokumen apa yang wajib dilampirkan pada RKS pengadaan?,IT & Digital,2025-07-16,0.965,user_provided,True,True,synthetic
+ANS-0067,Apa perbedaan RAB Direktorat Bidang dan RAB reguler?,Finance & Risk,2026-07-20,0.912,internal_kb,True,True,synthetic
+ANS-0068,Apakah ada ketentuan margin vendor yang dibakukan?,IT & Digital,2026-05-01,0.99,internal_kb,True,True,synthetic
+ANS-0069,Apakah ada ketentuan margin vendor yang dibakukan?,Compliance,2025-07-02,0.947,internal_kb,True,True,synthetic
+ANS-0070,Apa dasar hukum penyusunan HPS untuk pengadaan laptop?,Retail Banking,2026-04-02,0.878,internal_kb,True,True,synthetic
+ANS-0071,Berapa ambang batas nilai yang memerlukan tanda tangan Direktur?,Retail Banking,2026-05-07,0.96,internal_kb,True,True,synthetic
+ANS-0072,Apakah kontrak vendor laptop saat ini sudah termasuk PPN?,Corporate Affairs,2025-01-30,0.959,user_provided,True,True,synthetic
+ANS-0073,Dokumen apa yang wajib dilampirkan pada RKS pengadaan?,Operations,2026-02-18,0.426,user_provided,True,True,synthetic
+ANS-0074,Bagaimana prosedur jika ditemukan indikasi harga di luar benchmark pasar?,Corporate Affairs,2025-05-12,0.275,internal_kb,True,True,synthetic
+ANS-0075,Berapa lama masa berlaku kontrak vendor laptop 2024?,IT & Digital,2026-01-30,0.833,internal_kb,True,True,synthetic
+ANS-0076,Apa dasar hukum penyusunan HPS untuk pengadaan laptop?,Corporate Affairs,2024-12-27,0.863,internal_kb,True,True,synthetic
+ANS-0077,Siapa yang berwenang menyetujui perubahan spesifikasi pengadaan?,Compliance,2026-08-02,0.861,internal_kb,True,True,synthetic
+ANS-0078,Apakah kontrak vendor laptop saat ini sudah termasuk PPN?,Retail Banking,2025-05-28,0.894,internal_kb,True,True,synthetic
+ANS-0079,Apakah kontrak vendor laptop saat ini sudah termasuk PPN?,Finance & Risk,2024-12-27,0.894,internal_kb,True,True,synthetic
+ANS-0080,Apa syarat approval untuk pengadaan di atas Rp200 juta?,IT & Digital,2025-06-08,0.895,internal_kb,True,True,synthetic
+ANS-0081,Siapa yang berwenang menyetujui perubahan spesifikasi pengadaan?,Retail Banking,2026-01-12,0.975,user_provided,True,True,synthetic
+ANS-0082,Apakah ada ketentuan margin vendor yang dibakukan?,Corporate Affairs,2026-08-20,0.861,external_web,True,True,synthetic
+ANS-0083,Berapa lama masa berlaku kontrak vendor laptop 2024?,Corporate Affairs,2025-09-06,0.883,internal_kb,True,True,synthetic
+ANS-0084,Apakah ada ketentuan margin vendor yang dibakukan?,Operations,2026-06-18,0.938,user_provided,True,True,synthetic
+ANS-0085,Apa perbedaan RAB Direktorat Bidang dan RAB reguler?,IT & Digital,2025-01-21,0.885,internal_kb,True,True,synthetic
+ANS-0086,Siapa yang berwenang menyetujui perubahan spesifikasi pengadaan?,Operations,2025-02-18,0.946,internal_kb,True,True,synthetic
+ANS-0087,Apakah kontrak vendor laptop saat ini sudah termasuk PPN?,Retail Banking,2025-01-20,0.318,internal_kb,True,True,synthetic
+ANS-0088,Dokumen apa yang wajib dilampirkan pada RKS pengadaan?,Corporate Affairs,2026-04-16,0.962,internal_kb,True,True,synthetic
+ANS-0089,Berapa lama masa berlaku kontrak vendor laptop 2024?,Retail Banking,2026-04-14,0.898,user_provided,True,True,synthetic
+ANS-0090,Apakah ada ketentuan margin vendor yang dibakukan?,Retail Banking,2026-08-02,0.543,internal_kb,True,True,synthetic
+ANS-0091,Apa perbedaan RAB Direktorat Bidang dan RAB reguler?,Retail Banking,2025-09-23,0.971,internal_kb,True,True,synthetic
+ANS-0092,Apakah kontrak vendor laptop saat ini sudah termasuk PPN?,Operations,2026-02-26,0.978,user_provided,True,True,synthetic
+ANS-0093,Apakah ada ketentuan margin vendor yang dibakukan?,Operations,2024-10-10,0.863,internal_kb,True,True,synthetic
+ANS-0094,Apa dasar hukum penyusunan HPS untuk pengadaan laptop?,Compliance,2025-11-01,0.979,internal_kb,True,True,synthetic
+ANS-0095,Bagaimana prosedur jika ditemukan indikasi harga di luar benchmark pasar?,Operations,2025-06-10,0.952,user_provided,True,True,synthetic
+ANS-0096,Apa syarat approval untuk pengadaan di atas Rp200 juta?,Operations,2026-02-04,0.956,user_provided,True,True,synthetic
+ANS-0097,Berapa ambang batas nilai yang memerlukan tanda tangan Direktur?,Compliance,2024-11-24,0.828,user_provided,True,True,synthetic
+ANS-0098,Berapa ambang batas nilai yang memerlukan tanda tangan Direktur?,Retail Banking,2026-03-28,0.908,internal_kb,True,True,synthetic
+ANS-0099,Berapa ambang batas nilai yang memerlukan tanda tangan Direktur?,Corporate Affairs,2026-06-16,0.468,internal_kb,True,True,synthetic
+ANS-0100,Bagaimana prosedur jika ditemukan indikasi harga di luar benchmark pasar?,IT & Digital,2025-05-04,0.946,user_provided,True,True,synthetic
+ANS-0101,Dokumen apa yang wajib dilampirkan pada RKS pengadaan?,Finance & Risk,2025-06-12,0.962,internal_kb,True,True,synthetic
+ANS-0102,Apakah kontrak vendor laptop saat ini sudah termasuk PPN?,Finance & Risk,2025-10-26,0.912,internal_kb,True,True,synthetic
+ANS-0103,Berapa ambang batas nilai yang memerlukan tanda tangan Direktur?,Finance & Risk,2024-10-05,0.379,internal_kb,True,True,synthetic
+ANS-0104,Dokumen apa yang wajib dilampirkan pada RKS pengadaan?,IT & Digital,2024-12-29,0.981,user_provided,True,True,synthetic
+ANS-0105,Bagaimana prosedur jika ditemukan indikasi harga di luar benchmark pasar?,Operations,2026-05-31,0.915,internal_kb,True,True,synthetic
+ANS-0106,Berapa ambang batas nilai yang memerlukan tanda tangan Direktur?,Corporate Affairs,2026-07-30,0.911,external_web,True,True,synthetic
+ANS-0107,Berapa lama masa berlaku kontrak vendor laptop 2024?,Corporate Affairs,2026-05-26,0.737,internal_kb,True,True,synthetic
+ANS-0108,Siapa yang berwenang menyetujui perubahan spesifikasi pengadaan?,IT & Digital,2025-10-11,0.93,internal_kb,True,True,synthetic
+ANS-0109,Apa dasar hukum penyusunan HPS untuk pengadaan laptop?,Retail Banking,2025-10-20,0.88,external_web,True,True,synthetic
+ANS-0110,Apa syarat approval untuk pengadaan di atas Rp200 juta?,Finance & Risk,2025-04-28,0.952,internal_kb,True,True,synthetic
+ANS-0111,Apa perbedaan RAB Direktorat Bidang dan RAB reguler?,IT & Digital,2025-01-11,0.824,user_provided,True,True,synthetic
+ANS-0112,Bagaimana prosedur jika ditemukan indikasi harga di luar benchmark pasar?,Compliance,2025-08-24,0.962,external_web,True,True,synthetic
+ANS-0113,Apa dasar hukum penyusunan HPS untuk pengadaan laptop?,Corporate Affairs,2024-12-15,0.967,internal_kb,True,True,synthetic
+ANS-0114,Dokumen apa yang wajib dilampirkan pada RKS pengadaan?,IT & Digital,2025-11-18,0.366,internal_kb,True,True,synthetic
+ANS-0115,Apakah kontrak vendor laptop saat ini sudah termasuk PPN?,IT & Digital,2025-10-01,0.875,user_provided,True,True,synthetic
+ANS-0116,Apa dasar hukum penyusunan HPS untuk pengadaan laptop?,Operations,2024-12-05,0.889,internal_kb,True,True,synthetic
+ANS-0117,Apa dasar hukum penyusunan HPS untuk pengadaan laptop?,Corporate Affairs,2025-04-18,0.825,internal_kb,True,False,synthetic
+ANS-0118,Berapa ambang batas nilai yang memerlukan tanda tangan Direktur?,Finance & Risk,2026-02-20,0.734,internal_kb,True,True,synthetic
+ANS-0119,Dokumen apa yang wajib dilampirkan pada RKS pengadaan?,Compliance,2025-10-30,0.985,internal_kb,True,True,synthetic
+ANS-0120,Berapa ambang batas nilai yang memerlukan tanda tangan Direktur?,Corporate Affairs,2025-11-23,0.784,internal_kb,True,True,synthetic
+ANS-0121,Apa perbedaan RAB Direktorat Bidang dan RAB reguler?,Finance & Risk,2024-11-09,0.974,internal_kb,True,True,synthetic
+ANS-0122,Berapa ambang batas nilai yang memerlukan tanda tangan Direktur?,Retail Banking,2025-08-19,0.897,internal_kb,True,False,synthetic
+ANS-0123,Berapa ambang batas nilai yang memerlukan tanda tangan Direktur?,Compliance,2026-04-23,0.938,external_web,True,True,synthetic
+ANS-0124,Berapa lama masa berlaku kontrak vendor laptop 2024?,IT & Digital,2026-08-19,0.877,internal_kb,True,True,synthetic
+ANS-0125,Apa syarat approval untuk pengadaan di atas Rp200 juta?,Retail Banking,2026-04-13,0.979,user_provided,True,True,synthetic
+ANS-0126,Siapa yang berwenang menyetujui perubahan spesifikasi pengadaan?,Corporate Affairs,2025-05-24,0.866,internal_kb,True,True,synthetic
+ANS-0127,Apakah kontrak vendor laptop saat ini sudah termasuk PPN?,Finance & Risk,2025-06-29,0.891,internal_kb,True,True,synthetic
+ANS-0128,Apa perbedaan RAB Direktorat Bidang dan RAB reguler?,Retail Banking,2026-05-06,0.41,user_provided,True,True,synthetic
+ANS-0129,Berapa ambang batas nilai yang memerlukan tanda tangan Direktur?,Corporate Affairs,2026-06-15,0.934,internal_kb,True,True,synthetic
+ANS-0130,Bagaimana prosedur jika ditemukan indikasi harga di luar benchmark pasar?,Retail Banking,2025-03-18,0.888,internal_kb,True,True,synthetic
+ANS-0131,Dokumen apa yang wajib dilampirkan pada RKS pengadaan?,IT & Digital,2025-06-06,0.688,internal_kb,True,True,synthetic
+ANS-0132,Apakah kontrak vendor laptop saat ini sudah termasuk PPN?,Compliance,2025-09-16,0.896,internal_kb,True,True,synthetic
+ANS-0133,Dokumen apa yang wajib dilampirkan pada RKS pengadaan?,Operations,2026-03-24,0.96,internal_kb,True,True,synthetic
+ANS-0134,Berapa ambang batas nilai yang memerlukan tanda tangan Direktur?,Compliance,2025-07-18,0.881,internal_kb,True,True,synthetic
+ANS-0135,Bagaimana prosedur jika ditemukan indikasi harga di luar benchmark pasar?,Compliance,2025-04-28,0.977,user_provided,True,True,synthetic
+ANS-0136,Dokumen apa yang wajib dilampirkan pada RKS pengadaan?,Retail Banking,2025-10-17,0.863,internal_kb,True,True,synthetic
+ANS-0137,Berapa ambang batas nilai yang memerlukan tanda tangan Direktur?,Retail Banking,2026-05-04,0.956,external_web,True,True,synthetic
+ANS-0138,Apakah kontrak vendor laptop saat ini sudah termasuk PPN?,Operations,2025-12-28,0.938,internal_kb,True,True,synthetic
+ANS-0139,Apa perbedaan RAB Direktorat Bidang dan RAB reguler?,Compliance,2025-05-20,0.973,internal_kb,True,True,synthetic
+ANS-0140,Bagaimana prosedur jika ditemukan indikasi harga di luar benchmark pasar?,Finance & Risk,2025-03-30,0.906,internal_kb,True,True,synthetic
+ANS-0141,Berapa ambang batas nilai yang memerlukan tanda tangan Direktur?,Compliance,2025-01-03,0.793,internal_kb,True,True,synthetic
+ANS-0142,Apa dasar hukum penyusunan HPS untuk pengadaan laptop?,IT & Digital,2026-02-09,0.911,internal_kb,True,True,synthetic
+ANS-0143,Bagaimana prosedur jika ditemukan indikasi harga di luar benchmark pasar?,IT & Digital,2026-07-14,0.632,internal_kb,True,True,synthetic
+ANS-0144,Bagaimana prosedur jika ditemukan indikasi harga di luar benchmark pasar?,Finance & Risk,2025-08-06,0.987,internal_kb,True,True,synthetic
+ANS-0145,Dokumen apa yang wajib dilampirkan pada RKS pengadaan?,Corporate Affairs,2025-12-28,0.861,user_provided,True,True,synthetic
+ANS-0146,Apa syarat approval untuk pengadaan di atas Rp200 juta?,Finance & Risk,2025-09-29,0.949,external_web,True,True,synthetic
+ANS-0147,Apakah kontrak vendor laptop saat ini sudah termasuk PPN?,Operations,2024-11-26,0.829,internal_kb,True,True,synthetic
+ANS-0148,Apa perbedaan RAB Direktorat Bidang dan RAB reguler?,Corporate Affairs,2024-12-05,0.975,internal_kb,True,False,synthetic
+ANS-0149,Bagaimana prosedur jika ditemukan indikasi harga di luar benchmark pasar?,Finance & Risk,2025-05-17,0.983,internal_kb,True,True,synthetic
+ANS-0150,Siapa yang berwenang menyetujui perubahan spesifikasi pengadaan?,Operations,2026-04-11,0.552,internal_kb,True,True,synthetic
+ANS-0151,Apakah kontrak vendor laptop saat ini sudah termasuk PPN?,IT & Digital,2025-10-05,0.64,user_provided,True,True,synthetic
+ANS-0152,Apakah kontrak vendor laptop saat ini sudah termasuk PPN?,IT & Digital,2024-09-28,0.99,internal_kb,True,True,synthetic
+ANS-0153,Apakah kontrak vendor laptop saat ini sudah termasuk PPN?,Compliance,2026-06-02,0.803,internal_kb,True,True,synthetic
+ANS-0154,Apa syarat approval untuk pengadaan di atas Rp200 juta?,Compliance,2024-11-13,0.913,internal_kb,True,True,synthetic
+ANS-0155,Bagaimana prosedur jika ditemukan indikasi harga di luar benchmark pasar?,Retail Banking,2026-03-15,0.977,external_web,True,True,synthetic
+ANS-0156,Apa syarat approval untuk pengadaan di atas Rp200 juta?,Retail Banking,2024-11-11,0.977,user_provided,True,True,synthetic
+ANS-0157,Apa perbedaan RAB Direktorat Bidang dan RAB reguler?,Corporate Affairs,2026-01-07,0.965,internal_kb,True,True,synthetic
+ANS-0158,Berapa lama masa berlaku kontrak vendor laptop 2024?,Operations,2026-01-01,0.68,user_provided,True,True,synthetic
+ANS-0159,Berapa ambang batas nilai yang memerlukan tanda tangan Direktur?,Compliance,2024-10-06,0.983,external_web,True,True,synthetic
+ANS-0160,Apa perbedaan RAB Direktorat Bidang dan RAB reguler?,Corporate Affairs,2025-05-18,0.951,user_provided,True,True,synthetic
+ANS-0161,Berapa ambang batas nilai yang memerlukan tanda tangan Direktur?,IT & Digital,2025-05-27,0.983,internal_kb,True,True,synthetic
+ANS-0162,Siapa yang berwenang menyetujui perubahan spesifikasi pengadaan?,Retail Banking,2024-10-31,0.682,user_provided,True,True,synthetic
+ANS-0163,Apa dasar hukum penyusunan HPS untuk pengadaan laptop?,Retail Banking,2026-04-14,0.901,user_provided,True,True,synthetic
+ANS-0164,Apa dasar hukum penyusunan HPS untuk pengadaan laptop?,Retail Banking,2025-01-24,0.865,internal_kb,True,True,synthetic
+ANS-0165,Siapa yang berwenang menyetujui perubahan spesifikasi pengadaan?,Finance & Risk,2026-08-15,0.932,internal_kb,True,True,synthetic
+ANS-0166,Siapa yang berwenang menyetujui perubahan spesifikasi pengadaan?,Retail Banking,2025-08-06,0.636,internal_kb,True,True,synthetic
+ANS-0167,Apakah kontrak vendor laptop saat ini sudah termasuk PPN?,Retail Banking,2026-07-06,0.989,internal_kb,True,True,synthetic
+ANS-0168,Dokumen apa yang wajib dilampirkan pada RKS pengadaan?,Compliance,2025-01-27,0.929,internal_kb,True,False,synthetic
+ANS-0169,Bagaimana prosedur jika ditemukan indikasi harga di luar benchmark pasar?,Corporate Affairs,2026-05-06,0.461,internal_kb,True,True,synthetic
+ANS-0170,Apa perbedaan RAB Direktorat Bidang dan RAB reguler?,IT & Digital,2025-06-20,0.724,internal_kb,True,True,synthetic
+ANS-0171,Apakah kontrak vendor laptop saat ini sudah termasuk PPN?,IT & Digital,2025-02-26,0.913,internal_kb,True,True,synthetic
+ANS-0172,Apa dasar hukum penyusunan HPS untuk pengadaan laptop?,Corporate Affairs,2026-07-23,0.968,internal_kb,True,True,synthetic
+ANS-0173,Berapa ambang batas nilai yang memerlukan tanda tangan Direktur?,Retail Banking,2025-09-02,0.943,internal_kb,True,True,synthetic
+ANS-0174,Apa syarat approval untuk pengadaan di atas Rp200 juta?,IT & Digital,2025-05-25,0.908,internal_kb,True,True,synthetic
+ANS-0175,Siapa yang berwenang menyetujui perubahan spesifikasi pengadaan?,Operations,2025-09-24,0.896,internal_kb,True,True,synthetic
+ANS-0176,Dokumen apa yang wajib dilampirkan pada RKS pengadaan?,Compliance,2025-03-04,0.709,internal_kb,True,True,synthetic
+ANS-0177,Apa syarat approval untuk pengadaan di atas Rp200 juta?,IT & Digital,2025-03-11,0.698,internal_kb,True,True,synthetic
+ANS-0178,Berapa ambang batas nilai yang memerlukan tanda tangan Direktur?,IT & Digital,2025-11-21,0.945,internal_kb,True,True,synthetic
+ANS-0179,Apa dasar hukum penyusunan HPS untuk pengadaan laptop?,Finance & Risk,2024-11-06,0.956,internal_kb,True,True,synthetic
+ANS-0180,Apa perbedaan RAB Direktorat Bidang dan RAB reguler?,Compliance,2025-02-07,0.92,user_provided,True,True,synthetic
+ANS-0181,Siapa yang berwenang menyetujui perubahan spesifikasi pengadaan?,Corporate Affairs,2026-04-08,0.944,internal_kb,True,True,synthetic
+ANS-0182,Bagaimana prosedur jika ditemukan indikasi harga di luar benchmark pasar?,IT & Digital,2024-10-03,0.977,user_provided,True,True,synthetic
+ANS-0183,Bagaimana prosedur jika ditemukan indikasi harga di luar benchmark pasar?,Compliance,2025-05-12,0.905,internal_kb,True,True,synthetic
+ANS-0184,Apa dasar hukum penyusunan HPS untuk pengadaan laptop?,Operations,2026-04-26,0.897,internal_kb,True,True,synthetic
+ANS-0185,Siapa yang berwenang menyetujui perubahan spesifikasi pengadaan?,Finance & Risk,2024-11-06,0.47,internal_kb,True,True,synthetic
+ANS-0186,Berapa lama masa berlaku kontrak vendor laptop 2024?,Finance & Risk,2025-07-05,0.467,internal_kb,True,True,synthetic
+ANS-0187,Apakah ada ketentuan margin vendor yang dibakukan?,IT & Digital,2025-08-30,0.959,internal_kb,True,True,synthetic
+ANS-0188,Bagaimana prosedur jika ditemukan indikasi harga di luar benchmark pasar?,Compliance,2026-01-04,0.985,internal_kb,True,True,synthetic
+ANS-0189,Dokumen apa yang wajib dilampirkan pada RKS pengadaan?,Retail Banking,2025-06-24,0.925,internal_kb,True,True,synthetic
+ANS-0190,Apa syarat approval untuk pengadaan di atas Rp200 juta?,IT & Digital,2024-11-07,0.892,user_provided,True,True,synthetic
+ANS-0191,Apa dasar hukum penyusunan HPS untuk pengadaan laptop?,Operations,2025-02-08,0.689,internal_kb,True,True,synthetic
+ANS-0192,Bagaimana prosedur jika ditemukan indikasi harga di luar benchmark pasar?,Operations,2026-03-24,0.685,external_web,True,True,synthetic
+ANS-0193,Berapa ambang batas nilai yang memerlukan tanda tangan Direktur?,Corporate Affairs,2025-04-18,0.893,internal_kb,True,True,synthetic
+ANS-0194,Siapa yang berwenang menyetujui perubahan spesifikasi pengadaan?,Corporate Affairs,2025-11-21,0.986,internal_kb,True,True,synthetic
+ANS-0195,Dokumen apa yang wajib dilampirkan pada RKS pengadaan?,Compliance,2026-03-23,0.988,internal_kb,True,True,synthetic
+ANS-0196,Berapa lama masa berlaku kontrak vendor laptop 2024?,Retail Banking,2025-05-18,0.646,external_web,True,True,synthetic
+ANS-0197,Apa syarat approval untuk pengadaan di atas Rp200 juta?,Finance & Risk,2026-01-31,0.904,internal_kb,True,True,synthetic
+ANS-0198,Siapa yang berwenang menyetujui perubahan spesifikasi pengadaan?,Operations,2025-07-26,0.974,internal_kb,True,True,synthetic
+ANS-0199,Dokumen apa yang wajib dilampirkan pada RKS pengadaan?,IT & Digital,2025-02-02,0.926,internal_kb,True,True,synthetic
+ANS-0200,Bagaimana prosedur jika ditemukan indikasi harga di luar benchmark pasar?,IT & Digital,2024-09-30,0.969,internal_kb,True,True,synthetic
+ANS-0201,Apa dasar hukum penyusunan HPS untuk pengadaan laptop?,Operations,2026-02-16,0.891,user_provided,True,True,synthetic
+ANS-0202,Apa syarat approval untuk pengadaan di atas Rp200 juta?,Retail Banking,2026-02-22,0.877,internal_kb,True,True,synthetic
+ANS-0203,Berapa lama masa berlaku kontrak vendor laptop 2024?,Compliance,2024-09-25,0.937,internal_kb,True,True,synthetic
+ANS-0204,Bagaimana prosedur jika ditemukan indikasi harga di luar benchmark pasar?,Operations,2024-09-27,0.871,internal_kb,True,True,synthetic
+ANS-0205,Apa perbedaan RAB Direktorat Bidang dan RAB reguler?,IT & Digital,2024-09-22,0.57,internal_kb,True,True,synthetic
+ANS-0206,Siapa yang berwenang menyetujui perubahan spesifikasi pengadaan?,Finance & Risk,2025-05-20,0.868,internal_kb,True,True,synthetic
+ANS-0207,Apa dasar hukum penyusunan HPS untuk pengadaan laptop?,IT & Digital,2024-11-14,0.93,external_web,True,True,synthetic
+ANS-0208,Berapa ambang batas nilai yang memerlukan tanda tangan Direktur?,Operations,2026-03-06,0.945,internal_kb,True,True,synthetic
+ANS-0209,Bagaimana prosedur jika ditemukan indikasi harga di luar benchmark pasar?,IT & Digital,2025-12-22,0.941,external_web,True,True,synthetic
+ANS-0210,Apa syarat approval untuk pengadaan di atas Rp200 juta?,Corporate Affairs,2024-12-24,0.94,user_provided,True,False,synthetic
+ANS-0211,Apakah kontrak vendor laptop saat ini sudah termasuk PPN?,Compliance,2026-06-11,0.913,user_provided,True,False,synthetic
+ANS-0212,Apakah kontrak vendor laptop saat ini sudah termasuk PPN?,IT & Digital,2025-10-17,0.613,external_web,True,True,synthetic
+ANS-0213,Apa perbedaan RAB Direktorat Bidang dan RAB reguler?,Operations,2025-01-18,0.744,user_provided,True,True,synthetic
+ANS-0214,Siapa yang berwenang menyetujui perubahan spesifikasi pengadaan?,Finance & Risk,2024-10-23,0.861,internal_kb,True,True,synthetic
+ANS-0215,Dokumen apa yang wajib dilampirkan pada RKS pengadaan?,Operations,2025-02-02,0.941,internal_kb,True,True,synthetic
+ANS-0216,Siapa yang berwenang menyetujui perubahan spesifikasi pengadaan?,IT & Digital,2024-10-22,0.941,internal_kb,True,True,synthetic
+ANS-0217,Apa perbedaan RAB Direktorat Bidang dan RAB reguler?,Operations,2025-06-25,0.893,external_web,True,True,synthetic
+ANS-0218,Apa dasar hukum penyusunan HPS untuk pengadaan laptop?,Compliance,2024-09-25,0.764,internal_kb,True,True,synthetic
+ANS-0219,Apa syarat approval untuk pengadaan di atas Rp200 juta?,IT & Digital,2024-11-15,0.907,internal_kb,True,True,synthetic
+ANS-0220,Apakah ada ketentuan margin vendor yang dibakukan?,Retail Banking,2025-08-18,0.894,internal_kb,True,True,synthetic
+ANS-0221,Berapa ambang batas nilai yang memerlukan tanda tangan Direktur?,IT & Digital,2024-10-01,0.97,internal_kb,True,True,synthetic
+ANS-0222,Apa dasar hukum penyusunan HPS untuk pengadaan laptop?,Retail Banking,2026-01-05,0.928,internal_kb,True,True,synthetic
+ANS-0223,Apakah ada ketentuan margin vendor yang dibakukan?,Retail Banking,2025-06-14,0.552,internal_kb,True,True,synthetic
+ANS-0224,Siapa yang berwenang menyetujui perubahan spesifikasi pengadaan?,Finance & Risk,2026-04-11,0.843,user_provided,True,True,synthetic
+ANS-0225,Bagaimana prosedur jika ditemukan indikasi harga di luar benchmark pasar?,Retail Banking,2026-07-12,0.971,internal_kb,True,True,synthetic
+ANS-0226,Apakah kontrak vendor laptop saat ini sudah termasuk PPN?,Operations,2025-08-22,0.614,internal_kb,True,True,synthetic
+ANS-0227,Berapa lama masa berlaku kontrak vendor laptop 2024?,Compliance,2025-03-20,0.418,user_provided,True,True,synthetic
+ANS-0228,Apa dasar hukum penyusunan HPS untuk pengadaan laptop?,Retail Banking,2025-06-19,0.776,internal_kb,True,True,synthetic
+ANS-0229,Apakah ada ketentuan margin vendor yang dibakukan?,Operations,2025-05-19,0.481,internal_kb,True,True,synthetic
+ANS-0230,Apa dasar hukum penyusunan HPS untuk pengadaan laptop?,Finance & Risk,2025-10-21,0.959,user_provided,True,True,synthetic
+ANS-0231,Apa perbedaan RAB Direktorat Bidang dan RAB reguler?,IT & Digital,2025-02-24,0.983,internal_kb,True,True,synthetic
+ANS-0232,Apakah ada ketentuan margin vendor yang dibakukan?,Corporate Affairs,2024-09-12,0.955,external_web,True,True,synthetic
+ANS-0233,Dokumen apa yang wajib dilampirkan pada RKS pengadaan?,Retail Banking,2026-05-17,0.902,internal_kb,True,True,synthetic
+ANS-0234,Dokumen apa yang wajib dilampirkan pada RKS pengadaan?,Finance & Risk,2024-09-18,0.871,user_provided,True,True,synthetic
+ANS-0235,Berapa lama masa berlaku kontrak vendor laptop 2024?,Retail Banking,2026-01-28,0.981,internal_kb,True,False,synthetic
+ANS-0236,Apakah kontrak vendor laptop saat ini sudah termasuk PPN?,Retail Banking,2026-07-18,0.95,internal_kb,True,True,synthetic
+ANS-0237,Bagaimana prosedur jika ditemukan indikasi harga di luar benchmark pasar?,IT & Digital,2025-04-08,0.747,internal_kb,True,True,synthetic
+ANS-0238,Berapa ambang batas nilai yang memerlukan tanda tangan Direktur?,Corporate Affairs,2025-11-27,0.762,internal_kb,True,True,synthetic
+ANS-0239,Siapa yang berwenang menyetujui perubahan spesifikasi pengadaan?,Compliance,2024-11-30,0.877,internal_kb,True,False,synthetic
+ANS-0240,Apakah kontrak vendor laptop saat ini sudah termasuk PPN?,IT & Digital,2026-03-29,0.929,internal_kb,True,True,synthetic
+ANS-0241,Bagaimana prosedur jika ditemukan indikasi harga di luar benchmark pasar?,Corporate Affairs,2026-08-14,0.892,external_web,True,True,synthetic
+ANS-0242,Siapa yang berwenang menyetujui perubahan spesifikasi pengadaan?,Operations,2025-09-23,0.87,internal_kb,True,True,synthetic
+ANS-0243,Apakah ada ketentuan margin vendor yang dibakukan?,Operations,2025-05-03,0.92,internal_kb,True,True,synthetic
+ANS-0244,Apa syarat approval untuk pengadaan di atas Rp200 juta?,Compliance,2025-07-18,0.989,internal_kb,True,True,synthetic
+ANS-0245,Apa syarat approval untuk pengadaan di atas Rp200 juta?,Retail Banking,2025-01-08,0.981,internal_kb,True,True,synthetic
+ANS-0246,Siapa yang berwenang menyetujui perubahan spesifikasi pengadaan?,Finance & Risk,2026-07-18,0.951,internal_kb,True,True,synthetic
+ANS-0247,Apakah ada ketentuan margin vendor yang dibakukan?,Compliance,2026-07-14,0.898,internal_kb,True,True,synthetic
+ANS-0248,Siapa yang berwenang menyetujui perubahan spesifikasi pengadaan?,IT & Digital,2025-02-19,0.982,internal_kb,True,True,synthetic
+ANS-0249,Apakah kontrak vendor laptop saat ini sudah termasuk PPN?,Compliance,2025-01-19,0.935,user_provided,True,True,synthetic
+ANS-0250,Apa dasar hukum penyusunan HPS untuk pengadaan laptop?,Corporate Affairs,2026-08-03,0.915,internal_kb,True,True,synthetic
+ANS-0251,Berapa lama masa berlaku kontrak vendor laptop 2024?,Retail Banking,2025-03-06,0.8,user_provided,True,True,synthetic
+ANS-0252,Apakah kontrak vendor laptop saat ini sudah termasuk PPN?,Finance & Risk,2024-12-28,0.866,user_provided,True,True,synthetic
+ANS-0253,Apa dasar hukum penyusunan HPS untuk pengadaan laptop?,Corporate Affairs,2025-10-26,0.904,internal_kb,True,True,synthetic
+ANS-0254,Dokumen apa yang wajib dilampirkan pada RKS pengadaan?,Corporate Affairs,2025-02-06,0.967,internal_kb,True,True,synthetic
+ANS-0255,Dokumen apa yang wajib dilampirkan pada RKS pengadaan?,Finance & Risk,2026-05-21,0.756,external_web,True,True,synthetic
+ANS-0256,Dokumen apa yang wajib dilampirkan pada RKS pengadaan?,Corporate Affairs,2025-01-20,0.905,internal_kb,True,True,synthetic
+ANS-0257,Apa dasar hukum penyusunan HPS untuk pengadaan laptop?,Corporate Affairs,2026-08-04,0.947,internal_kb,True,True,synthetic
+ANS-0258,Apa dasar hukum penyusunan HPS untuk pengadaan laptop?,Corporate Affairs,2025-01-11,0.985,internal_kb,True,True,synthetic
+ANS-0259,Dokumen apa yang wajib dilampirkan pada RKS pengadaan?,Retail Banking,2025-09-24,0.756,internal_kb,True,True,synthetic
+ANS-0260,Apa dasar hukum penyusunan HPS untuk pengadaan laptop?,Operations,2025-09-21,0.958,internal_kb,True,True,synthetic
+ANS-0261,Apakah kontrak vendor laptop saat ini sudah termasuk PPN?,IT & Digital,2026-04-01,0.914,internal_kb,True,True,synthetic
+ANS-0262,Apakah ada ketentuan margin vendor yang dibakukan?,Compliance,2024-12-17,0.628,external_web,True,True,synthetic
+ANS-0263,Dokumen apa yang wajib dilampirkan pada RKS pengadaan?,Finance & Risk,2024-09-16,0.918,internal_kb,True,False,synthetic
+ANS-0264,Bagaimana prosedur jika ditemukan indikasi harga di luar benchmark pasar?,IT & Digital,2026-01-30,0.937,internal_kb,True,True,synthetic
+ANS-0265,Apakah kontrak vendor laptop saat ini sudah termasuk PPN?,Operations,2026-08-02,0.985,internal_kb,True,True,synthetic
+ANS-0266,Siapa yang berwenang menyetujui perubahan spesifikasi pengadaan?,Compliance,2024-12-28,0.891,internal_kb,True,True,synthetic
+ANS-0267,Dokumen apa yang wajib dilampirkan pada RKS pengadaan?,IT & Digital,2025-04-25,0.678,user_provided,True,True,synthetic
+ANS-0268,Berapa ambang batas nilai yang memerlukan tanda tangan Direktur?,Operations,2024-09-16,0.878,internal_kb,True,True,synthetic
+ANS-0269,Bagaimana prosedur jika ditemukan indikasi harga di luar benchmark pasar?,Finance & Risk,2025-11-12,0.887,external_web,True,True,synthetic
+ANS-0270,Dokumen apa yang wajib dilampirkan pada RKS pengadaan?,Retail Banking,2026-02-23,0.98,internal_kb,True,True,synthetic
+ANS-0271,Apakah kontrak vendor laptop saat ini sudah termasuk PPN?,Operations,2026-07-12,0.588,internal_kb,True,True,synthetic
+ANS-0272,Apa syarat approval untuk pengadaan di atas Rp200 juta?,Operations,2025-09-09,0.87,internal_kb,True,True,synthetic
+ANS-0273,Apakah kontrak vendor laptop saat ini sudah termasuk PPN?,Retail Banking,2025-01-23,0.968,internal_kb,True,True,synthetic
+ANS-0274,Dokumen apa yang wajib dilampirkan pada RKS pengadaan?,IT & Digital,2024-10-02,0.959,internal_kb,True,True,synthetic
+ANS-0275,Apa syarat approval untuk pengadaan di atas Rp200 juta?,Corporate Affairs,2026-07-05,0.766,external_web,True,True,synthetic
+ANS-0276,Apakah kontrak vendor laptop saat ini sudah termasuk PPN?,Operations,2025-04-20,0.905,internal_kb,True,True,synthetic
+ANS-0277,Bagaimana prosedur jika ditemukan indikasi harga di luar benchmark pasar?,Compliance,2026-02-21,0.908,internal_kb,True,True,synthetic
+ANS-0278,Berapa lama masa berlaku kontrak vendor laptop 2024?,IT & Digital,2024-11-18,0.921,internal_kb,True,True,synthetic
+ANS-0279,Dokumen apa yang wajib dilampirkan pada RKS pengadaan?,Operations,2025-05-10,0.912,external_web,True,True,synthetic
+ANS-0280,Siapa yang berwenang menyetujui perubahan spesifikasi pengadaan?,Operations,2025-07-23,0.983,internal_kb,True,True,synthetic
+ANS-0281,Apa perbedaan RAB Direktorat Bidang dan RAB reguler?,Operations,2025-05-07,0.896,internal_kb,True,True,synthetic
+ANS-0282,Siapa yang berwenang menyetujui perubahan spesifikasi pengadaan?,Retail Banking,2026-04-23,0.888,internal_kb,True,True,synthetic
+ANS-0283,Berapa ambang batas nilai yang memerlukan tanda tangan Direktur?,Retail Banking,2026-06-07,0.908,external_web,True,True,synthetic
+ANS-0284,Dokumen apa yang wajib dilampirkan pada RKS pengadaan?,Corporate Affairs,2025-05-18,0.9,internal_kb,True,True,synthetic
+ANS-0285,Bagaimana prosedur jika ditemukan indikasi harga di luar benchmark pasar?,Operations,2025-09-27,0.916,internal_kb,True,True,synthetic
+ANS-0286,Apakah ada ketentuan margin vendor yang dibakukan?,Retail Banking,2024-09-10,0.817,internal_kb,True,True,synthetic
+ANS-0287,Dokumen apa yang wajib dilampirkan pada RKS pengadaan?,Compliance,2024-10-28,0.885,internal_kb,True,True,synthetic
+ANS-0288,Apakah kontrak vendor laptop saat ini sudah termasuk PPN?,Operations,2024-11-08,0.949,user_provided,True,True,synthetic
+ANS-0289,Berapa lama masa berlaku kontrak vendor laptop 2024?,Compliance,2025-05-14,0.934,internal_kb,True,True,synthetic
+ANS-0290,Berapa ambang batas nilai yang memerlukan tanda tangan Direktur?,Operations,2024-09-09,0.942,internal_kb,True,True,synthetic
+ANS-0291,Apa syarat approval untuk pengadaan di atas Rp200 juta?,Corporate Affairs,2025-09-14,0.802,internal_kb,True,True,synthetic
+ANS-0292,Apa syarat approval untuk pengadaan di atas Rp200 juta?,Operations,2026-04-02,0.875,user_provided,True,True,synthetic
+ANS-0293,Berapa ambang batas nilai yang memerlukan tanda tangan Direktur?,Compliance,2026-08-08,0.908,internal_kb,True,True,synthetic
+ANS-0294,Apakah kontrak vendor laptop saat ini sudah termasuk PPN?,IT & Digital,2025-06-27,0.684,internal_kb,True,True,synthetic
+ANS-0295,Dokumen apa yang wajib dilampirkan pada RKS pengadaan?,Finance & Risk,2026-02-03,0.943,internal_kb,True,True,synthetic
+ANS-0296,Berapa ambang batas nilai yang memerlukan tanda tangan Direktur?,Corporate Affairs,2025-03-12,0.915,internal_kb,True,True,synthetic
+ANS-0297,Berapa ambang batas nilai yang memerlukan tanda tangan Direktur?,Finance & Risk,2025-10-25,0.91,external_web,True,True,synthetic
+ANS-0298,Apakah kontrak vendor laptop saat ini sudah termasuk PPN?,IT & Digital,2024-10-22,0.947,internal_kb,True,True,synthetic
+ANS-0299,Siapa yang berwenang menyetujui perubahan spesifikasi pengadaan?,Compliance,2026-08-09,0.931,user_provided,True,True,synthetic
+ANS-0300,Dokumen apa yang wajib dilampirkan pada RKS pengadaan?,Compliance,2026-01-08,0.882,internal_kb,True,True,synthetic
