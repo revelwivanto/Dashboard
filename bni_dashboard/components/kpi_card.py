@@ -7,7 +7,7 @@ ABOVE the number, and data-type badges are off by default. Pass an explicit
 `data_type` only where a badge is genuinely wanted.
 """
 import streamlit.components.v1 as components
-from components.styling import NAVY, ORANGE, TEXT_MUTED, CARD, BORDER, DATA_TYPE_COLORS
+from components.styling import TEXT, TEXT_MUTED, CARD, BORDER, DATA_TYPE_COLORS
 
 _BADGE_LABELS = {
     "observed": "Observed / Real", "synthetic": "Synthetic", "illustrative": "Illustrative",
@@ -72,10 +72,10 @@ def kpi_row(cards: list[dict], height: int | None = None):
                    padding:16px 18px; box-shadow:none; position:relative; }}
       .kpi-badge {{ display:inline-block; padding:2px 9px; border-radius:999px; font-size:0.7rem;
                     font-weight:700; letter-spacing:0.03em; text-transform:uppercase; margin-bottom:10px; }}
-      .kpi-label {{ color:{NAVY}; font-size:1.02rem; font-weight:700; line-height:1.35; margin-bottom:6px; }}
-      .kpi-value {{ font-size:2.35rem; font-weight:800; color:{NAVY}; line-height:1.1; }}
-      .kpi-pending {{ color:{TEXT_MUTED}; }}
-      .kpi-note {{ color:{TEXT_MUTED}; font-size:0.88rem; margin-top:7px; border-top:1px dashed {BORDER}; padding-top:7px; }}
+      .kpi-label {{ color:{TEXT}; font-size:1.02rem; font-weight:700; line-height:1.35; margin-bottom:6px; }}
+      .kpi-value {{ font-size:2.35rem; font-weight:800; color:{TEXT}; line-height:1.1; }}
+      .kpi-pending {{ color:{TEXT}; }}
+      .kpi-note {{ color:{TEXT}; font-size:0.88rem; margin-top:7px; border-top:1px dashed {BORDER}; padding-top:7px; }}
     </style>
     <script>
       const els = document.querySelectorAll('.kpi-value[data-target]');

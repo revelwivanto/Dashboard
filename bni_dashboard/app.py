@@ -7,7 +7,7 @@ import plotly.express as px
 import plotly.graph_objects as go
 
 from components.styling import (inject_global_css, data_badge, NAVY, NAVY_LIGHT, ORANGE,
-                                TEXT_MUTED, CATEGORICAL_SEQUENCE, GREEN, AMBER,
+                                TEXT, TEXT_MUTED, CATEGORICAL_SEQUENCE, GREEN, AMBER,
                                 WONDR_TEAL as TEAL_ACCENT, WONDR_LIME as LIME_ACCENT)
 from components.kpi_card import kpi_row
 from components.flow import (provenance_chain_html, conditional_requirements_flow_html,
@@ -24,8 +24,8 @@ inject_global_css()
 # ---------------------------------------------------------------- header --
 st.markdown(f"""
 <div class="bni-header">
-  <div style="font-size:0.75rem;letter-spacing:0.1em;color:#333333;text-transform:uppercase;">Credits to Hafizh Yasril and Revel</div>
-  <h1 style="color:#333333;margin:6px 0 0 0;">Legal Document Creation, Citation with RAG <span class="accent">&amp;</span> Procurement Efficiency / Anti-Corruption</h1>
+  <div style="font-size:0.75rem;letter-spacing:0.1em;color:{TEXT};text-transform:uppercase;">Credits to Hafizh Yasril and Revel</div>
+  <h1 style="color:{TEXT};margin:6px 0 0 0;">Legal Document Creation, Citation with RAG <span class="accent">&amp;</span> Procurement Efficiency / Anti-Corruption</h1>
   <div class="subtitle">Evidence-based laptop procurement benchmarking, RAG-grounded legal document intelligence, and governance indicators — for BNI management review.</div>
 </div>
 """, unsafe_allow_html=True)
@@ -249,8 +249,8 @@ if page == PAGES[0]:
         hourly_rate = rc.hourly_rate_rp(salary_annual / 12, 173.0)
         a1, a2, a3 = st.columns([2, 1, 1])
         a1.markdown(
-            f"<div style='color:{TEXT_MUTED};font-size:0.85rem;'>Gaji tahunan benchmark (Payscale)</div>"
-            f"<div style='font-size:2.4rem;font-weight:800;color:{NAVY};line-height:1.15;'>{pc.fmt_rp(salary_annual)}</div>",
+            f"<div style='color:{TEXT};font-size:0.85rem;'>Gaji tahunan benchmark (Payscale)</div>"
+            f"<div style='font-size:2.4rem;font-weight:800;color:{TEXT};line-height:1.15;'>{pc.fmt_rp(salary_annual)}</div>",
             unsafe_allow_html=True)
         a2.metric("Jam kerja/bulan", "173")
         a3.metric("Tarif per jam", pc.fmt_rp(hourly_rate))
@@ -574,7 +574,7 @@ elif page == PAGES[1]:
 
         lo, hi = (cur - 1) * page_size, min(cur * page_size, total_rows)
         n6.markdown(
-            f"<div style='padding-top:6px;font-weight:700;color:{NAVY};'>"
+            f"<div style='padding-top:6px;font-weight:700;color:{TEXT};'>"
             f"[{hi:,}/{total_rows:,}] &nbsp;·&nbsp; halaman {cur:,} dari {total_pages:,}</div>",
             unsafe_allow_html=True)
 

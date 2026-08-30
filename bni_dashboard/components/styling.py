@@ -55,14 +55,17 @@ def inject_global_css():
     <style>
     .stApp {{ background: {BG}; font-size: 1.1rem; }}
     html, body, [class*="css"] {{ font-family: 'Inter', 'Segoe UI', system-ui, sans-serif; }}
-    h1, h2, h3 {{ color: {NAVY}; font-weight: 700; }}
-    h4, h5 {{ color: {NAVY}; font-weight: 700; }}
+    h1, h2, h3 {{ color: {TEXT}; font-weight: 700; }}
+    h4, h5 {{ color: {TEXT}; font-weight: 700; }}
     h4 {{ font-size: 1.35rem; }}
     h5 {{ font-size: 1.15rem; }}
     /* Baseline bump: captions and table text were the two things that got
-       unreadable first, so they are raised more than the body copy. */
-    [data-testid="stCaptionContainer"], [data-testid="stCaptionContainer"] p {{ font-size: 0.97rem; }}
-    [data-testid="stMarkdownContainer"] p, [data-testid="stMarkdownContainer"] li {{ font-size: 1.08rem; }}
+       unreadable first, so they are raised more than the body copy. All
+       general text is pinned to one darkest color for consistent readability
+       on the light background — colored badges, tags and status pills are
+       deliberate coding and stay untouched. */
+    [data-testid="stCaptionContainer"], [data-testid="stCaptionContainer"] p {{ font-size: 0.97rem; color: {TEXT}; }}
+    [data-testid="stMarkdownContainer"] p, [data-testid="stMarkdownContainer"] li {{ font-size: 1.08rem; color: {TEXT}; }}
     [data-testid="stDataFrame"] {{ font-size: 1.02rem; }}
     [data-testid="stMetricValue"] {{ font-size: 1.9rem; }}
     [data-testid="stMetricLabel"], [data-testid="stMetricLabel"] p {{ font-size: 0.98rem; }}
@@ -74,7 +77,7 @@ def inject_global_css():
     [data-baseweb="tag"] {{ background: {WONDR_PURPLE} !important; }}
     [data-testid="stSlider"] [role="slider"] {{ background: {WONDR_ORANGE} !important; }}
     .stButton button[kind="primary"] {{ background: {WONDR_ORANGE}; border-color: {WONDR_ORANGE}; }}
-    [data-testid="stMetricValue"] {{ color: {WONDR_PURPLE_DEEP}; }}
+    [data-testid="stMetricValue"] {{ color: {TEXT}; }}
     /* Pipeline / lifecycle stage labels (Raw Listings, Cleaned, Valid, ...)
        read as headings, so they are set bold wherever Plotly renders them. */
     .js-plotly-plot .yaxislayer-above text, .js-plotly-plot .xaxislayer-above text {{ font-weight: 600 !important; }}
@@ -91,8 +94,8 @@ def inject_global_css():
         border-radius: 10px; padding: 6px 10px; margin-bottom: 2px; transition: background .15s; }}
     [data-testid="stSidebar"] .stRadio [role="radiogroup"] > label:hover {{ background: rgba(255,106,0,0.18); }}
     [data-testid="stSidebar"] [role="radiogroup"] input:checked + div {{ color: {WONDR_LIME} !important; }}
-    [data-testid="stMetricValue"] {{ color: {NAVY}; font-weight: 700; }}
-    [data-testid="stMetricLabel"] {{ color: {TEXT_MUTED}; }}
+    [data-testid="stMetricValue"] {{ color: {TEXT}; font-weight: 700; }}
+    [data-testid="stMetricLabel"] {{ color: {TEXT}; }}
     /* Container chrome is deliberately neutral: no accent borders, tinted
        fills or drop shadows on bounding boxes. Colour is reserved for data. */
     div[data-testid="stExpander"] {{ background: {CARD}; border: 1px solid {BORDER};
@@ -115,11 +118,11 @@ def inject_global_css():
             radial-gradient(circle at 74% 96%, {WONDR_PURPLE}dd 0 10%, transparent 10.5%),
             radial-gradient(circle at 60% 8%, {WONDR_CREAM}bb 0 7%, transparent 7.5%),
             linear-gradient(120deg, {WONDR_ORANGE} 0%, {WONDR_ORANGE_DEEP} 100%);
-        padding: 28px 32px; border-radius: 14px; color: #333333; margin-bottom: 18px;
+        padding: 28px 32px; border-radius: 14px; color: {TEXT}; margin-bottom: 18px;
         box-shadow: none;
     }}
     .bni-header .accent {{ color: {WONDR_LIME}; }}
-    .bni-header .subtitle {{ color: #333333; font-size: 1.0rem; margin-top: 6px; }}
+    .bni-header .subtitle {{ color: {TEXT}; font-size: 1.0rem; margin-top: 6px; }}
     .bni-badge {{ display:inline-block; padding:2px 10px; border-radius:999px; font-size:0.72rem;
                   font-weight:700; letter-spacing:0.02em; text-transform:uppercase; }}
     .section-tag {{ color:{ORANGE}; font-weight:700; letter-spacing:0.08em; font-size:0.78rem;
